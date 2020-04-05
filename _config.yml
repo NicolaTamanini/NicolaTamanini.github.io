@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: Nicola Tamanini
+logo: Nicola.jpg
 description: Ciao I am Nicola. I come in peace.
-show_downloads: True
+show_downloads: False
 navigation:
   - title: Home
     url: /
