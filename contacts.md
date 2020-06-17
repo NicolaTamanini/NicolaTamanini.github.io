@@ -1,4 +1,4 @@
-### Contact details
+# Contact details
 
 Dr Nicola Tamanini
 
