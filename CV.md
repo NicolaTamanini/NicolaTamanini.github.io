@@ -1,3 +1,3 @@
-### CV
+# CV
 
 I obtained my Ph.D. in applied mathematics at University College London under the supervision of Dr. Christian G. Boehmer in 2014. The main topics of my Ph.D. research were alternative theories of gravity and dynamical systems applied to cosmology. I then undertook my first postdoc at the Institut de Physique Théorique at CEA Saclay in France, where I worked on cosmology and gravitational waves with Dr. Chiara Caprini from 2014 till 2017. In particular I focused my research on cosmological models with interactions between dark matter and dark energy and I joined the LISA consortium to produce cosmological forecasts for the LISA mission. In 2017 I joined the AEI where I now work on both cosmology and gravitational waves, and specifically on how to probe the expansion of the Universe using "standard sirens" with LIGO/Virgo and LISA.Nicola Tamanini's CV...
