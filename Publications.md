@@ -1,7 +1,7 @@
-### Publications
+# Publications
 
-# Publication in peer-review journals
+### Publication in peer-review journals
 
-# White papers
+### White papers
 
-# Conference proceedings
+### Conference proceedings
