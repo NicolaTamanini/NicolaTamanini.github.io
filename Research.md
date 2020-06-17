@@ -1,3 +1,3 @@
-## RESEARCH
+# Research
 
 Nicola Tamanini's research...
