@@ -2,7 +2,7 @@
 
 Dr Nicola Tamanini
 
-Junior Scientist/Postdoc\\
+Junior Scientist/Postdoc\n
 Astrophysical and Cosmological Relativity
 Max Planck Institute for Gravitational Physics (Albert Einstein Institute)
 
