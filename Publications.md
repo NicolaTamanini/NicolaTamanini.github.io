@@ -16,4 +16,11 @@ Here you can find all my publications and links to their records on the most com
 
 ### Outreach
 
+### PhD thesis
+
+N. Tamanini,
+<i>Dynamical systems in dark energy models<\i>,
+University College London (2014), [http://discovery.ucl.ac.uk/1456304]
+
+
 
