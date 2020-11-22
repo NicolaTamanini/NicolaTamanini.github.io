@@ -25,7 +25,7 @@ Definition of Good Tetrads for f(T) Gravity,
 Proceedings of the 13th Marcell Grossmann Meeting, [[doi:10.1142/9789814623995_0148](https://www.worldscientific.com/doi/abs/10.1142/9789814623995_0148)] [[arXiv:1304.0672](https://arxiv.org/abs/1304.0672)]
 
 
-### White papers
+### White papers & other documents (not peer-reviewed)
 
 1. J. Baker et al., _High angular resolution gravitational wave astronomy_,
 White paper submitted to ESA’s Voyage 2050 call (2019), [[arXiv:1908.11410](https://arxiv.org/abs/1908.11410)]
