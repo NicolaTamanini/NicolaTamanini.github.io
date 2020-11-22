@@ -14,15 +14,15 @@ Here you can find all my publications and links to their records on the most com
 
 1. N. Tamanini,
 _Late time cosmology with LISA: probing the cosmic expansion with massive black hole binary mergers as standard sirens_,
-J. Phys. Conf. Ser. 840 (2017) no.1, 012029 [doi:10.1088/1742-6596/840/1/012029](https://iopscience.iop.org/article/10.1088/1742-6596/840/1/012029) [[arXiv:1612.02634](https://arxiv.org/abs/1612.02634)]
+J. Phys. Conf. Ser. 840 (2017) no.1, 012029 [[doi:10.1088/1742-6596/840/1/012029](https://iopscience.iop.org/article/10.1088/1742-6596/840/1/012029)] [[arXiv:1612.02634](https://arxiv.org/abs/1612.02634)]
 
 2. N. Tamanini,
 The Biconnection Variational Principle for General Relativity,
-Proceedings of the 13th Marcell Grossmann Meeting, [doi:10.1142/9789814623995 0313] [arXiv:1304.0675 [gr-qc]]
+Proceedings of the 13th Marcell Grossmann Meeting, [[doi:10.1142/9789814623995_0313](https://www.worldscientific.com/doi/abs/10.1142/9789814623995_0313)] [[arXiv:1304.0675](https://arxiv.org/abs/1304.0675)]
 
 1. N. Tamanini and C. G. Boehmer,
 Definition of Good Tetrads for f(T) Gravity,
-Proceedings of the 13th Marcell Grossmann Meeting, [doi:10.1142/9789814623995 0148] [arXiv:1304.0672 [gr-qc]]
+Proceedings of the 13th Marcell Grossmann Meeting, [[doi:10.1142/9789814623995_0148](https://www.worldscientific.com/doi/abs/10.1142/9789814623995_0148)] [[arXiv:1304.0672](https://arxiv.org/abs/1304.0672)]
 
 
 ### White papers
