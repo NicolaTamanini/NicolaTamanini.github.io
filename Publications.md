@@ -14,18 +14,16 @@ Here you can find all my publications and links to their records on the most com
 
 ### White papers
 
-{: reversed="reversed"}
-
-5. J. Baker et al., _High angular resolution gravitational wave astronomy_,
+1. J. Baker et al., _High angular resolution gravitational wave astronomy_,
 White paper submitted to ESA’s Voyage 2050 call (2019), [[arXiv:1908.11410](https://arxiv.org/abs/1908.11410)]
 
-4. A. Sesana et al., _Unveiling the Gravitational Universe at μ-Hz Frequencies_,
+1. A. Sesana et al., _Unveiling the Gravitational Universe at μ-Hz Frequencies_,
 White paper submitted to ESA’s Voyage 2050 call (2019), [[arXiv:1908.11391](https://arxiv.org/abs/1908.11391)]
 
-3. B. S. Sathyaprakash et al., _Cosmology and the Early Universe_,
+1. B. S. Sathyaprakash et al., _Cosmology and the Early Universe_,
 White paper submitted to Astro2020 (2020 Decadal Survey on Astronomy and Astrophysics), [[arXiv:1903.09260](https://arxiv.org/abs/1903.09260)]
 
-2. R. Caldwell et al., _Astro2020 Science White Paper: Cosmology with a Space-Based Gravitational Wave Observatory_,
+1. R. Caldwell et al., _Astro2020 Science White Paper: Cosmology with a Space-Based Gravitational Wave Observatory_,
 White paper submitted to Astro2020 (2020 Decadal Survey on Astronomy and Astrophysics), [[arXiv:1903.04657](https://arxiv.org/abs/1903.04657)]
 
 1. H. Audley et al (LISA consortium), _Laser Interferometer Space Antenna_,
