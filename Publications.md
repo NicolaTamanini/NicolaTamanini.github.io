@@ -14,6 +14,8 @@ Here you can find all my publications and links to their records on the most com
 
 ### White papers
 
+{: reversed="reversed"}
+
 5. J. Baker et al., _High angular resolution gravitational wave astronomy_,
 White paper submitted to ESA’s Voyage 2050 call (2019), [[arXiv:1908.11410](https://arxiv.org/abs/1908.11410)]
 
