@@ -16,13 +16,13 @@ Here you can find all my publications and links to their records on the most com
 
 ### Outreach
 
-N. Tamanini & C. Danielski,
+- N. Tamanini & C. Danielski,
 <i>Don’t Panic! Gravitational waves can find new planets</i>,
 LIGO Magazine (2019) [[URL](https://www.ligo.org/magazine/LIGO-magazine-issue15.pdf#page=20)]
 
 ### PhD thesis
 
-N. Tamanini,
+- N. Tamanini,
 <i>Dynamical systems in dark energy models</i>,
 University College London (2014), [[URL](http://discovery.ucl.ac.uk/1456304)]
 
