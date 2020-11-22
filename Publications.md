@@ -14,7 +14,7 @@ Here you can find all my publications and links to their records on the most com
 
 1. N. Tamanini,
 _Late time cosmology with LISA: probing the cosmic expansion with massive black hole binary mergers as standard sirens_,
-J. Phys. Conf. Ser. 840 (2017) no.1, 012029 [[doi](doi:10.1088/1742-6596/840/1/012029)] [[arXiv:1612.02634]]
+J. Phys. Conf. Ser. 840 (2017) no.1, 012029 [doi:10.1088/1742-6596/840/1/012029](https://iopscience.iop.org/article/10.1088/1742-6596/840/1/012029) [[arXiv:1612.02634](https://arxiv.org/abs/1612.02634)]
 
 2. N. Tamanini,
 The Biconnection Variational Principle for General Relativity,
