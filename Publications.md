@@ -10,6 +10,24 @@ Here you can find all my publications and links to their records on the most com
 
 ### Publication in peer-review journals
 
+1. N. Tamanini and C. Danielski,
+The gravitational-wave detection of exoplanets orbiting white dwarf binaries using LISA,
+Nature Astronomy (2019) [doi:10.1038/s41550-019-0807-y] [arXiv:1812.04330 [astro-ph.EP]]
+
+46. N. Tamanini, C. Caprini, E. Barausse, A. Sesana, A. Klein and A. Petiteau,
+Science with the space-based interferometer eLISA. III: Probing the expansion of the Universe using gravitational wave standard sirens,
+JCAP 1604 (2016) no.04, 002 [doi:10.1088/1475-7516/2016/04/002] [arXiv:1601.07112 [astro-ph.CO]]
+
+45. N. Tamanini,
+Phenomenological models of dark energy interacting with dark matter,
+Phys. Rev. D 92 (2015) 4, 043524 [doi:10.1103/PhysRevD.92.043524] [arXiv:1504.07397 [gr-qc]]
+
+44. N. Tamanini, A. Klein, C. Bonvin, E. Barausse and C. Caprini,
+Peculiar acceleration of stellar-origin black hole binaries: Measurement and biases with LISA,
+Phys. Rev. D 101 (2020) no.6, 063002 [doi:10.1103/PhysRevD.101.063002] [arXiv:1907.02018 [astro-ph.IM]]
+
+43. S. Bahamonde, C. G. Boehmer, S. Carloni, E. J. Copeland, W. Fang and N. Tamanini, Dynamical systems applied to cosmology: dark energy and modified gravity, Phys. Rept. 775-777 (2018) 1 [doi:10.1016/j.physrep.2018.09.001] [arXiv:1712.03107 [gr-qc]]
+
 1. M. A. Sedda et al.,
 The Missing Link in Gravitational-Wave Astronomy: Discoveries waiting in the decihertz range,
 White paper submitted to ESA’s Voyage 2050 call (2019). To appear in Class. Quant. Grav. (2020). [arXiv:1908.11375 [gr-qc]]
