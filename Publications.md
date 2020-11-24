@@ -101,55 +101,55 @@ Phys. Rev. D 95 (2017) no.2, 023515 [doi:10.1103/PhysRevD.95.023515] [arXiv:1701
 
 26. C. Bonvin, C. Caprini, R. Sturani and N. Tamanini,
 _Effect of matter structure on the gravitational waveform_,
-Phys. Rev. D 95 (2017) no.4, 044029 [doi:10.1103/PhysRevD.95.044029] [arXiv:1609.08093 [astro-ph.CO]]
+Phys. Rev. D 95 (2017) no.4, 044029 [[doi:10.1103/PhysRevD.95.044029](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.044029)] [[arXiv:1609.08093](https://arxiv.org/abs/1609.08093)]
 
 25. C. Caprini and N. Tamanini,
 _Constraining early and interacting dark energy with gravitational wave standard sirens: the potential of the eLISA mission_,
-JCAP 1610 (2016) no.10, 006 [doi:10.1088/1475-7516/2016/10/006] [arXiv:1607.08755 [astro-ph.CO]]
+JCAP 1610 (2016) no.10, 006 [[doi:10.1088/1475-7516/2016/10/006](https://iopscience.iop.org/article/10.1088/1475-7516/2016/10/006)] [[arXiv:1607.08755](https://arxiv.org/abs/1607.08755)]
 
 24. T. Koivisto and N. Tamanini,
 _A note on viability of nonminimally coupled f(R) theory_,
-Gen. Rel. Grav. 48 (2016) no.7, 97 [doi:10.1007/s10714-016-2087-5] [arXiv:1606.04060 [gr-qc]]
+Gen. Rel. Grav. 48 (2016) no.7, 97 [[doi:10.1007/s10714-016-2087-5](https://link.springer.com/article/10.1007%2Fs10714-016-2087-5)] [[arXiv:1606.04060](https://arxiv.org/abs/1606.04060)]
 
 23. N. Tamanini and M. Wright,
 _Cosmological dynamics of extended chameleons_,
-JCAP 1604 (2016) no.04, 032 [doi:10.1088/1475-7516/2016/04/032] [arXiv:1602.06903 [gr-qc]]
+JCAP 1604 (2016) no.04, 032 [[doi:10.1088/1475-7516/2016/04/032](https://iopscience.iop.org/article/10.1088/1475-7516/2016/04/032)] [[arXiv:1602.06903](https://arxiv.org/abs/1602.06903)]
 
 22. J. Dutta, W. Khyllep and N. Tamanini,
 _Cosmological dynamics of scalar fields with kinetic corrections: Beyond the exponential potential_,
-Phys. Rev. D 93 (2016) no.6, 063004 [doi:10.1103/PhysRevD.93.063004] [arXiv:1602.06113 [gr-qc]]
+Phys. Rev. D 93 (2016) no.6, 063004 [[doi:10.1103/PhysRevD.93.063004](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.063004)] [[arXiv:1602.06113](https://arxiv.org/abs/1602.06113)]
 
 21. P. Brax and N. Tamanini,
 _Extended chameleon models_,
-Phys. Rev. D 93 (2016) no.10, 103502 [doi:10.1103/PhysRevD.93.103502] [arXiv:1512.07399 [astro-ph.CO]]
+Phys. Rev. D 93 (2016) no.10, 103502 [[doi:10.1103/PhysRevD.93.103502](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.103502)] [arXiv:1512.07399](https://arxiv.org/abs/1512.07399)]
 
 20. C. G. Boehmer, N. Tamanini and M. Wright,
 _Einstein static universe in scalar-fluid theories_,
-Phys. Rev. D 92 (2015) no.12, 124067 [doi:10.1103/PhysRevD.92.124067] [arXiv:1510.01477 [gr-qc]]
+Phys. Rev. D 92 (2015) no.12, 124067 [[doi:10.1103/PhysRevD.92.124067](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.124067)] [[arXiv:1510.01477](https://arxiv.org/abs/1510.01477)]
 
 19. T. S. Koivisto, E. N. Saridakis and N. Tamanini,
 _Scalar-Fluid theories: cosmological perturbations and large-scale structure_,
-JCAP 1509 (2015) 09, 047 [doi:10.1088/1475-7516/2015/09/047] [arXiv:1505.07556 [astro-ph.CO]]
+JCAP 1509 (2015) 09, 047 [[doi:10.1088/1475-7516/2015/09/047](https://iopscience.iop.org/article/10.1088/1475-7516/2015/09/047)] [[arXiv:1505.07556](https://arxiv.org/abs/1505.07556)]
 
 18. C. G. Boehmer, N. Tamanini and M. Wright,
 _Interacting quintessence from a variational approach. Part II: derivative couplings_,
-Phys. Rev. D 91 (2015) 12, 123003 [doi:10.1103/PhysRevD.91.123003] [arXiv:1502.04030 [gr-qc]]
+Phys. Rev. D 91 (2015) 12, 123003 [[doi:10.1103/PhysRevD.91.123003](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.91.123003)] [[arXiv:1502.04030](https://arxiv.org/abs/1502.04030)]
 
 17. C. G. Boehmer, N. Tamanini and M. Wright,
 _Interacting quintessence from a variational approach. Part I: algebraic couplings_,
-Phys. Rev. D 91 (2015) 12, 123002 [doi:10.1103/PhysRevD.91.123002] [arXiv:1501.06540 [gr-qc]]
+Phys. Rev. D 91 (2015) 12, 123002 [[doi:10.1103/PhysRevD.91.123002](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.91.123002)] [[arXiv:1501.06540](https://arxiv.org/abs/1501.06540)]
 
 16. C. G. Boehmer, N. Tamanini and M. Wright,
 _On galaxy rotation curves from a continuum mechanics approach to modified gravity_,
-Int. J. Mod. Phys. D 27 (2018) 1850007 [doi:10.1142/S0218271818500074] [arXiv:1403.4110 [gr-qc]]
+Int. J. Mod. Phys. D 27 (2018) 1850007 [[doi:10.1142/S0218271818500074](https://www.worldscientific.com/doi/abs/10.1142/S0218271818500074)] [[arXiv:1403.4110](https://arxiv.org/abs/1403.4110)]
 
 15. N. Tamanini,
 _Dynamics of cosmological scalar fields_,
-Phys. Rev. D 89 (2014) 083521 [doi:10.1103/PhysRevD.89.083521] [arXiv:1401.6339 [gr-qc]]
+Phys. Rev. D 89 (2014) 083521 [[doi:10.1103/PhysRevD.89.083521](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.89.083521)] [[arXiv:1401.6339](https://arxiv.org/abs/1401.6339)]
 
 14. N. Tamanini and T. S. Koivisto,
 _Consistency of non-minimally coupled f(R) gravity_,
-Phys. Rev. D 88, 064052 (2013) {[doi:10.1103/PhysRevD.88.064052](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.88.064052)] [[arXiv:1308.3401](https://arxiv.org/abs/1308.3401)]
+Phys. Rev. D 88, 064052 (2013) [[doi:10.1103/PhysRevD.88.064052](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.88.064052)] [[arXiv:1308.3401](https://arxiv.org/abs/1308.3401)]
 
 13. N. Tamanini, E. N. Saridakis and T. S. Koivisto,
 _The Cosmology of Interacting Spin-2 Fields_,
