@@ -243,5 +243,10 @@ LIGO Magazine (2019) [[URL](https://www.ligo.org/magazine/LIGO-magazine-issue15.
 <i>Dynamical systems in dark energy models</i>,
 University College London (2014), [[URL](http://discovery.ucl.ac.uk/1456304)]
 
+### MSc thesis
+
+- N. Tamanini
+[download](/Master_Tesi.pdf)
+
 
 
