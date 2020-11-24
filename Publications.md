@@ -10,26 +10,6 @@ Here you can find all my publications and links to their records on the most com
 
 ### Publication in peer-review journals
 
-1. N. Tamanini and C. Danielski,
-_The gravitational-wave detection of exoplanets orbiting white dwarf binaries using LISA_,
-Nature Astronomy (2019) [doi:10.1038/s41550-019-0807-y] [arXiv:1812.04330 [astro-ph.EP]]
-
-46. N. Tamanini, C. Caprini, E. Barausse, A. Sesana, A. Klein and A. Petiteau,
-_Science with the space-based interferometer eLISA. III: Probing the expansion of the Universe using gravitational wave standard sirens_,
-JCAP 1604 (2016) no.04, 002 [doi:10.1088/1475-7516/2016/04/002] [arXiv:1601.07112 [astro-ph.CO]]
-
-45. N. Tamanini,
-_Phenomenological models of dark energy interacting with dark matter_,
-Phys. Rev. D 92 (2015) 4, 043524 [doi:10.1103/PhysRevD.92.043524] [arXiv:1504.07397 [gr-qc]]
-
-44. N. Tamanini, A. Klein, C. Bonvin, E. Barausse and C. Caprini,
-_Peculiar acceleration of stellar-origin black hole binaries: Measurement and biases with LISA_,
-Phys. Rev. D 101 (2020) no.6, 063002 [doi:10.1103/PhysRevD.101.063002] [arXiv:1907.02018 [astro-ph.IM]]
-
-43. S. Bahamonde, C. G. Boehmer, S. Carloni, E. J. Copeland, W. Fang and N. Tamanini,
-_Dynamical systems applied to cosmology: dark energy and modified gravity_,
-Phys. Rept. 775-777 (2018) 1 [doi:10.1016/j.physrep.2018.09.001] [arXiv:1712.03107 [gr-qc]]
-
 1. M. A. Sedda et al.,
 _The Missing Link in Gravitational-Wave Astronomy: Discoveries waiting in the decihertz range_,
 White paper submitted to ESA’s Voyage 2050 call (2019). Class. Quant. Grav. 37 (2020) 21, 215011 [[doi:10.1088/1361-6382/abb5c1](https://iopscience.iop.org/article/10.1088/1361-6382/abb5c1)] [[arXiv:1908.11375](https://arxiv.org/abs/1908.11375)]
@@ -55,6 +35,14 @@ Phys. Lett. B 798 (2019) 135000 [[doi:10.1016/j.physletb.2019.135000](https://ww
 _Quantum gravity and gravitational-wave astronomy_,
 JCAP 10 (2019) 012 [[doi:10.1088/1475-7516/2019/10/012](https://iopscience.iop.org/article/10.1088/1475-7516/2019/10/012)] [arXiv:1907.02489](https://arxiv.org/abs/1907.02489)
 
+44. N. Tamanini, A. Klein, C. Bonvin, E. Barausse and C. Caprini,
+_Peculiar acceleration of stellar-origin black hole binaries: Measurement and biases with LISA_,
+Phys. Rev. D 101 (2020) no.6, 063002 [[doi:10.1103/PhysRevD.101.063002](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.063002)] [arXiv:1907.02018](https://arxiv.org/abs/1907.02018)]
+
+1. N. Tamanini and C. Danielski,
+_The gravitational-wave detection of exoplanets orbiting white dwarf binaries using LISA_,
+Nature Astronomy (2019) [[doi:10.1038/s41550-019-0807-y](https://www.nature.com/articles/s41550-019-0807-y)] ([arXiv:1812.04330](https://arxiv.org/abs/1812.04330)]
+
 37. B. P. Abbott et al. [LIGO Scientific and Virgo Collaborations],
 _Tests of General Relativity with GW170817_,
 Phys. Rev. Lett. 123 (2019) no.1, 011102 [[doi:10.1103/PhysRevLett.123.011102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.011102)] [[arXiv:1811.00364](https://arxiv.org/abs/1811.00364)]
@@ -74,6 +62,10 @@ Astrophys. J. 871 (2019) L13 [[doi:10.3847/2041-8213/aaf96e](https://iopscience.
 33. T. Robson, N. J. Cornish, N. Tamanini and S. Toonen,
 _Detecting hierarchical stellar systems with LISA_,
 Phys. Rev. D 98 (2018) no.6, 064012 [[doi:10.1103/PhysRevD.98.064012](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.064012)] [[arXiv:1806.00500](https://arxiv.org/abs/1806.00500)]
+
+43. S. Bahamonde, C. G. Boehmer, S. Carloni, E. J. Copeland, W. Fang and N. Tamanini,
+_Dynamical systems applied to cosmology: dark energy and modified gravity_,
+Phys. Rept. 775-777 (2018) 1 [[doi:10.1016/j.physrep.2018.09.001](https://www.sciencedirect.com/science/article/abs/pii/S0370157318302242?via%3Dihub)] [[arXiv:1712.03107](https://arxiv.org/abs/1712.03107)]
 
 32. J. Dutta, W. Khyllep, E. N. Saridakis, N. Tamanini and S. Vagnozzi,
 _Cosmological dynamics of mimetic gravity_,
@@ -119,6 +111,10 @@ JCAP 1604 (2016) no.04, 032 [[doi:10.1088/1475-7516/2016/04/032](https://iopscie
 _Cosmological dynamics of scalar fields with kinetic corrections: Beyond the exponential potential_,
 Phys. Rev. D 93 (2016) no.6, 063004 [[doi:10.1103/PhysRevD.93.063004](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.063004)] [[arXiv:1602.06113](https://arxiv.org/abs/1602.06113)]
 
+46. N. Tamanini, C. Caprini, E. Barausse, A. Sesana, A. Klein and A. Petiteau,
+_Science with the space-based interferometer eLISA. III: Probing the expansion of the Universe using gravitational wave standard sirens_,
+JCAP 1604 (2016) no.04, 002 [[doi:10.1088/1475-7516/2016/04/002](https://iopscience.iop.org/article/10.1088/1475-7516/2016/04/002)] [[arXiv:1601.07112](https://arxiv.org/abs/1601.07112)]
+
 21. P. Brax and N. Tamanini,
 _Extended chameleon models_,
 Phys. Rev. D 93 (2016) no.10, 103502 [[doi:10.1103/PhysRevD.93.103502](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.103502)] [arXiv:1512.07399](https://arxiv.org/abs/1512.07399)]
@@ -130,6 +126,10 @@ Phys. Rev. D 92 (2015) no.12, 124067 [[doi:10.1103/PhysRevD.92.124067](https://j
 19. T. S. Koivisto, E. N. Saridakis and N. Tamanini,
 _Scalar-Fluid theories: cosmological perturbations and large-scale structure_,
 JCAP 1509 (2015) 09, 047 [[doi:10.1088/1475-7516/2015/09/047](https://iopscience.iop.org/article/10.1088/1475-7516/2015/09/047)] [[arXiv:1505.07556](https://arxiv.org/abs/1505.07556)]
+
+45. N. Tamanini,
+_Phenomenological models of dark energy interacting with dark matter_,
+Phys. Rev. D 92 (2015) 4, 043524 [[doi:10.1103/PhysRevD.92.043524](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.043524)] [arXiv:1504.07397](https://arxiv.org/abs/1504.07397)
 
 18. C. G. Boehmer, N. Tamanini and M. Wright,
 _Interacting quintessence from a variational approach. Part II: derivative couplings_,
