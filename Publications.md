@@ -245,8 +245,10 @@ University College London (2014), [[URL](http://discovery.ucl.ac.uk/1456304)]
 
 ### MSc thesis
 
-- N. Tamanini
-[download](/source/Master_Tesi.pdf)
+- N. Tamanini,
+_Inflationary Cosmological Perturbations in Modified Theories of Gravity_,
+Università degli studi di Trento (2010),
+[pdf](/source/Master_Tesi.pdf)
 
 
 
