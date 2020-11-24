@@ -8,6 +8,14 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent e-prints
 
+1. L. Speri, N. Tamanini, R. R. Caldwell, J. R. Gair and B. Wang,
+_Testing the Quasar Hubble Diagram with LISA Standard Sirens_,
+[[arXiv:2010.09049](https://arxiv.org/abs/2010.09049)]
+
+1. A. Toubiana, L. Sberna, A. Caputo, G. Cusin, S. Marsat, K. Jani, S. Babak, E. Barausse, C. Caprini and P. Pani, Alberto Sesana, Nicola Tamanini,
+_Detectable environmental effects in GW190521-like black-hole binaries with LISA_,
+[[arXiv:2010.06056](https://arxiv.org/abs/2010.06056)]
+
 ### Publication in peer-review journals
 
 1. M. A. Sedda et al.,
