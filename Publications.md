@@ -185,11 +185,11 @@ Phys. Rev. D 86, 044009 (2012) [doi:10.1103/PhysRevD.86.044009] [arXiv:1204.4593
 
 5. C. G. Boehmer, A. Mussa and N. Tamanini,
 _Existence of relativistic stars in f(T) gravity_,
-Class. Quant. Grav. 28, 245020 (2011) [doi:10.1088/0264-9381/28/24/245020] [arXiv:1107.4455 [gr-qc]]
+Class. Quant. Grav. 28, 245020 (2011) [[doi:10.1088/0264-9381/28/24/245020](https://iopscience.iop.org/article/10.1088/0264-9381/28/24/245020)] [[arXiv:1107.4455](https://arxiv.org/abs/1107.4455)]
 
 4. N. Tamanini and C. R. Contaldi,
 _Inflationary Perturbations in Palatini Generalised Gravity_,
-Phys. Rev. D 83, 044018 (2011) [doi:10.1103/PhysRevD.83.044018] [arXiv:1010.0689 [gr-qc]]
+Phys. Rev. D 83, 044018 (2011) [[doi:10.1103/PhysRevD.83.044018](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.83.044018)] [[arXiv:1010.0689](https://arxiv.org/abs/1010.0689)]
 
 ### Conference proceedings
 
