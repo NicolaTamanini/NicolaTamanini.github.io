@@ -16,7 +16,7 @@ _Testing the Quasar Hubble Diagram with LISA Standard Sirens_,
 _Detectable environmental effects in GW190521-like black-hole binaries with LISA_,
 [[arXiv:2010.06056](https://arxiv.org/abs/2010.06056)]
 
-### Publication in peer-review journals
+### Publications in peer-review journals
 
 1. M. A. Sedda et al.,
 _The Missing Link in Gravitational-Wave Astronomy: Discoveries waiting in the decihertz range_,
