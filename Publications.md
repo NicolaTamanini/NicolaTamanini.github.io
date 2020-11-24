@@ -149,39 +149,39 @@ Phys. Rev. D 89 (2014) 083521 [doi:10.1103/PhysRevD.89.083521] [arXiv:1401.6339 
 
 14. N. Tamanini and T. S. Koivisto,
 _Consistency of non-minimally coupled f(R) gravity_,
-Phys. Rev. D 88, 064052 (2013) [doi:10.1103/PhysRevD.88.064052] [arXiv:1308.3401 [gr-qc]]
+Phys. Rev. D 88, 064052 (2013) {[doi:10.1103/PhysRevD.88.064052](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.88.064052)] [[arXiv:1308.3401](https://arxiv.org/abs/1308.3401)]
 
 13. N. Tamanini, E. N. Saridakis and T. S. Koivisto,
 _The Cosmology of Interacting Spin-2 Fields_,
-JCAP 1402 (2014) 015 [doi:10.1088/1475-7516/2014/02/015] [arXiv:1307.5984 [hep-th]]
+JCAP 1402 (2014) 015 [[doi:10.1088/1475-7516/2014/02/015](https://iopscience.iop.org/article/10.1088/1475-7516/2014/02/015)] [[arXiv:1307.5984](https://arxiv.org/abs/1307.5984)]
 
 12. C. G. Boehmer, F. S. N. Lobo and N. Tamanini,
 _Einstein static Universe in hybrid metric-Palatini gravity_,
-Phys. Rev. D 88, 104019 (2013) [doi:10.1103/PhysRevD.88.104019] [arXiv:1305.0025 [gr-qc]]
+Phys. Rev. D 88, 104019 (2013) [[doi:10.1103/PhysRevD.88.104019](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.88.104019)] [[arXiv:1305.0025](https://arxiv.org/abs/1305.0025)]
 
 11. C. G. Boehmer and N. Tamanini,
 _Rotational elasticity and coupling to linear elasticity_,
-Mathematics and Mechanics of Solids (2015) 20 959-974 [doi:10.1177/1081286513511093] [arXiv:1008.4005 [math-ph]]
+Mathematics and Mechanics of Solids (2015) 20 959-974 [[doi:10.1177/1081286513511093](https://journals.sagepub.com/doi/full/10.1177/1081286513511093)] [[arXiv:1008.4005](https://arxiv.org/abs/1008.4005)]
 
 10. T. S. Koivisto and N. Tamanini,
 _Ghosts in pure and hybrid formalisms of gravity theories: a unified analysis_,
-Phys. Rev. D 87, 104030 (2013) [doi:10.1103/PhysRevD.87.104030] [arXiv:1304.3607 [gr-qc]]
+Phys. Rev. D 87, 104030 (2013) [[doi:10.1103/PhysRevD.87.104030](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.87.104030)] [[arXiv:1304.3607](https://arxiv.org/abs/1304.3607)]
 
 9. N. Tamanini and C. G. Boehmer,
 _Generalized hybrid metric-Palatini gravity_,
-Phys. Rev. D 87, 084031 (2013) [doi:10.1103/PhysRevD.87.084031] [arXiv:1302.2355 [gr-qc]]
+Phys. Rev. D 87, 084031 (2013) [[doi:10.1103/PhysRevD.87.084031](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.87.084031)] [[arXiv:1302.2355](https://arxiv.org/abs/1302.2355)]
 
 8. C. G. Boehmer and N. Tamanini,
 _A New Approach to Modifying Theories of Gravity_,
-Found. Phys. 43 (2013) 1478 [doi:10.1007/s10701-013-9756-y] [arXiv:1301.5471 [gr-qc]
+Found. Phys. 43 (2013) 1478 [[doi:10.1007/s10701-013-9756-y](https://link.springer.com/article/10.1007/s10701-013-9756-y)] [[arXiv:1301.5471](https://arxiv.org/abs/1301.5471)]
 
 7. N. Tamanini,
 _Variational approach to gravitational theories with two independent connections_,
-Phys. Rev. D 86, 024004 (2012) [doi:10.1103/PhysRevD.86.024004] [arXiv:1205.2511 [gr-qc]]
+Phys. Rev. D 86, 024004 (2012) [[doi:10.1103/PhysRevD.86.024004](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.024004)] [[arXiv:1205.2511](https://arxiv.org/abs/1205.2511)]
 
 6. N. Tamanini and C. G. Boehmer,
 _Good and bad tetrads in f(T) gravity_,
-Phys. Rev. D 86, 044009 (2012) [doi:10.1103/PhysRevD.86.044009] [arXiv:1204.4593 [gr-qc]]
+Phys. Rev. D 86, 044009 (2012) [[doi:10.1103/PhysRevD.86.044009](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.044009)] [[arXiv:1204.4593](https://arxiv.org/abs/1204.4593)]
 
 5. C. G. Boehmer, A. Mussa and N. Tamanini,
 _Existence of relativistic stars in f(T) gravity_,
