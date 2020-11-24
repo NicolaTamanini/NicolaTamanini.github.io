@@ -32,72 +32,72 @@ Phys. Rept. 775-777 (2018) 1 [doi:10.1016/j.physrep.2018.09.001] [arXiv:1712.031
 
 1. M. A. Sedda et al.,
 _The Missing Link in Gravitational-Wave Astronomy: Discoveries waiting in the decihertz range_,
-White paper submitted to ESA’s Voyage 2050 call (2019). To appear in Class. Quant. Grav. (2020). [arXiv:1908.11375 [gr-qc]]
+White paper submitted to ESA’s Voyage 2050 call (2019). Class. Quant. Grav. 37 (2020) 21, 215011 [[doi:10.1088/1361-6382/abb5c1](https://iopscience.iop.org/article/10.1088/1361-6382/abb5c1)] [[arXiv:1908.11375](https://arxiv.org/abs/1908.11375)]
  
 42. C. Danielski and N. Tamanini,
 _Will Gravitational Waves Discover the First Extra-Galactic Planetary System?_,
 Received an honorable mention in the Gravity Research Foundation 2020 Awards for Essays on Gravitation.
-Accepted by Int. J. Mod. Phys. D (2020) [arXiv:2007.07010 [astro-ph.IM]]
+Accepted by Int. J. Mod. Phys. D (2020) [[arXiv:2007.07010](https://arxiv.org/abs/2007.07010)]
 
 41. E. Barausse, E. Berti, T. Hertog, S. A. Hughes, P. Jetzer, P. Pani, T. P. Sotiriou, N. Tamanini, H. Witek, K. Yagi, N. Yunes et al.
 _Prospects for Fundamental Physics with LISA_,
-To appear in Class. Quant. Grav. (2020) [doi:10.1007/s10714-020-02691-1] [arXiv:2001.09793 [gr-qc]]
+To appear in Class. Quant. Grav. (2020) [[doi:10.1007/s10714-020-02691-1](https://link.springer.com/article/10.1007%2Fs10714-020-02691-1)] [[arXiv:2001.09793](https://arxiv.org/abs/2001.09793)]
 
 40. C. Danielski, V. Korol, N. Tamanini and E. M. Rossi,
 _Circumbinary exoplanets and brown dwarfs with LISA_,
-A&A (2019), 632, A113 [doi:10.1051/0004-6361/201936729] [arXiv:1910.05414 [astro-ph.EP]]
+A&A (2019), 632, A113 [[doi:10.1051/0004-6361/201936729](https://www.aanda.org/articles/aa/abs/2019/12/aa36729-19/aa36729-19.html)] [[arXiv:1910.05414](https://arxiv.org/abs/1910.05414)]
 
 39. G. Calcagni, S. Kuroyanagi, S. Marsat, M. Sakellariadou, N. Tamanini and G. Tasinato,
 _Gravitational-wave luminosity distance in quantum gravity_,
-Phys. Lett. B 798 (2019) 135000 [doi:10.1016/j.physletb.2019.135000] [arXiv:1904.00384 [gr-qc]]
+Phys. Lett. B 798 (2019) 135000 [[doi:10.1016/j.physletb.2019.135000](https://www.sciencedirect.com/science/article/pii/S0370269319307221?via%3Dihub)] [[arXiv:1904.00384](https://arxiv.org/abs/1904.00384)]
 
 38. G. Calcagni, S. Kuroyanagi, S. Marsat, M. Sakellariadou, N. Tamanini and G. Tasinato,
 _Quantum gravity and gravitational-wave astronomy_,
-JCAP 10 (2019) 012 [doi:10.1088/1475-7516/2019/10/012] [arXiv:1907.02489 [gr-qc]]
+JCAP 10 (2019) 012 [[doi:10.1088/1475-7516/2019/10/012](https://iopscience.iop.org/article/10.1088/1475-7516/2019/10/012)] [arXiv:1907.02489](https://arxiv.org/abs/1907.02489)
 
 37. B. P. Abbott et al. [LIGO Scientific and Virgo Collaborations],
 _Tests of General Relativity with GW170817_,
-Phys. Rev. Lett. 123 (2019) no.1, 011102 [doi:10.1103/PhysRevLett.123.011102] [arXiv:1811.00364 [gr-qc]]
+Phys. Rev. Lett. 123 (2019) no.1, 011102 [[doi:10.1103/PhysRevLett.123.011102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.011102)] [[arXiv:1811.00364](https://arxiv.org/abs/1811.00364)]
 
 36. E. Belgacem et al. [LISA Cosmology Working Group],
 _Testing modified gravity at cosmological distances with LISA standard sirens_,
-JCAP 1907 (2019) no.07, 024 [doi:10.1088/1475-7516/2019/07/024] [arXiv:1906.01593 [astro-ph.CO]]
+JCAP 1907 (2019) no.07, 024 [[doi:10.1088/1475-7516/2019/07/024](https://iopscience.iop.org/article/10.1088/1475-7516/2019/07/024)] [[arXiv:1906.01593](https://arxiv.org/abs/1906.01593)]
 
 35. L. Barack et al.,
 _Black holes, gravitational waves and fundamental physics: a roadmap_,
-Class. Quant. Grav. 36, no. 14, 143001 (2019) [doi:10.1088/1361-6382/ab0587] [arXiv:1806.05195 [gr-qc]]
+Class. Quant. Grav. 36, no. 14, 143001 (2019) [[doi:10.1088/1361-6382/ab0587](https://iopscience.iop.org/article/10.1088/1361-6382/ab0587)] [[arXiv:1806.05195](https://arxiv.org/abs/1806.05195)]
 
 34. M. Fishbach et al. [LIGO Scientific and Virgo Collaborations],
 _A standard siren measurement of the Hubble constant from GW170817 without the electromagnetic counterpart_,
-Astrophys. J. 871 (2019) L13 [doi:10.3847/2041-8213/aaf96e] [arXiv:1807.05667 [astro-ph.CO]]
+Astrophys. J. 871 (2019) L13 [[doi:10.3847/2041-8213/aaf96e](https://iopscience.iop.org/article/10.3847/2041-8213/aaf96e)] [[arXiv:1807.05667](https://arxiv.org/abs/1807.05667)]
 
 33. T. Robson, N. J. Cornish, N. Tamanini and S. Toonen,
 _Detecting hierarchical stellar systems with LISA_,
-Phys. Rev. D 98 (2018) no.6, 064012 [doi:10.1103/PhysRevD.98.064012] [arXiv:1806.00500 [gr-qc]]
+Phys. Rev. D 98 (2018) no.6, 064012 [[doi:10.1103/PhysRevD.98.064012](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.064012)] [[arXiv:1806.00500](https://arxiv.org/abs/1806.00500)]
 
 32. J. Dutta, W. Khyllep, E. N. Saridakis, N. Tamanini and S. Vagnozzi,
 _Cosmological dynamics of mimetic gravity_,
-JCAP 1802 (2018) no.02, 041 [doi:10.1088/1475-7516/2018/02/041] [arXiv:1711.07290 [gr-qc]]
+JCAP 1802 (2018) no.02, 041 [[doi:10.1088/1475-7516/2018/02/041](https://iopscience.iop.org/article/10.1088/1475-7516/2018/02/041)] [[arXiv:1711.07290](https://arxiv.org/abs/1711.07290)]
 
 31. J. Dutta, W. Khyllep and N. Tamanini,
 _Dark energy with a gradient coupling to the dark matter fluid: cosmological dynamics and structure formation_,
-JCAP 1801 (2018) no.01, 038 [doi:10.1088/1475-7516/2018/01/038] [arXiv:1707.09246 [gr-qc]]
+JCAP 1801 (2018) no.01, 038 [[doi:10.1088/1475-7516/2018/01/038](https://iopscience.iop.org/article/10.1088/1475-7516/2018/01/038)] [[arXiv:1707.09246](https://arxiv.org/abs/1707.09246)]
 
 30. H. Zonunmawia, W. Khyllep, N. Roy, J. Dutta and N. Tamanini,
 _Extended Phase Space Analysis of Interacting Dark Energy Models in Loop Quantum Cosmology_,
-Phys. Rev. D 96 (2017) no.8, 083527 [doi:10.1103/PhysRevD.96.083527] [arXiv:1708.07716 [gr-qc]]
+Phys. Rev. D 96 (2017) no.8, 083527 [[doi:10.1103/PhysRevD.96.083527](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.083527)] [arXiv:1708.07716](https://arxiv.org/abs/1708.07716)]
 
 29. R. G. Cai, N. Tamanini and T. Yang,
 _Reconstructing the dark sector interaction with LISA_,
-JCAP 1705 (2017) no.05, 031 [doi:10.1088/1475-7516/2017/05/031] [arXiv:1703.07323 [astro-ph.CO]]
+JCAP 1705 (2017) no.05, 031 [[doi:10.1088/1475-7516/2017/05/031](https://iopscience.iop.org/article/10.1088/1475-7516/2017/05/031)] [[arXiv:1703.07323](https://arxiv.org/abs/1703.07323)]
 
 28. K. Inayoshi, N. Tamanini, C. Caprini and Z. Haiman,
 _Probing stellar binary black hole formation in galactic nuclei via the imprint of their center of mass acceleration on their gravitational wave signal_,
-Phys. Rev. D 96 (2017) no.6, 063014 [doi:10.1103/PhysRevD.96.063014] [arXiv:1702.06529 [astro-ph.HE]]
+Phys. Rev. D 96 (2017) no.6, 063014 [[doi:10.1103/PhysRevD.96.063014](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.063014)] [[arXiv:1702.06529](https://arxiv.org/abs/1702.06529)]
 
 27. J. Dutta, W. Khyllep and N. Tamanini,
 _Scalar-Fluid interacting dark energy: cosmological dynamics beyond the exponential potential_,
-Phys. Rev. D 95 (2017) no.2, 023515 [doi:10.1103/PhysRevD.95.023515] [arXiv:1701.00744 [gr-qc]]
+Phys. Rev. D 95 (2017) no.2, 023515 [[doi:10.1103/PhysRevD.95.023515](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.023515)] [[arXiv:1701.00744](https://arxiv.org/abs/1701.00744)]
 
 26. C. Bonvin, C. Caprini, R. Sturani and N. Tamanini,
 _Effect of matter structure on the gravitational waveform_,
