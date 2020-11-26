@@ -58,7 +58,7 @@ My higher education consists in a BSc in physics (2008) and an MSc in theoretica
 1. _A biconnection variational principle for General Relativity_,Talk at the 13th Marcel Grossmann Meeting, Stockholm, Sweden [03/07/2012]
 
 
-### Posters presented at conferences
+### Posters presentations at conferences
 
 1. _Hybrid metric-Palatini gravities_, Poster presentation at the 20th International Conference on General Relativity and Gravitation, Warsaw, Poland [07/07/2013]
 
