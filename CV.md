@@ -7,7 +7,58 @@ My higher education consists in a BSc in physics (2008) and an MSc in theoretica
 
 
 
+### Contributed conference talks
 
+1. _Detecting circumbinary exoplanets orbiting double white dwarf binaries with LISA_, Talk at the Texas Symposium on Relativistic Astrophysics, Portsmouth, UK [12/12/2018]
+
+1. _Circumbinary exoplanets: a new science case for LISA_, Talk at the LISA astrophysics working group meeting, Paris, France [12/12/2018]
+
+1. _Cosmology at all redshifts with LISA_, Talk at the 12th LISA symposium, Chicago, USA [12/07/2018]
+
+1. _LISA standard sirens_, Talk at the 5th LISA cosmology working group workshop, Helsinki, Finland [11/06/2018]
+
+1. _Standard sirens cosmography with LISA_, Talk at the GWverse COST action meeting, Valletta, Malta [22/01/2018]
+
+1. _Measuring the peculiar acceleration of binary black holes with LISA_, Talk at TEGrAW, Paris, France [30/06/2017]
+  
+1. _Cosmology with LISA: massive black hole mergers as standard sirens_, Talk at GPhys, Meudon, France [19/06/2017]
+
+1. _Probing cosmology and measuring the peculiar acceleration of binary black holes with LISA_, Talk at StronG BaD, Oxford, Mississippi, USA [28/02/2017]
+
+1. _Gravitational waves: present and future observations plus cosmological applications_, Talk at Strings, Cosmology, and Gravity Student Conference 2017, Paris, France [17/02/2017]
+
+1. _The effect of matter structure on the gravitational waveform_, Talk at Gravitational Waves and Cosmology \& the 3rd eLISA Cosmology Working Group Workshop, DESY Hamburg, Germany [21/10/2016]
+
+1. _Late-time cosmology with eLISA_, Talk at the 11th International LISA Symposium, Zurich, Switzerland [08/09/2016]
+
+1. _Late-time cosmology with gravitational waves_, Talk at the GRavitational-wave Astronomy Meeting in PAris (GRAMPA), Paris, France [31/08/2016]
+
+1. _Late-time cosmology with eLISA_, Talk at the 21st International Conference on General Relativity and Gravitation, New York, USA [13/07/2016]
+  
+1. _Late-time cosmology with eLISA_, Talk at Cosmology after Planck: what is next?, Les Houches, France [27/04/2016]
+
+1. _Late-time cosmology with eLISA_, Talk at the 28th Texas Symposium on Relativistic Astrophysics, Geneva, Switzerland [16/12/2015]
+
+1. _Late-time cosmology with eLISA_, Talk at the eLISA consortium meeting, Paris, France [13/10/2015]
+
+1. _Late-time cosmology with eLISA_, Talk at the 2nd eLISA Cosmology Working Group Workshop, Stavanger, Norway [23/09/2015]
+
+1. _Late-time cosmology with gravitational waves_, Talk at the 8th Aegean Summer School, Rethymno, Greece [30/06/2015]
+
+1. _New phenomenology for interacting dark energy_, Talk at UK Cosmology Meeting, Queen Mary University of London, UK [27/02/2015]
+  
+1. _Cosmic dynamics of cosmological scalar fields_, Talk at BritGrav14, Cambridge, UK [01/03/2014]
+  
+1. _The complete dynamics of a cosmological scalar field capable of crossing the phantom barrier_, Talk at UK Cosmology Meeting, Kings College London, UK [20/01/2014]
+
+1. _Good tetrads and exact solutions in f(T) gravity_,Talk at the 13th Marcel Grossmann Meeting, Stockholm, Sweden [05/07/2012]
+  
+1. _A biconnection variational principle for General Relativity_,Talk at the 13th Marcel Grossmann Meeting, Stockholm, Sweden [03/07/2012]
+
+
+### Posters presented at conferences
+
+1. _Hybrid metric-Palatini gravities_, Poster presentation at the 20th International Conference on General Relativity and Gravitation, Warsaw, Poland [07/07/2013]
 
 
 ### Conferences, workshops and short-term schools attended
