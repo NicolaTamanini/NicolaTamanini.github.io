@@ -11,7 +11,7 @@ My higher education consists in a BSc in physics (2008) and an MSc in theoretica
 
 ### Contributed conference talks
 
-1. _Detecting circumbinary exoplanets orbiting double white dwarf binaries with LISA_, Talk at the Texas Symposium on Relativistic Astrophysics, Portsmouth, UK [12/12/2019]
+1. _Detecting circumbinary exoplanets orbiting double white dwarf binaries with LISA_, Talk at the Texas Symposium on Relativistic Astrophysics, Portsmouth, UK [17/12/2019]
 
 1. _Circumbinary exoplanets: a new science case for LISA_, Talk at the LISA astrophysics working group meeting, Paris, France [12/12/2018]
 
