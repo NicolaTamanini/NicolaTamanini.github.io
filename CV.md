@@ -6,6 +6,41 @@ Work in progress...
 
 My higher education consists in a BSc in physics (2008) and an MSc in theoretical and computational physics (2010) from the University of Trento (Italy), completed by a PhD in applied mathematics (2014) at University College London (UK). Throughout my MSc and PhD I mainly studied different theoretical and mathematical aspects of alternative theories of gravity and cosmology. In 2014 I started my first postdoc position at the Institut de Physique Théorique at CEA Saclay (France), where I worked on physical cosmology and started research on gravitational waves, joining the LISA Consortium. In 2017 I moved for my second postdoc position to the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam (Germany), where I joined the LIGO Scientific Collaboration and focused my research on different cosmological and astrophysical applications of gravitational wave astronomy. From 2021 I am a CNRS Directeur de Recherche at the Laboratoire des 2 Infinis à Toulouse (France), where I divide my research time working for both LISA and the Virgo Collaboration.
 
+### Invited seminars
+
+1. Cosmology with gravitational wave standard sirens: current results and future prospects_, University of Zurich, Switzerland [16/05/2019]
+
+1. Cosmology with gravitational wave standard sirens: current results and future prospects_, University of Geneva, Switzerland [07/12/2018]
+
+1. Standard sirens: cosmology with gravitational waves_, Helsinki Institute of Physics, Finland [30/11/2017]
+
+1. Cosmology with massive black hole binary mergers as standard sirens_, University of Lisbon, Portugal [20/03/2017]
+
+1. Cosmology with massive black hole binary mergers as standard sirens_, Columbia University, New York, USA [02/03/2017]
+
+1. Measuring the peculiar acceleration of merging binary black holes with LISA_, Univ. Wisconsin Milwaukee, USA [24/02/2017]
+
+1. Measuring the peculiar acceleration of merging binary black holes with LISA_, KICP, Chicago, USA [22/02/2017]
+
+1. Cosmology with gravitational waves and gravitational waves with cosmology_, University of Geneva, Switzerland [04/11/2016]
+
+1. Cosmology with gravitational waves_, ICCUB, Barcelona, Spain [27/06/2016]
+
+1. Cosmology with gravitational waves_, Imperial College, London, UK [27/05/2016]
+
+1. Cosmology with gravitational waves_, UCL, London, UK [01/06/2016]
+
+1. Cosmology with gravitational waves_, DAMTP, Cambridge, UK [23/05/2016]
+
+1. Cosmology with gravitational waves_, KBFI, Tallinn, Estonia [12/05/2016]
+
+1. New phenomenology for dark energy interacting with dark matter_, IPhT, Saclay, France [21/01/2015]
+
+1. Cosmological dynamics for scalar fields with kinetic corrections_, QMUL, London, UK [19/02/2014]
+
+1. Extensions of f(R) gravity and their applications in cosmology_, ICG, Portsmouth, UK [04/12/2013]
+
+
 
 ### Invited conference talks
 
