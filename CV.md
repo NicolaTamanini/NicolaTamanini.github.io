@@ -8,37 +8,37 @@ My higher education consists in a BSc in physics (2008) and an MSc in theoretica
 
 ### Invited seminars
 
-1. Cosmology with gravitational wave standard sirens: current results and future prospects_, University of Zurich, Switzerland [16/05/2019]
+1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, University of Zurich, Switzerland [16/05/2019]
 
-1. Cosmology with gravitational wave standard sirens: current results and future prospects_, University of Geneva, Switzerland [07/12/2018]
+1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, University of Geneva, Switzerland [07/12/2018]
 
-1. Standard sirens: cosmology with gravitational waves_, Helsinki Institute of Physics, Finland [30/11/2017]
+1. _Standard sirens: cosmology with gravitational waves_, Helsinki Institute of Physics, Finland [30/11/2017]
 
-1. Cosmology with massive black hole binary mergers as standard sirens_, University of Lisbon, Portugal [20/03/2017]
+1. _Cosmology with massive black hole binary mergers as standard sirens_, University of Lisbon, Portugal [20/03/2017]
 
-1. Cosmology with massive black hole binary mergers as standard sirens_, Columbia University, New York, USA [02/03/2017]
+1. _Cosmology with massive black hole binary mergers as standard sirens_, Columbia University, New York, USA [02/03/2017]
 
-1. Measuring the peculiar acceleration of merging binary black holes with LISA_, Univ. Wisconsin Milwaukee, USA [24/02/2017]
+1. _Measuring the peculiar acceleration of merging binary black holes with LISA_, Univ. Wisconsin Milwaukee, USA [24/02/2017]
 
-1. Measuring the peculiar acceleration of merging binary black holes with LISA_, KICP, Chicago, USA [22/02/2017]
+1. _Measuring the peculiar acceleration of merging binary black holes with LISA_, KICP, Chicago, USA [22/02/2017]
 
-1. Cosmology with gravitational waves and gravitational waves with cosmology_, University of Geneva, Switzerland [04/11/2016]
+1. _Cosmology with gravitational waves and gravitational waves with cosmology_, University of Geneva, Switzerland [04/11/2016]
 
-1. Cosmology with gravitational waves_, ICCUB, Barcelona, Spain [27/06/2016]
+1. _Cosmology with gravitational waves_, ICCUB, Barcelona, Spain [27/06/2016]
 
-1. Cosmology with gravitational waves_, Imperial College, London, UK [27/05/2016]
+1. _Cosmology with gravitational waves_, Imperial College, London, UK [27/05/2016]
 
-1. Cosmology with gravitational waves_, UCL, London, UK [01/06/2016]
+1. _Cosmology with gravitational waves_, UCL, London, UK [01/06/2016]
 
-1. Cosmology with gravitational waves_, DAMTP, Cambridge, UK [23/05/2016]
+1. _Cosmology with gravitational waves_, DAMTP, Cambridge, UK [23/05/2016]
 
-1. Cosmology with gravitational waves_, KBFI, Tallinn, Estonia [12/05/2016]
+1. _Cosmology with gravitational waves_, KBFI, Tallinn, Estonia [12/05/2016]
 
-1. New phenomenology for dark energy interacting with dark matter_, IPhT, Saclay, France [21/01/2015]
+1. _New phenomenology for dark energy interacting with dark matter_, IPhT, Saclay, France [21/01/2015]
 
-1. Cosmological dynamics for scalar fields with kinetic corrections_, QMUL, London, UK [19/02/2014]
+1. _Cosmological dynamics for scalar fields with kinetic corrections_, QMUL, London, UK [19/02/2014]
 
-1. Extensions of f(R) gravity and their applications in cosmology_, ICG, Portsmouth, UK [04/12/2013]
+1. _Extensions of f(R) gravity and their applications in cosmology_, ICG, Portsmouth, UK [04/12/2013]
 
 
 
