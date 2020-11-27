@@ -7,6 +7,33 @@ Work in progress...
 My higher education consists in a BSc in physics (2008) and an MSc in theoretical and computational physics (2010) from the University of Trento (Italy), completed by a PhD in applied mathematics (2014) at University College London (UK). Throughout my MSc and PhD I mainly studied different theoretical and mathematical aspects of alternative theories of gravity and cosmology. In 2014 I started my first postdoc position at the Institut de Physique Théorique at CEA Saclay (France), where I worked on physical cosmology and started research on gravitational waves, joining the LISA Consortium. In 2017 I moved for my second postdoc position to the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam (Germany), where I joined the LIGO Scientific Collaboration and focused my research on different cosmological and astrophysical applications of gravitational wave astronomy. From 2021 I am a CNRS Directeur de Recherche at the Laboratoire des 2 Infinis à Toulouse (France), where I divide my research time working for both LISA and the Virgo Collaboration.
 
 
+### Invited conference talks
+
+1. _Can LISA detect exoplanets?_, Talk at LISA Consortium meeting, Online event,[21/07/2020]
+
+1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, Talk at Multimessenger@Prague, Prague, Czech Republic [09/07/2019]
+
+1. _Cosmology with LISA standard sirens_, Talk at GR22-Amaldi13, Valencia, Spain [09/07/2019]
+
+1. _Astrophysics and Cosmology with LISA Sources_, Talk at KITP conference Merging Visions: Exploring Compact-Object Binaries with Gravity and Light, Santa Barbara, USA [26/06/2019]
+
+1. _Cosmology with LISA standard sirens_, Talk at Rencontres de Moriond, La Thuile, Italy [26/03/2019]
+
+1. _Multimessenger cosmology with LISA_, Talk at the Enabling LISA Science Exploitation workshop, Leiden, The Netherlands [05/03/2019]
+
+1. _Cosmology and modified gravity with LISA standard sirens_, Talk at the LISA consortium meeting, Marseille, France [07/11/2018]
+
+1. _Cosmology with standard sirens_, Talk at the meeting of the GdR ondes gravitationnelles, Paris, France [18/10/2018]
+
+1. _Gravitational wave cosmology with LISA_, Talk at the 2018 DESY Theory Workshop, Hamburg, Germany [27/09/2018]
+
+1. _Standard sirens for LISA_, Talk at the 4th LISA cosmology working group workshop, Mainz, Germany [18/10/2017]
+
+1. _Cosmology with LISA: standard sirens_, Talk at LISA France meeting, Paris, France [13/10/2017]
+
+1. _Late-time cosmology with LISA: probing the cosmic expansion with massive black hole binary mergers as standard sirens_, Talk at Advances in Theoretical Cosmology in Light of Data, Stockholm, Sweden [03/07/2017]
+
+
 
 
 ### Contributed conference talks
