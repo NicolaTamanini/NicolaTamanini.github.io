@@ -52,6 +52,12 @@ University of Trento, Italy [110/110 e lode]
 - _Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc salary for 2 years + research/travel fundings, tot. c.a. €65.000]
 
 
+### Research grants and fellowships (offered but declined)
+
+- _Royal Society University Research Fellowship_, King's College London, UK (c.a. £600000 for 5 years)
+- _Radboud Excellence Initiative Fellowship_, Radboud University, The Netherlands (2 years postdoc salary)
+
+
 ### Scholarships
 
 - _Graduate Research Scholarship_, University College London, UK, 2011 [PhD fees and salary, c.a. £21000 p.a. for 3 years]
@@ -60,6 +66,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Awards
 
+- _Honourable Mention_ in the Essays Competition by the Gravity Research Foundation, 2020
 - _Andrew Rosen PhD prize_, University College London, UK, 2013
 - _Percorso di approfondimento in Fisica (PAF) award_, University of Trento, Italy, 2008  
 
@@ -67,8 +74,8 @@ University of Trento, Italy [110/110 e lode]
 ### Appointements and duties
 
 - Coordinator of the _LISA sub-working package_ on estimation of cosmological parameters and standard sirens (since 2019)
-- Chair of the _LISA Early Career Scientists_ (LECS) group (from 2019 to 2021)
-- Member of the PhD selection committee at the AEI Potsdam (2019 and 2020)
+- Elected chair of the _LISA Early Career Scientists_ (LECS) group (from 2019 to 2021)
+- Member of the PhD application review committee at the AEI Potsdam (2019 and 2020)
 - Organizer of the weekly seminars in the Astrophysical and Cosmological Relativity division at the AEI Potsdam (form 2017 to 2020)
 
 
@@ -77,6 +84,12 @@ University of Trento, Italy [110/110 e lode]
 - _Workshop on Gravitational Waves Astrophysics for Early Career Scientists (GWÆCS)_, Leiden, The Netherlands, 2021 [Chair of the OC]
 - _LECS webinar: European research funding opportunities for early career scientists_, online, 2020 [Organiser]
 - _Progress on Old and New Themes in Cosmology (PONT)_, Avignon, France, 2017 [Member of the OC]
+
+
+### Qualifications
+
+- Habilitation for Professore Universitario, Italy, 2020
+- Habilitation for Maître de Conférence, France, 2019
 
 
 ### Teaching
