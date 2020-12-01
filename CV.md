@@ -1,6 +1,6 @@
 # CV
 
-Work in progress...
+On this page you can find an extended version of my CV, including all relevant academic activities. A much compact version is available for download [TBA].
 
 ### In a nutshell
 
@@ -49,13 +49,13 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research grants and fellowships
 
-- _Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc salary for 2 years + research/travel fundings, tot. c.a. €65000]
+- _Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc's salary for 2 years + research/travel fundings, tot. c.a. €65000]
 
 
 ### Research grants and fellowships (offered but declined)
 
 - _Royal Society University Research Fellowship_, King's College London, UK [fellow's salary for 5 years + research/travel fundings, tot. c.a. £600000)
-- _Radboud Excellence Initiative Fellowship_, Radboud University, The Netherlands (2 years postdoc salary, tot. c.a. €120000)
+- _Radboud Excellence Initiative Fellowship_, Radboud University, The Netherlands [postdoc's salary for 2 years, tot. c.a. €120000)
 
 
 ### Scholarships
