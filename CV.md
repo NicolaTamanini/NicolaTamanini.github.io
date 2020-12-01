@@ -96,7 +96,12 @@ University of Trento, Italy [110/110 e lode]
 1. Astrophysics and Space Science
 1. Advances in High Energy Physics
 1. The Astrophysical Journal
+1. Universe
 
+
+### Refereed research proposals
+
+1. FONDECYT Regular Competition, Chile, 2018
 
 ### Travel research grants
 
