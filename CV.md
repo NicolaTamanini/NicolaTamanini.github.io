@@ -18,11 +18,8 @@ My higher education consists in a BSc in physics (2008) and an MSc in theoretica
 ### Teaching
 
 - _Gravitational Waves_, Teacher, Short-term course, 10th TRR-33 Winter School on Cosmology, Passo del Tonale, Italy, 2016
-
 - _Introduction to Mathematica_, Teacher, Short-term course, University College London, UK, 2013
-
 - _Introduction to Mathematica_, Teaching assistant, Short-term course, University College London, UK, 2012
-
 - _Structure of Matter_, Teaching assistant, Long-term course, University of Trento, Italy, 2011
 
 
