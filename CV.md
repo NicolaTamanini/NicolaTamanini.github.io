@@ -7,6 +7,35 @@ Work in progress...
 My higher education consists in a BSc in physics (2008) and an MSc in theoretical and computational physics (2010) from the University of Trento (Italy), completed by a PhD in applied mathematics (2014) at University College London (UK). Throughout my MSc and PhD I mainly studied different theoretical and mathematical aspects of alternative theories of gravity and cosmology. In 2014 I started my first postdoc position at the Institut de Physique Théorique at CEA Saclay (France), where I worked on physical cosmology and started research on gravitational waves, joining the LISA Consortium. In 2017 I moved for my second postdoc position to the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam (Germany), where I joined the LIGO Scientific Collaboration and focused my research on different cosmological and astrophysical applications of gravitational wave astronomy. From 2021 I am a CNRS Directeur de Recherche at the Laboratoire des 2 Infinis à Toulouse (France), where I divide my research time working for both LISA and the Virgo Collaboration.
 
 
+### Career
+
+- __from Oct 2017 to Jan 2021__,
+_Junior Scientist/Postdoc position_,
+Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam, Germany
+- __from Sept 2014 to Sept 2017__,
+_Eurotalents Research Fellow/Postdoc position_,
+Institut de Physique Théorique, CEA-Saclay, France
+  
+  
+### Education
+
+- __from Sept 2011 to Sept 2014__,
+_PhD in applied mathematics_,
+University College London, UK
+- __from Feb 2011 to Jun 2011__,
+_Teaching and research assistant (part-time)_,
+University of Trento, Italy
+- __from Sept 2009 to Nov 2010__,
+_Visiting research student (Erasmus)_,
+Imperial College London, UK
+- __from Dec 2008 to Dec 2010__,
+_MSc in theoretical and computational physics_,
+University of Trento, Italy [110/110 e lode]
+- __from Sept 2005 to Dec 2008__, 
+_BSc in physics_, University of Trento, Italy [110/110 e lode]
+
+
+
 
 ### Large collaboration memberships
 
