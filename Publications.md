@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent e-prints
 
+1. G. Cusin and N. Tamanini,
+_Characterisation of lensing selection effects for LISA massive black hole binary mergers_,
+[[arXiv:2011.15109](https://arxiv.org/abs/2011.15109)]
+
 1. L. Speri, N. Tamanini, R. R. Caldwell, J. R. Gair and B. Wang,
 _Testing the Quasar Hubble Diagram with LISA Standard Sirens_,
 [[arXiv:2010.09049](https://arxiv.org/abs/2010.09049)]
