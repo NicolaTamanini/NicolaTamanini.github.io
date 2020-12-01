@@ -80,7 +80,7 @@ University of Trento, Italy [110/110 e lode]
 - _Structure of Matter_, Teaching assistant, Long-term course, University of Trento, Italy, 2011
 
 
-### Refereed journals
+### Refereed peer-review research journals
 
 1. Physical Review Letters (PRL)
 1. Physical Review D (PRD)
@@ -97,6 +97,7 @@ University of Trento, Italy [110/110 e lode]
 1. Advances in High Energy Physics
 1. The Astrophysical Journal
 1. Universe
+1. Research in Astronomy and Astrophysics
 
 
 ### Refereed research proposals
