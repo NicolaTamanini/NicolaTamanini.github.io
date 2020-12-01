@@ -72,6 +72,13 @@ University of Trento, Italy [110/110 e lode]
 - Organizer of the weekly seminars in the Astrophysical and Cosmological Relativity division at the AEI Potsdam (form 2017 to 2020)
 
 
+### Organisation of scientific meetings
+
+- _Workshop on Gravitational Waves Astrophysics for Early Career Scientists (GWÆCS)_, Leiden, The Netherlands, 2021 [Chair of the OC]
+- _LECS webinar: European research funding opportunities for early career scientists_, online, 2020 [Organiser]
+- _Progress on Old and New Themes in Cosmology (PONT)_, Avignon, France, 2017 [Member of the OC]
+
+
 ### Teaching
 
 - _Gravitational Waves_, Teacher, Short-term course, 10th TRR-33 Winter School on Cosmology, Passo del Tonale, Italy, 2016
