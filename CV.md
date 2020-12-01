@@ -109,6 +109,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited seminars
 
+1. - Detecting circumbinary exoplanets with gravitational waves from the center-of-mass motion of LISA Galactic binaries_, University of Birmingham (remote), UK [09/12/2020]
+1. - Eppur si muove: detecting circumbinary exoplanets with gravitational waves from the center-of-mass motion of LISA Galactic binaries_, University of Amsterdam (remote), The Netherlands [04/11/2020]
 1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, University of Zurich, Switzerland [16/05/2019]
 1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, University of Geneva, Switzerland [07/12/2018]
 1. _Standard sirens: cosmology with gravitational waves_, Helsinki Institute of Physics, Finland [30/11/2017]
@@ -130,7 +132,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited conference talks
 
-1. _Can LISA detect exoplanets?_, Talk at LISA Consortium meeting, Online event,[21/07/2020]
+1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, Talk at PONT2020, online [10/12/2020]
+1. _Can LISA detect exoplanets?_, Talk at LISA Consortium meeting, Online event [21/07/2020]
 1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, Talk at Multimessenger@Prague, Prague, Czech Republic [09/07/2019]
 1. _Cosmology with LISA standard sirens_, Talk at GR22-Amaldi13, Valencia, Spain [09/07/2019]
 1. _Astrophysics and Cosmology with LISA Sources_, Talk at KITP conference Merging Visions: Exploring Compact-Object Binaries with Gravity and Light, Santa Barbara, USA [26/06/2019]
@@ -148,6 +151,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Contributed conference talks
 
+1. _Mapping the cosmic expansion with LISA standard sirens: current status, challenges and opportunities_, Talk at the LISA Symposium XIII, online [02/09/2020]
 1. _Detecting circumbinary exoplanets orbiting double white dwarf binaries with LISA_, Talk at the Texas Symposium on Relativistic Astrophysics, Portsmouth, UK [17/12/2019]
 1. _Circumbinary exoplanets: a new science case for LISA_, Talk at the LISA astrophysics working group meeting, Paris, France [12/12/2018]
 1. _Cosmology at all redshifts with LISA_, Talk at the 12th LISA symposium, Chicago, USA [12/07/2018]
@@ -180,6 +184,12 @@ University of Trento, Italy [110/110 e lode]
 
 ### Conferences, workshops and short-term schools attended
 
+1. Dec 2020, _Progress on Old and New Themes in cosmology (PONT2020)_, online
+1. Dec 2020, _11th Einstein Telescope Symposium_, online
+1. Dec 2020, _LISA Consortium meeting_, online
+1. Oct 2020, _General meeting of the GdR ondes gravitationnelles_, online
+1. Sept 2020, _LISA Symposium XIII_, online
+1. Jun 2020, _LISA Consortium meeting_, online
 1. Dec 2019, _Texas Symposium on Relativistic Astrophysics_, Portsmouth, UK
 1. Dec 2019, _Multimessenger@Prague_, Prague, Czech Republic
 1. Jul 2019, _GR22/Amaldi13_, Valencia, Spain
@@ -189,7 +199,7 @@ University of Trento, Italy [110/110 e lode]
 1. Dic 2018, _LISA astrophysics Working Group meeting_, Paris, France
 1. Nov 2018, _LISA Fundamental Physics Working Group meeting_, Firenze, Italy
 1. Nov 2018, _LISA consortium meeting_, Marseille, France
-1. Oct 2018, _Meeting of the GdR ondes gravitationnelles_, Paris, France
+1. Oct 2018, _General meeting of the GdR ondes gravitationnelles_, Paris, France
 1. Sept 2018, _2018 DESY Theory Workshop_, Hamburg, Germany
 1. Sept 2018, _LIGO/Virgo collaboration meeting_, Maastricht, Netherlands
 1. Jul 2018, _12th LISA symposium_, Chicago, USA
@@ -202,7 +212,7 @@ University of Trento, Italy [110/110 e lode]
 1. Jun 2017, _The Era of Gravitational wave Astronomy_, Paris, France
 1. Jun 2017, _GPhys_, Meudon, France
 1. Jun 2017, _Gravitational waves for astrophysics and cosmology_, Benasque, Spain
-1. Apr 2017, _Progress on Old and New Themes in cosmology (PONT)_, Avignon, France
+1. Apr 2017, _Progress on Old and New Themes in cosmology (PONT2017)_, Avignon, France
 1. Feb 2017, _StronG BaD_, Oxford, Mississippi, USA
 1. Feb 2017, _Strings, Cosmology, and Gravity Student Conference 2017_, Paris, France
 1. Dic 2016, _10th TRR1.33 Winter School on Cosmology_, Passo del Tonale, Italy
