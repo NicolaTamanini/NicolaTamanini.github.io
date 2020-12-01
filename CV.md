@@ -9,14 +9,14 @@ My higher education consists in a BSc in physics (2008) and an MSc in theoretica
 
 ### Career
 
-- since Feb 2021,
-**_CNRS Directeur de Recherche_**,
+- since __Feb 2021__,
+_CNRS Directeur de Recherche_,
 Laboratoire de 2 infinis à Toulouse, France
-- from Oct 2017 to Jan 2021,
-**_Junior Scientist/Postdoc position_**,
+- from __Oct 2017__ to __Jan 2021__,
+_Junior Scientist/Postdoc position_,
 Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam, Germany
-- from Sept 2014 to Sept 2017,
-**_Eurotalents Research Fellow/Postdoc position_**,
+- from __Sept 2014__ to __Sept 2017__,
+_Eurotalents Research Fellow/Postdoc position_,
 Institut de Physique Théorique, CEA-Saclay, France
   
   
