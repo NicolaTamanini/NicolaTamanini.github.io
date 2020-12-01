@@ -7,6 +7,37 @@ Work in progress...
 My higher education consists in a BSc in physics (2008) and an MSc in theoretical and computational physics (2010) from the University of Trento (Italy), completed by a PhD in applied mathematics (2014) at University College London (UK). Throughout my MSc and PhD I mainly studied different theoretical and mathematical aspects of alternative theories of gravity and cosmology. In 2014 I started my first postdoc position at the Institut de Physique Théorique at CEA Saclay (France), where I worked on physical cosmology and started research on gravitational waves, joining the LISA Consortium. In 2017 I moved for my second postdoc position to the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam (Germany), where I joined the LIGO Scientific Collaboration and focused my research on different cosmological and astrophysical applications of gravitational wave astronomy. From 2021 I am a CNRS Directeur de Recherche at the Laboratoire des 2 Infinis à Toulouse (France), where I divide my research time working for both LISA and the Virgo Collaboration.
 
 
+### Refereed journals
+
+1. Physical Review Letters (PRL)
+ 
+1. Physical Review D (PRD)
+
+1. Monthly Notices of the Royal Astronomical Society (MNRAS)
+
+1. Journal of Cosmology and Astroparrticle Physics (JCAP)
+  
+1. Physics of the Dark Universe
+  
+1. European Physical Journal C (EPJC)
+  
+1. General Relativity and Gravitation (GERG)
+  
+1. International Journal of Modern Physics D (IJMPD)
+
+1. Modern Physics Letters A
+  
+1. Gravitation and Cosmology
+ 
+1. International Journal of Geometrical Methods in Modern Physics
+
+1. Astrophysics and Space Science
+
+1. Advances in High Energy Physics
+
+1. The Astrophysical Journal
+
+
 ### Travel research grants
 
 - STSM from the COST action GWverse for a two-week visit to E. M. Rossi (Leiden Observatory) in 2019 [€2000]
