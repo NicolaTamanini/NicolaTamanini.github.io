@@ -7,6 +7,14 @@ Work in progress...
 My higher education consists in a BSc in physics (2008) and an MSc in theoretical and computational physics (2010) from the University of Trento (Italy), completed by a PhD in applied mathematics (2014) at University College London (UK). Throughout my MSc and PhD I mainly studied different theoretical and mathematical aspects of alternative theories of gravity and cosmology. In 2014 I started my first postdoc position at the Institut de Physique Théorique at CEA Saclay (France), where I worked on physical cosmology and started research on gravitational waves, joining the LISA Consortium. In 2017 I moved for my second postdoc position to the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam (Germany), where I joined the LIGO Scientific Collaboration and focused my research on different cosmological and astrophysical applications of gravitational wave astronomy. From 2021 I am a CNRS Directeur de Recherche at the Laboratoire des 2 Infinis à Toulouse (France), where I divide my research time working for both LISA and the Virgo Collaboration.
 
 
+
+### Large collaboration memberships
+
+- Member of the _Virgo Collaboration_ [since 2021]
+- Full member of the _LISA Consortium_ [since 2014]
+- Member of the _LIGO Scientific Collaboration_ [from 2017 to 2021]
+
+
 ### Research grants and fellowships
 
 - _Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc salary for 2 years + research/travel fundings, tot. c.a. €65.000]
