@@ -9,13 +9,13 @@ My higher education consists in a BSc in physics (2008) and an MSc in theoretica
 
 ### Travel research grants
 
-- STSM from the COST action GWverse for a two-week visit to E.~M.~Rossi (Leiden Observatory) in 2019 [€2000]
+- STSM from the COST action GWverse for a two-week visit to E. M. Rossi (Leiden Observatory) in 2019 [€2000]
 
-- STSM from the COST action CANTATA for a one-week visit to E.~Barausse (Insitut d'Astrophysique de Paris) in 2018 [€1200]
+- STSM from the COST action CANTATA for a one-week visit to E. Barausse (Insitut d'Astrophysique de Paris) in 2018 [€1200]
 
-- STSM from the COST action GWverse for a two-week visit to W.~Del Pozzo (Univ.~of Pisa) in 2018 [€2000] 
+- STSM from the COST action GWverse for a two-week visit to W. Del Pozzo (Univ. of Pisa) in 2018 [€2000] 
 
-- STSM from the COST action CANTATA for a one-week visit to F.~Lobo (Univ.~of Lisbon) in 2017 [€900]
+- STSM from the COST action CANTATA for a one-week visit to F. Lobo (Univ. of Lisbon) in 2017 [€900]
 
 
 
