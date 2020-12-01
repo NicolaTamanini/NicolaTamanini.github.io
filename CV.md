@@ -230,3 +230,10 @@ University of Trento, Italy [110/110 e lode]
 1. July 2012, _13th Marcel Grossmann Meeting_, Stockholm, Sweden
 1. Sept 2011, _Do we understand gravity?_, Institute of Physics, London, UK
 1. Dic 2010, _4th TRR1.33 Winter School on Cosmology_, Passo del Tonale, Italy
+
+### Spoken languages
+
+- Italian (native speaker)
+- English (fluent)
+- French (fluent)
+- German (moderate/beginner)
