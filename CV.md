@@ -9,33 +9,33 @@ My higher education consists in a BSc in physics (2008) and an MSc in theoretica
 
 ### Career
 
-- since __Feb 2021__,
-_CNRS Directeur de Recherche_,
+- since Feb 2021,
+**_CNRS Directeur de Recherche_**,
 Laboratoire de 2 infinis à Toulouse, France
-- from __Oct 2017__ to __Jan 2021__,
-_Junior Scientist/Postdoc position_,
+- from Oct 2017 to Jan 2021,
+**_Junior Scientist/Postdoc position_**,
 Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam, Germany
-- from __Sept 2014__ to __Sept 2017__,
-_Eurotalents Research Fellow/Postdoc position_,
+- from Sept 2014 to Sept 2017,
+**_Eurotalents Research Fellow/Postdoc position_**,
 Institut de Physique Théorique, CEA-Saclay, France
   
   
 ### Education
 
-- __from Sept 2011 to Sept 2014__,
-_PhD in applied mathematics_,
+- from Sept 2011 to Sept 2014,
+**_PhD in applied mathematics_**,
 University College London, UK
-- __from Feb 2011 to Jun 2011__,
-_Teaching and research assistant (part-time)_,
+- from Feb 2011 to Jun 2011,
+**_Teaching and research assistant (part-time)_**,
 University of Trento, Italy
-- __from Sept 2009 to Nov 2010__,
-_Visiting research student (Erasmus)_,
+- from Sept 2009 to Nov 2010,
+**_Visiting research student (Erasmus)_**,
 Imperial College London, UK
-- __from Dec 2008 to Dec 2010__,
-_MSc in theoretical and computational physics_,
+- from Dec 2008 to Dec 2010,
+**_MSc in theoretical and computational physics_**,
 University of Trento, Italy [110/110 e lode]
-- __from Sept 2005 to Dec 2008__, 
-_BSc in physics_, University of Trento, Italy [110/110 e lode]
+- from Sept 2005 to Dec 2008, 
+**_BSc in physics_**, University of Trento, Italy [110/110 e lode]
 
 
 
