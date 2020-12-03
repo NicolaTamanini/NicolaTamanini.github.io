@@ -1,4 +1,4 @@
-# CV
+# Curriculum Vitae
 
 On this page you can find an extended version of my CV, including all relevant academic activities. A short summary is provided at the top. A much compact version of the CV is also available for download [TBA].
 
@@ -54,8 +54,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research grants and fellowships (offered but declined)
 
-- _Royal Society University Research Fellowship_, King's College London, UK [fellow's salary for 5 years + research/travel fundings, tot. c.a. £600000)
-- _Radboud Excellence Initiative Fellowship_, Radboud University, The Netherlands [postdoc's salary for 2 years, tot. c.a. €120000)
+- _Royal Society University Research Fellowship_, King's College London, UK [fellow's salary for 5 years + research/travel fundings, tot. c.a. £600000]
+- _Radboud Excellence Initiative Fellowship_, Radboud University, The Netherlands [postdoc's salary for 2 years, tot. c.a. €120000]
 
 
 ### Scholarships
