@@ -6,4 +6,4 @@ layout: default
 
 Nicola Tamanini's personal webpage is under construction...
 
-![image](/assets/img/Nicola.JPG)
+<img src="/assets/img/Nicola.JPG" height="200" />
