@@ -135,8 +135,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited seminars
 
-1. Detecting circumbinary exoplanets with gravitational waves from the center-of-mass motion of LISA Galactic binaries_, University of Birmingham (remote), UK [09/12/2020]
-1. Eppur si muove: detecting circumbinary exoplanets with gravitational waves from the center-of-mass motion of LISA Galactic binaries_, University of Amsterdam (remote), The Netherlands [04/11/2020]
+1. _Detecting circumbinary exoplanets with gravitational waves from the center-of-mass motion of LISA Galactic binaries_, University of Birmingham (remote), UK [09/12/2020]
+1. _Eppur si muove: detecting circumbinary exoplanets with gravitational waves from the center-of-mass motion of LISA Galactic binaries_, University of Amsterdam (remote), The Netherlands [04/11/2020]
 1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, University of Zurich, Switzerland [16/05/2019]
 1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, University of Geneva, Switzerland [07/12/2018]
 1. _Standard sirens: cosmology with gravitational waves_, Helsinki Institute of Physics, Finland [30/11/2017]
