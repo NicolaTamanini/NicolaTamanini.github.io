@@ -62,7 +62,7 @@ University of Trento, Italy [110/110 e lode]
 ### Scholarships
 
 - _Graduate Research Scholarship_, University College London, UK, 2011 [PhD fees and salary, ca. £22000 p.a. for 3 years]
-- _Percorso di approfondimento in Fisica (PAF) Scholarship_, University of Trento, Italy, 2008 [€4000 p.a. for 3 years]
+- _Percorso di Approfondimento in Fisica (PAF) Scholarship_, University of Trento, Italy, 2008 [€4000 p.a. for 3 years]
 
 
 ### Awards
