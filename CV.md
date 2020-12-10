@@ -49,13 +49,14 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research grants and fellowships
 
-- _Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc's salary for 2 years + research/travel fundings, tot. c.a. €65000]
+- _ANR Tremplin–ERC_, L2IT, Toulouse, France, 2020 [research fundings, tot. ca. €125000]
+- _Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc's salary for 2 years + research/travel fundings, tot. ca. €65000]
 
 
 ### Research grants and fellowships (offered but declined)
 
-- _Royal Society University Research Fellowship_, King's College London, UK [fellow's salary for 5 years + research/travel fundings, tot. c.a. £600000]
-- _Radboud Excellence Initiative Fellowship_, Radboud University, The Netherlands [postdoc's salary for 2 years, tot. c.a. €120000]
+- _Royal Society University Research Fellowship_, King's College London, UK, 2020 [fellow's salary for 5 years + research/travel fundings, tot. ca. £600000]
+- _Radboud Excellence Initiative Fellowship_, Radboud University, The Netherlands, 2016 [postdoc's salary for 2 years, tot. ca. €120000]
 
 
 ### Scholarships
