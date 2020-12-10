@@ -69,7 +69,7 @@ University of Trento, Italy [110/110 e lode]
 
 - _Honourable Mention_ in the Essays Competition by the Gravity Research Foundation, 2020
 - _Andrew Rosen PhD prize_, University College London, UK, 2013
-- _Percorso di approfondimento in Fisica (PAF) award_, University of Trento, Italy, 2008  
+- _Percorso di Approfondimento in Fisica (PAF) award_, University of Trento, Italy, 2008  
 
 
 ### Appointements and duties
