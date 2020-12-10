@@ -7,4 +7,4 @@ Here you can find links to articles, interviews, videos and everything else that
 
 ### Interviews
 
-- [Interview](https://eurotalents.cea.fr/english/postdoctoral-fellowship/Pages/Fellows%20and%20Community/Success%20Stories/Nicola-Tamanini.aspx) for the Eurotalents magazine at CEA Saclay, 2016
+- [Interview](https://eurotalents.cea.fr/english/postdoctoral-fellowship/Pages/Fellows%20and%20Community/Success%20Stories/Nicola-Tamanini.aspx) for the Eurotalents website at CEA Saclay, 2016
