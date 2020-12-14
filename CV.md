@@ -49,7 +49,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research grants and fellowships
 
-- _ANR Tremplin–ERC_, L2IT, Toulouse, France, 2020 [research fundings, tot. ca. €125000]
+- _ANR Tremplin–ERC_, L2IT, Toulouse, France, 2020 [research fundings, tot. €76700]
 - _Enhanced Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc's salary for 2 years + research/travel fundings, tot. ca. €65000]
 
 
