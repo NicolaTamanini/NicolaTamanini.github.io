@@ -29,7 +29,7 @@ White paper submitted to ESA’s Voyage 2050 call (2019). Class. Quant. Grav. 37
 42. C. Danielski and N. Tamanini,
 _Will Gravitational Waves Discover the First Extra-Galactic Planetary System?_,
 Received an honorable mention in the Gravity Research Foundation 2020 Awards for Essays on Gravitation.
-Accepted by Int. J. Mod. Phys. D (2020) [[arXiv:2007.07010](https://arxiv.org/abs/2007.07010)]
+Int. J. Mod. Phys. D 29 (2020) 2043007 [[doi:10.1142/S0218271820430075](https://www.worldscientific.com/doi/abs/10.1142/S0218271820430075)] [[arXiv:2007.07010](https://arxiv.org/abs/2007.07010)]
 
 41. E. Barausse, E. Berti, T. Hertog, S. A. Hughes, P. Jetzer, P. Pani, T. P. Sotiriou, N. Tamanini, H. Witek, K. Yagi, N. Yunes et al.
 _Prospects for Fundamental Physics with LISA_,
