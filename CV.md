@@ -102,6 +102,13 @@ University of Trento, Italy [110/110 e lode]
 - _Structure of Matter_, Teaching assistant, Long-term course, University of Trento, Italy, 2011
 
 
+
+### Reviewed theses (external reviewer)
+
+- _The astrophysics of black hole binaries in the era of gravitational wave astronomy_, Alberto Mangiagli, PhD thesis, Università degli Studi di Milano-Bicocca, 2020
+- _Extreme Stars in Alternative Theories of Gravity_, Marc Pace, University of Malta, 2017
+
+
 ### Refereed peer-review research journals
 
 1. Physical Review Letters (PRL)
