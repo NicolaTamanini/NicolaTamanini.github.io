@@ -11,7 +11,7 @@ My higher education consists in a BSc in physics (2008) and an MSc in theoretica
 
 - since Feb 2021,
 **_CNRS Directeur de Recherche_**,
-Laboratoire de 2 infinis à Toulouse, France
+Laboratoire de 2 infinis - Toulouse, France
 - from Oct 2017 to Jan 2021,
 **_Junior Scientist/Postdoc position_**,
 Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam, Germany
@@ -77,7 +77,7 @@ University of Trento, Italy [110/110 e lode]
 - Chair of the _LIGO/Virgo Cosmology Working Group_ (since 2021)
 - Coordinator of the _LISA sub-working package_ on estimation of cosmological parameters and standard sirens (since 2019)
 - Elected chair of the _LISA Early Career Scientists_ (LECS) group (from 2019 to 2021)
-- Member of the PhD application review committee at the AEI Potsdam (2019 and 2020)
+- Member of the PhD application review committee at the AEI Potsdam (from 2019 to 2021)
 - Organizer of the weekly seminars in the Astrophysical and Cosmological Relativity division at the AEI Potsdam (form 2017 to 2020)
 
 
