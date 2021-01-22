@@ -6,7 +6,7 @@ Junior Scientist/Postdoc
 Astrophysical and Cosmological Relativity  
 Max Planck Institute for Gravitational Physics (Albert Einstein Institute)  
 
-Location Potsdam (Germany)
+Location Potsdam (Germany)  
 Phone: +49 331 567-7194  
 Fax: +49 331 567-7298  
 Email: nicola.tamanini [at] aei.mpg.de  
