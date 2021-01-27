@@ -4,6 +4,9 @@ Under construction...
 
 Here you can find links to articles, interviews, videos and everything else that appeared on the media regardng me or my research.
 
+### My research in the news
+
+- 
 
 ### Interviews
 
