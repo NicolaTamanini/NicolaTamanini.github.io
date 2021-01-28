@@ -72,11 +72,17 @@ University of Trento, Italy [110/110 e lode]
 - _Percorso di Approfondimento in Fisica (PAF) award_, University of Trento, Italy, 2008  
 
 
-### Appointements and duties
+### Research appointements
 
 - Chair of the _LIGO/Virgo Cosmology Working Group_ (since 2021)
 - Coordinator of the _LISA sub-working package_ on estimation of cosmological parameters and standard sirens (since 2019)
 - Elected chair of the _LISA Early Career Scientists_ (LECS) group (from 2019 to 2021)
+
+
+### Academic services
+
+- Member of the postdoc application selection committee at L2IT (2021)
+- Member of the PhD application selection committee at L2IT (2021)
 - Member of the PhD application review committee at the AEI Potsdam (from 2019 to 2021)
 - Organizer of the weekly seminars in the Astrophysical and Cosmological Relativity division at the AEI Potsdam (form 2017 to 2020)
 
