@@ -2,15 +2,14 @@
 
 Dr Nicola Tamanini
 
-Junior Scientist/Postdoc  
-Astrophysical and Cosmological Relativity  
-Max Planck Institute for Gravitational Physics (Albert Einstein Institute)  
+CNRS Directeur de Recherche
 
-Location Potsdam (Germany)  
-Phone: +49 331 567-7194  
-Fax: +49 331 567-7298  
-Email: nicola.tamanini [at] aei.mpg.de  
-Room: 0.70  
+Laboratoire des 2 infinis - Toulouse
+Université Toulouse - Paul Sabatier
+IRSAMC - Bâtiment 3R1B4
+118 route de Narbonne
+31062 TOULOUSE CEDEX 9 
+ 
+Email: nicola.tamanini [at] l2it.in2p3.fr
 
-Institution page  
-https://www.aei.mpg.de/person/54993/2168
+[Institution page](https://annuaire.in2p3.fr/agents/Y249VEFNQU5JTkkgTmljb2xhIDdiY2VjNWU2LTk5ZDQtNDBjNi04YTFjLTE1NjUxZWU3ZjJhYixvdT1wZW9wbGUsZGM9aW4ycDMsZGM9ZnI%253D/show)
