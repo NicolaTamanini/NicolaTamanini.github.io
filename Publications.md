@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent e-prints
 
+1. D. Laghi, N. Tamanini, W. Del Pozzo, A. Sesana, J. Gair,
+_Gravitational wave cosmology with extreme mass-ratio inspirals_,
+[[arXiv:2102.01708](https://arxiv.org/abs/2102.01708)]
+
 1. G. Cusin and N. Tamanini,
 _Characterisation of lensing selection effects for LISA massive black hole binary mergers_,
 [[arXiv:2011.15109](https://arxiv.org/abs/2011.15109)]
