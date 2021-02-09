@@ -6,7 +6,7 @@ Here you can find all my publications and links to their records on the most com
 
 [ArXiv](https://arxiv.org/search/?searchtype=author&query=Tamanini%2C+N) &nbsp; &nbsp; &nbsp; [ADS abstract](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FTamanini%2C%20N%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FTamanini%2C%20N%22)&q=nicola%20tamanini&sort=date%20desc%2C%20bibcode%20desc&p_=0) &nbsp; &nbsp; &nbsp; [Inspire](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=nicola%20tamanini&ui-citation-summary=true)
 
-### Recent e-prints
+### Recent preprints
 
 1. D. Laghi, N. Tamanini, W. Del Pozzo, A. Sesana, J. Gair,
 _Gravitational wave cosmology with extreme mass-ratio inspirals_,
@@ -26,9 +26,13 @@ _Detectable environmental effects in GW190521-like black-hole binaries with LISA
 
 ### Publications in peer-review journals
 
+1. A. Sesana et al., _Unveiling the Gravitational Universe at μ-Hz Frequencies_,
+White paper submitted to ESA’s Voyage 2050 call (2019),
+Accepted by Experimental Astronomy (2021) [[arXiv:1908.11391](https://arxiv.org/abs/1908.11391)]
+
 1. M. A. Sedda et al.,
 _The Missing Link in Gravitational-Wave Astronomy: Discoveries waiting in the decihertz range_,
-White paper submitted to ESA’s Voyage 2050 call (2019). Class. Quant. Grav. 37 (2020) 21, 215011 [[doi:10.1088/1361-6382/abb5c1](https://iopscience.iop.org/article/10.1088/1361-6382/abb5c1)] [[arXiv:1908.11375](https://arxiv.org/abs/1908.11375)]
+White paper submitted to ESA’s Voyage 2050 call (2019), Class. Quant. Grav. 37 (2020) 21, 215011 [[doi:10.1088/1361-6382/abb5c1](https://iopscience.iop.org/article/10.1088/1361-6382/abb5c1)] [[arXiv:1908.11375](https://arxiv.org/abs/1908.11375)]
  
 42. C. Danielski and N. Tamanini,
 _Will Gravitational Waves Discover the First Extra-Galactic Planetary System?_,
@@ -226,9 +230,6 @@ Proceedings of the 13th Marcell Grossmann Meeting, [[doi:10.1142/9789814623995_0
 
 1. J. Baker et al., _High angular resolution gravitational wave astronomy_,
 White paper submitted to ESA’s Voyage 2050 call (2019), [[arXiv:1908.11410](https://arxiv.org/abs/1908.11410)]
-
-1. A. Sesana et al., _Unveiling the Gravitational Universe at μ-Hz Frequencies_,
-White paper submitted to ESA’s Voyage 2050 call (2019), [[arXiv:1908.11391](https://arxiv.org/abs/1908.11391)]
 
 1. B. S. Sathyaprakash et al., _Cosmology and the Early Universe_,
 White paper submitted to Astro2020 (2020 Decadal Survey on Astronomy and Astrophysics), [[arXiv:1903.09260](https://arxiv.org/abs/1903.09260)]
