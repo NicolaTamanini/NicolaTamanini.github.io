@@ -225,6 +225,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Conferences, workshops and short-term schools attended
 
+1. Feb 2021, _First Einstein Telescope France workshop_, online
+1. Jan 2021, _Meeting of the cosmology working group of the Groupement de Recherche (GdR) on Gravitational Waves_, online
 1. Dec 2020, _Progress on Old and New Themes in cosmology (PONT2020)_, online
 1. Dec 2020, _11th Einstein Telescope Symposium_, online
 1. Dec 2020, _LISA Consortium meeting_, online
