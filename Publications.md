@@ -20,11 +20,11 @@ _Characterisation of lensing selection effects for LISA massive black hole binar
 _Testing the Quasar Hubble Diagram with LISA Standard Sirens_,
 [[arXiv:2010.09049](https://arxiv.org/abs/2010.09049)]
 
+### Publications in peer-review journals
+
 1. A. Toubiana, L. Sberna, A. Caputo, G. Cusin, S. Marsat, K. Jani, S. Babak, E. Barausse, C. Caprini and P. Pani, Alberto Sesana, Nicola Tamanini,
 _Detectable environmental effects in GW190521-like black-hole binaries with LISA_,
-[[arXiv:2010.06056](https://arxiv.org/abs/2010.06056)]
-
-### Publications in peer-review journals
+Accepted by Phys. Rev. Lett. (2021) [[arXiv:2010.06056](https://arxiv.org/abs/2010.06056)]
 
 1. A. Sesana et al., _Unveiling the Gravitational Universe at μ-Hz Frequencies_,
 White paper submitted to ESA’s Voyage 2050 call (2019),
