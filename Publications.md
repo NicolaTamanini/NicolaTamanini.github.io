@@ -22,7 +22,7 @@ _Testing the Quasar Hubble Diagram with LISA Standard Sirens_,
 
 ### Publications in peer-review journals
 
-1. A. Toubiana, L. Sberna, A. Caputo, G. Cusin, S. Marsat, K. Jani, S. Babak, E. Barausse, C. Caprini and P. Pani, Alberto Sesana, Nicola Tamanini,
+1. A. Toubiana, L. Sberna, A. Caputo, G. Cusin, S. Marsat, K. Jani, S. Babak, E. Barausse, C. Caprini, P. Pani, Alberto Sesana, Nicola Tamanini,
 _Detectable environmental effects in GW190521-like black-hole binaries with LISA_,
 Accepted by Phys. Rev. Lett. (2021) [[arXiv:2010.06056](https://arxiv.org/abs/2010.06056)]
 
