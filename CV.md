@@ -81,8 +81,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Academic services
 
-- Member of the postdoc application selection committee at L2IT (2021)
-- Member of the PhD application selection committee at L2IT (2021)
+- Chair of the postdoc application selection committee at L2IT (2021)
+- Chair of the PhD application selection committee at L2IT (2021)
 - Member of the PhD application review committee at the AEI Potsdam (from 2019 to 2021)
 - Organizer of the weekly seminars in the Astrophysical and Cosmological Relativity division at the AEI Potsdam (form 2017 to 2020)
 
