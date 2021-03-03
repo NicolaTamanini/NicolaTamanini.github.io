@@ -41,7 +41,7 @@ Int. J. Mod. Phys. D 29 (2020) 2043007 [[doi:10.1142/S0218271820430075](https://
 
 41. E. Barausse, E. Berti, T. Hertog, S. A. Hughes, P. Jetzer, P. Pani, T. P. Sotiriou, N. Tamanini, H. Witek, K. Yagi, N. Yunes et al.
 _Prospects for Fundamental Physics with LISA_,
-To appear in Class. Quant. Grav. (2020) [[doi:10.1007/s10714-020-02691-1](https://link.springer.com/article/10.1007%2Fs10714-020-02691-1)] [[arXiv:2001.09793](https://arxiv.org/abs/2001.09793)]
+Gen. Rel. Grav. 52 (2020) no.8, 81 [[doi:10.1007/s10714-020-02691-1](https://link.springer.com/article/10.1007%2Fs10714-020-02691-1)] [[arXiv:2001.09793](https://arxiv.org/abs/2001.09793)]
 
 40. C. Danielski, V. Korol, N. Tamanini and E. M. Rossi,
 _Circumbinary exoplanets and brown dwarfs with LISA_,
