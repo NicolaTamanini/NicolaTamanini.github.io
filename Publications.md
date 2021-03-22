@@ -16,11 +16,11 @@ _Gravitational wave cosmology with extreme mass-ratio inspirals_,
 _Characterisation of lensing selection effects for LISA massive black hole binary mergers_,
 [[arXiv:2011.15109](https://arxiv.org/abs/2011.15109)]
 
+### Publications in peer-review journals
+
 1. L. Speri, N. Tamanini, R. R. Caldwell, J. R. Gair and B. Wang,
 _Testing the Quasar Hubble Diagram with LISA Standard Sirens_,
-[[arXiv:2010.09049](https://arxiv.org/abs/2010.09049)]
-
-### Publications in peer-review journals
+Accepted by Phys. Rev. D (2021) [[arXiv:2010.09049](https://arxiv.org/abs/2010.09049)]
 
 1. A. Toubiana, L. Sberna, A. Caputo, G. Cusin, S. Marsat, K. Jani, S. Babak, E. Barausse, C. Caprini, P. Pani, Alberto Sesana, Nicola Tamanini,
 _Detectable environmental effects in GW190521-like black-hole binaries with LISA_,
