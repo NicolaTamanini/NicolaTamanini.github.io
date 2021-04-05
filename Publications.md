@@ -24,7 +24,7 @@ Accepted by Phys. Rev. D (2021) [[arXiv:2010.09049](https://arxiv.org/abs/2010.0
 
 1. A. Toubiana, L. Sberna, A. Caputo, G. Cusin, S. Marsat, K. Jani, S. Babak, E. Barausse, C. Caprini, P. Pani, Alberto Sesana, Nicola Tamanini,
 _Detectable environmental effects in GW190521-like black-hole binaries with LISA_,
-Accepted by Phys. Rev. Lett. (2021) [[arXiv:2010.06056](https://arxiv.org/abs/2010.06056)]
+Phys. Rev. Lett. 126 (2021) no.10, 101105 [[doi:10.1103/PhysRevLett.126.101105](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.101105)] [[arXiv:2010.06056](https://arxiv.org/abs/2010.06056)]
 
 1. A. Sesana et al., _Unveiling the Gravitational Universe at μ-Hz Frequencies_,
 White paper submitted to ESA’s Voyage 2050 call (2019),
