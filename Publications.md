@@ -8,11 +8,6 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
-1. M. A. Sedda et al.,
-_The missing link in gravitational-wave astronomy: A summary of discoveries waiting in the decihertz range_,
-Accepted by Experimental Astronomy (2021)
-[[doi:10.1007/s10686-021-09713-z](https://doi.org/10.1007/s10686-021-09713-z)]
-
 1. D. Laghi, N. Tamanini, W. Del Pozzo, A. Sesana, J. Gair,
 _Gravitational wave cosmology with extreme mass-ratio inspirals_,
 [[arXiv:2102.01708](https://arxiv.org/abs/2102.01708)]
@@ -22,6 +17,11 @@ _Characterisation of lensing selection effects for LISA massive black hole binar
 [[arXiv:2011.15109](https://arxiv.org/abs/2011.15109)]
 
 ### Publications in peer-review journals
+
+1. M. A. Sedda et al.,
+_The missing link in gravitational-wave astronomy: A summary of discoveries waiting in the decihertz range_,
+Accepted by Experimental Astronomy (2021)
+[[doi:10.1007/s10686-021-09713-z](https://doi.org/10.1007/s10686-021-09713-z)]
 
 1. L. Speri, N. Tamanini, R. R. Caldwell, J. R. Gair and B. Wang,
 _Testing the Quasar Hubble Diagram with LISA Standard Sirens_,
