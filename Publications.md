@@ -58,15 +58,15 @@ Phys. Lett. B 798 (2019) 135000 [[doi:10.1016/j.physletb.2019.135000](https://ww
 
 38. G. Calcagni, S. Kuroyanagi, S. Marsat, M. Sakellariadou, N. Tamanini and G. Tasinato,
 _Quantum gravity and gravitational-wave astronomy_,
-JCAP 10 (2019) 012 [[doi:10.1088/1475-7516/2019/10/012](https://iopscience.iop.org/article/10.1088/1475-7516/2019/10/012)] [arXiv:1907.02489](https://arxiv.org/abs/1907.02489)
+JCAP 10 (2019) 012 [[doi:10.1088/1475-7516/2019/10/012](https://iopscience.iop.org/article/10.1088/1475-7516/2019/10/012)] [[arXiv:1907.02489](https://arxiv.org/abs/1907.02489)]
 
 44. N. Tamanini, A. Klein, C. Bonvin, E. Barausse and C. Caprini,
 _Peculiar acceleration of stellar-origin black hole binaries: Measurement and biases with LISA_,
-Phys. Rev. D 101 (2020) no.6, 063002 [[doi:10.1103/PhysRevD.101.063002](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.063002)] [arXiv:1907.02018](https://arxiv.org/abs/1907.02018)]
+Phys. Rev. D 101 (2020) no.6, 063002 [[doi:10.1103/PhysRevD.101.063002](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.063002)] [[arXiv:1907.02018](https://arxiv.org/abs/1907.02018)]
 
 1. N. Tamanini and C. Danielski,
 _The gravitational-wave detection of exoplanets orbiting white dwarf binaries using LISA_,
-Nature Astronomy (2019) [[doi:10.1038/s41550-019-0807-y](https://www.nature.com/articles/s41550-019-0807-y)] ([arXiv:1812.04330](https://arxiv.org/abs/1812.04330)]
+Nature Astronomy (2019) [[doi:10.1038/s41550-019-0807-y](https://www.nature.com/articles/s41550-019-0807-y)] [[arXiv:1812.04330](https://arxiv.org/abs/1812.04330)]
 
 37. B. P. Abbott et al. [LIGO Scientific and Virgo Collaborations],
 _Tests of General Relativity with GW170817_,
