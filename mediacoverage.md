@@ -8,7 +8,7 @@ Here you can find links to articles, interviews, videos and everything else that
 
 #### Using gravitational waves to discover new exoplanets
 
-<img src="/assets/img/DWD_with_planet.JPG" height="300" />
+<img src="/assets/img/DWD_with_planet.jpg" height="300" />
 
 Based on N. Tamanini and C. Danielski, _The gravitational-wave detection of exoplanets orbiting white dwarf binaries using LISA_, Nature Astronomy (2019).
 
