@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-On this page you can find an extended version of my CV, including all relevant academic activities. A short summary is provided at the top. A much compact version of the CV is also available for download [TBA].
+On this page you can find an extended version of my CV, including all relevant academic activities. A short summary is provided at the top. A much compact version of the CV is also available for download [[[pdf](/source/CV_Tamanini.pdf)]].
 
 ### In a nutshell
 
