@@ -4,8 +4,6 @@ layout: default
 
 # Welcome!
 
-Nicola Tamanini's personal webpage is under construction...
-
 <img src="/assets/img/Nicola.JPG" height="200" />
 
 Hi! My name is Nicola Tamanini and I am a researcher working on gravitational wave astronomy, and in particular its implications in astrophysics, cosmology and fundamental physics.
