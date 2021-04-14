@@ -1,6 +1,6 @@
 # Media Coverage
 
-Here you can find links to articles, interviews, videos and everything else that appeared on the media regardng me or my research.
+Here you can find links to articles, interviews, videos and everything else that appeared on the media regarding me or my research.
 
 ### My research in the news
 
