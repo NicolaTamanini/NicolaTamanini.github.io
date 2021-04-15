@@ -8,6 +8,8 @@ Here you can find links to articles, interviews, videos and everything else that
 
 <img src="/assets/img/DWD_with_planet.jpg" height="300" />
 
+Together with Camilla Danielski, I proposed a new observational method to detect circumbinary exoplanets using gravitational waves. In particular we showed how the planned space-based gravitational-wave observatory LISA can detect exoplanets orbiting white dwarf binaries everywhere in our Milky Way, overcoming in this way the limitations of electromagnetic techniques which can search for exoplanets only within the Solar System neighbourhood.
+
 Based on N. Tamanini and C. Danielski, _The gravitational-wave detection of exoplanets orbiting white dwarf binaries using LISA_, Nature Astronomy (2019).
 
 - [Press release from the Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/28074/discovering-exoplanets-with-gravitational-waves?c=26160)
