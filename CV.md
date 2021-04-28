@@ -226,6 +226,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Conferences, workshops and short-term schools attended
 
+1. Apr 2021, _Current challenges in gravitational physics workshop_, online
 1. Mar 2021, _Gwmess2021 (annual conference of the GdR in GWs)_, online
 1. Feb 2021, _First Einstein Telescope France workshop_, online
 1. Jan 2021, _Meeting of the cosmology working group of the Groupement de Recherche (GdR) on Gravitational Waves_, online
