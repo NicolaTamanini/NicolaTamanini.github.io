@@ -10,4 +10,4 @@ Hi! My name is Nicola Tamanini and I am a researcher working on gravitational wa
 
 This is my personal webpage where you will find information on my present and past research activities. Please use the menu on the left to navigate and feel free to contact me if you have any questions.
 
-<img src="/assets/img/GWECS.jpeg" height="400" />
+<img src="/assets/img/GWECS.jpg" height="400" />
