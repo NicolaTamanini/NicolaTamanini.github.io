@@ -138,6 +138,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Refereed research proposals
 
+1. ANR Generic Call for Proposals, France, 2021
 1. FONDECYT Regular Competition, Chile, 2018
 
 ### Travel research grants
