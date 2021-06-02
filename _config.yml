@@ -14,5 +14,7 @@ navigation:
     url: Publications
   - title: Media Coverage
     url: mediacoverage
+  - title: GWs @ L2IT
+    url: GWsL2IT
   - title: Contacts
     url: Contacts
