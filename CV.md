@@ -175,6 +175,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited conference talks
 
+1. _Gravitational wave cosmology: a new arena to test the dark universe_, Talk at Atelier de Physique Théorique des deux infinis, online [07/06/2021]
 1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, Talk at PONT2020, online [10/12/2020]
 1. _Can LISA detect exoplanets?_, Talk at LISA Consortium meeting, Online event [21/07/2020]
 1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, Talk at Multimessenger@Prague, Prague, Czech Republic [09/07/2019]
@@ -227,6 +228,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Conferences, workshops and short-term schools attended
 
+1. Jun 2021, _Atelier de Physique Théorique des deux infinis_, online
 1. May 2021, _Gravitational wave astrophysics for early career scientists (GWÆCS)_, Lorentz Center Workshop, online
 1. Apr 2021, _Current challenges in gravitational physics workshop_, online
 1. Mar 2021, _Gwmess2021 (annual conference of the GdR in GWs)_, online
