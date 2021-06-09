@@ -90,7 +90,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
-- _GW Early Career Scientists Funding Workshop_, online, 2021 [Member of the OC]
+- _GW Early Career Scientists Funding Opportunity Workshop_, online, 2021 [Member of the OC]
 - _Workshop on Gravitational Waves Astrophysics for Early Career Scientists (GWÆCS)_, Leiden, The Netherlands, 2021 [Chair of the OC]
 - _LECS webinar: European research funding opportunities for early career scientists_, online, 2020 [Organiser]
 - _Progress on Old and New Themes in Cosmology (PONT)_, Avignon, France, 2017 [Member of the OC]
