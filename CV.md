@@ -102,17 +102,17 @@ University of Trento, Italy [110/110 e lode]
 - Habilitation for _Maître de Conférence_, France, 2019
 
 
+### Postdocs supervision
+
+- _Danny Laghi_, L2IT (from 2021)
+
+
 ### Teaching
 
 - _Gravitational Waves_, Teacher, Short-term course, 10th TRR-33 Winter School on Cosmology, Passo del Tonale, Italy, 2016
 - _Introduction to Mathematica_, Teacher, Short-term course, University College London, UK, 2013
 - _Introduction to Mathematica_, Teaching assistant, Short-term course, University College London, UK, 2012
 - _Structure of Matter_, Teaching assistant, Long-term course, University of Trento, Italy, 2011
-
-
-### Postdocs supervision
-
-- _Danny Laghi_, L2IT (from 2021)
 
 
 ### Reviewed theses (external reviewer)
