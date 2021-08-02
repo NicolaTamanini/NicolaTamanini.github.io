@@ -110,6 +110,10 @@ University of Trento, Italy [110/110 e lode]
 - _Structure of Matter_, Teaching assistant, Long-term course, University of Trento, Italy, 2011
 
 
+### Postdocs supervision
+
+- _Danny Laghi_, L2IT (from 2021)
+
 
 ### Reviewed theses (external reviewer)
 
