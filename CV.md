@@ -135,6 +135,7 @@ University of Trento, Italy [110/110 e lode]
 1. The Astrophysical Journal
 1. Universe
 1. Research in Astronomy and Astrophysics
+1. The Astronomical Journal
 
 
 ### Refereed research proposals
