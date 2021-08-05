@@ -118,7 +118,7 @@ University of Trento, Italy [110/110 e lode]
 ### Reviewed theses (external reviewer)
 
 - _The astrophysics of black hole binaries in the era of gravitational wave astronomy_, Alberto Mangiagli, PhD thesis, Università degli Studi di Milano-Bicocca, 2020
-- _Extreme Stars in Alternative Theories of Gravity_, Marc Pace, University of Malta, 2017
+- _Extreme Stars in Alternative Theories of Gravity_, Marc Pace, MSc thesis, University of Malta, 2017
 
 
 ### Refereed peer-review research journals
