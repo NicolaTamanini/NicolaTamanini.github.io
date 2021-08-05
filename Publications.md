@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. P. Amaro Seoane _et al_,
+_The Effect of Mission Duration on LISA Science Objectives_,
+[[arXiv:2107.09665](https://arxiv.org/abs/2107.09665)]
+
 1. D. Laghi, N. Tamanini, W. Del Pozzo, A. Sesana, J. Gair,
 _Gravitational wave cosmology with extreme mass-ratio inspirals_,
 [[arXiv:2102.01708](https://arxiv.org/abs/2102.01708)]
