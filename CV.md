@@ -74,7 +74,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research appointements
 
-- Chair of the _LIGO/Virgo Cosmology Working Group_ (since 2021)
+- Chair of the _LIGO/Virgo/Kagra Cosmology Working Group_ (since 2021)
 - Member of the _LISA Publication and Presentation (P&P) Committee_ (since 2021)
 - Coordinator of the _LISA sub-working package_ on estimation of cosmological parameters and standard sirens (since 2019)
 - Elected chair of the _LISA Early Career Scientists_ (LECS) group (from 2019 to 2021)
