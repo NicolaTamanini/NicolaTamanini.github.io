@@ -181,6 +181,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited conference talks
 
+1. _Exploring and building the future of GW astronomy with GWverse_, Talk at the Global meeting of the GWVerse COST action, Lisbon/online [31/08/2021]
 1. _Gravitational wave cosmology: a new arena to test the dark universe_, Talk at Atelier de Physique Théorique des deux infinis, online [07/06/2021]
 1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, Talk at PONT2020, online [10/12/2020]
 1. _Can LISA detect exoplanets?_, Talk at LISA Consortium meeting, Online event [21/07/2020]
@@ -231,6 +232,10 @@ University of Trento, Italy [110/110 e lode]
 
 1. _Hybrid metric-Palatini gravities_, Poster presentation at the 20th International Conference on General Relativity and Gravitation, Warsaw, Poland [07/07/2013]
 
+
+### Participations in conference panel discussions
+
+1. _A career in science: FAQs_, Panel discussion at the Global meeting of the GWVerse COST action, Lisbon/online [30/08/2021]
 
 ### Conferences, workshops and short-term schools attended
 
