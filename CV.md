@@ -239,6 +239,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Conferences, workshops and short-term schools attended
 
+1. Aug 2021, _Global meeting of the GWVerse COST action_, Lisbon/online
 1. Jun 2021, _Atelier de Physique Théorique des deux infinis_, online
 1. May 2021, _Gravitational wave astrophysics for early career scientists (GWÆCS)_, Lorentz Center Workshop, online
 1. Apr 2021, _Current challenges in gravitational physics workshop_, online
