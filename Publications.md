@@ -12,50 +12,65 @@ Here you can find all my publications and links to their records on the most com
 _The Effect of Mission Duration on LISA Science Objectives_,
 [[arXiv:2107.09665](https://arxiv.org/abs/2107.09665)]
 
-1. D. Laghi, N. Tamanini, W. Del Pozzo, A. Sesana, J. Gair,
-_Gravitational wave cosmology with extreme mass-ratio inspirals_,
-[[arXiv:2102.01708](https://arxiv.org/abs/2102.01708)]
 
 ### Publications in peer-review journals
 
+1. D. Laghi, N. Tamanini, W. Del Pozzo, A. Sesana, J. Gair,
+_Gravitational wave cosmology with extreme mass-ratio inspirals_,
+Accepted by Mon. Not. Roy. Astron. Soc. (2021)
+[[arXiv:2102.01708](https://arxiv.org/abs/2102.01708)]
+
 1. G. Cusin and N. Tamanini,
 _Characterisation of lensing selection effects for LISA massive black hole binary mergers_,
-Accepted by MNRAS (2021)
-[[arXiv:2011.15109](https://arxiv.org/abs/2011.15109)]
+Mon. Not. Roy. Astron. Soc. 504 (2021) no.3, 3610-3618
+[[doi:10.1093/mnras/stab1130](https://academic.oup.com/mnras/article-abstract/504/3/3610/6246409)] [[arXiv:2011.15109](https://arxiv.org/abs/2011.15109)]
 
-1. M. A. Sedda et al.,
-_The missing link in gravitational-wave astronomy: A summary of discoveries waiting in the decihertz range_,
-Accepted by Experimental Astronomy (2021)
-[[doi:10.1007/s10686-021-09713-z](https://doi.org/10.1007/s10686-021-09713-z)]
+1. J. Baker et al., _High angular resolution gravitational wave astronomy_,
+White paper submitted to ESA’s Voyage 2050 call (2019),
+Experimental Astronomy (2021)
+[[10.1007/s10686-021-09712-0](https://doi.org/10.1007/s10686-021-09712-0)][[arXiv:1908.11410](https://arxiv.org/abs/1908.11410)]
 
 1. L. Speri, N. Tamanini, R. R. Caldwell, J. R. Gair and B. Wang,
 _Testing the Quasar Hubble Diagram with LISA Standard Sirens_,
-Accepted by Phys. Rev. D (2021) [[arXiv:2010.09049](https://arxiv.org/abs/2010.09049)]
+Phys. Rev. D 103 (2021) no.8, 083526
+[[doi:10.1103/PhysRevD.103.083526](https://doi.org/10.1103/PhysRevD.103.083526)] [[arXiv:2010.09049](https://arxiv.org/abs/2010.09049)]
 
 1. A. Toubiana, L. Sberna, A. Caputo, G. Cusin, S. Marsat, K. Jani, S. Babak, E. Barausse, C. Caprini, P. Pani, Alberto Sesana, Nicola Tamanini,
 _Detectable environmental effects in GW190521-like black-hole binaries with LISA_,
-Phys. Rev. Lett. 126 (2021) no.10, 101105 [[doi:10.1103/PhysRevLett.126.101105](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.101105)] [[arXiv:2010.06056](https://arxiv.org/abs/2010.06056)]
+Phys. Rev. Lett. 126 (2021) no.10, 101105
+[[doi:10.1103/PhysRevLett.126.101105](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.101105)] [[arXiv:2010.06056](https://arxiv.org/abs/2010.06056)]
 
 1. A. Sesana et al., _Unveiling the Gravitational Universe at μ-Hz Frequencies_,
 White paper submitted to ESA’s Voyage 2050 call (2019),
-Accepted by Experimental Astronomy (2021) [[arXiv:1908.11391](https://arxiv.org/abs/1908.11391)]
+Experimental Astronomy (2021)
+[[doi:10.1007/s10686-021-09709-9](https://doi.org/10.1007/s10686-021-09709-9)] [[arXiv:1908.11391](https://arxiv.org/abs/1908.11391)]
+
+1. M. A. Sedda et al.,
+_The missing link in gravitational-wave astronomy: A summary of discoveries waiting in the decihertz range_,
+Experimental Astronomy (2021)
+[[doi:10.1007/s10686-021-09713-z](https://doi.org/10.1007/s10686-021-09713-z)]
 
 1. M. A. Sedda et al.,
 _The Missing Link in Gravitational-Wave Astronomy: Discoveries waiting in the decihertz range_,
-White paper submitted to ESA’s Voyage 2050 call (2019), Class. Quant. Grav. 37 (2020) 21, 215011 [[doi:10.1088/1361-6382/abb5c1](https://iopscience.iop.org/article/10.1088/1361-6382/abb5c1)] [[arXiv:1908.11375](https://arxiv.org/abs/1908.11375)]
+White paper submitted to ESA’s Voyage 2050 call (2019),
+Class. Quant. Grav. 37 (2020) 21, 215011
+[[doi:10.1088/1361-6382/abb5c1](https://iopscience.iop.org/article/10.1088/1361-6382/abb5c1)] [[arXiv:1908.11375](https://arxiv.org/abs/1908.11375)]
  
 42. C. Danielski and N. Tamanini,
 _Will Gravitational Waves Discover the First Extra-Galactic Planetary System?_,
 Received an honorable mention in the Gravity Research Foundation 2020 Awards for Essays on Gravitation,
-Int. J. Mod. Phys. D 29 (2020) 2043007 [[doi:10.1142/S0218271820430075](https://www.worldscientific.com/doi/abs/10.1142/S0218271820430075)] [[arXiv:2007.07010](https://arxiv.org/abs/2007.07010)]
+Int. J. Mod. Phys. D 29 (2020) 2043007
+[[doi:10.1142/S0218271820430075](https://www.worldscientific.com/doi/abs/10.1142/S0218271820430075)] [[arXiv:2007.07010](https://arxiv.org/abs/2007.07010)]
 
 41. E. Barausse, E. Berti, T. Hertog, S. A. Hughes, P. Jetzer, P. Pani, T. P. Sotiriou, N. Tamanini, H. Witek, K. Yagi, N. Yunes et al.
 _Prospects for Fundamental Physics with LISA_,
-Gen. Rel. Grav. 52 (2020) no.8, 81 [[doi:10.1007/s10714-020-02691-1](https://link.springer.com/article/10.1007%2Fs10714-020-02691-1)] [[arXiv:2001.09793](https://arxiv.org/abs/2001.09793)]
+Gen. Rel. Grav. 52 (2020) no.8, 81
+[[doi:10.1007/s10714-020-02691-1](https://link.springer.com/article/10.1007%2Fs10714-020-02691-1)] [[arXiv:2001.09793](https://arxiv.org/abs/2001.09793)]
 
 40. C. Danielski, V. Korol, N. Tamanini and E. M. Rossi,
 _Circumbinary exoplanets and brown dwarfs with LISA_,
-A&A (2019), 632, A113 [[doi:10.1051/0004-6361/201936729](https://www.aanda.org/articles/aa/abs/2019/12/aa36729-19/aa36729-19.html)] [[arXiv:1910.05414](https://arxiv.org/abs/1910.05414)]
+A&A (2019), 632, A113
+[[doi:10.1051/0004-6361/201936729](https://www.aanda.org/articles/aa/abs/2019/12/aa36729-19/aa36729-19.html)] [[arXiv:1910.05414](https://arxiv.org/abs/1910.05414)]
 
 39. G. Calcagni, S. Kuroyanagi, S. Marsat, M. Sakellariadou, N. Tamanini and G. Tasinato,
 _Gravitational-wave luminosity distance in quantum gravity_,
@@ -237,9 +252,6 @@ Proceedings of the 13th Marcell Grossmann Meeting, [[doi:10.1142/9789814623995_0
 
 
 ### White papers & other documents (not peer-reviewed)
-
-1. J. Baker et al., _High angular resolution gravitational wave astronomy_,
-White paper submitted to ESA’s Voyage 2050 call (2019), [[arXiv:1908.11410](https://arxiv.org/abs/1908.11410)]
 
 1. B. S. Sathyaprakash et al., _Cosmology and the Early Universe_,
 White paper submitted to Astro2020 (2020 Decadal Survey on Astronomy and Astrophysics), [[arXiv:1903.09260](https://arxiv.org/abs/1903.09260)]
