@@ -74,6 +74,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research appointements
 
+- Elected junior chair of the _LISA Cosmology Working Group_ (since 2021)
 - Chair of the _LIGO/Virgo/Kagra Cosmology Working Group_ (since 2021)
 - Member of the _LISA Publication and Presentation (P&P) Committee_ (since 2021)
 - Coordinator of the _LISA sub-working package_ on estimation of cosmological parameters and standard sirens (since 2019)
@@ -82,18 +83,19 @@ University of Trento, Italy [110/110 e lode]
 
 ### Academic services
 
-- Chair of the postdoc application selection committee at L2IT (2021)
-- Chair of the PhD application selection committee at L2IT (2021)
+- Chair of the gravitational-wave postdoc application selection committee at L2IT (2021)
+- Chair of the gravitational-wave PhD application selection committee at L2IT (2021)
 - Member of the PhD application review committee at the AEI Potsdam (from 2019 to 2021)
 - Organizer of the weekly seminars in the Astrophysical and Cosmological Relativity division at the AEI Potsdam (form 2017 to 2020)
 
 
 ### Organisation of scientific meetings
 
-- _GW Early Career Scientists Funding Opportunity Workshop_, online, 2021 [Member of the OC]
-- _Workshop on Gravitational Waves Astrophysics for Early Career Scientists (GWÆCS)_, Leiden, The Netherlands, 2021 [Chair of the OC]
-- _LECS webinar: European research funding opportunities for early career scientists_, online, 2020 [Organiser]
-- _Progress on Old and New Themes in Cosmology (PONT)_, Avignon, France, 2017 [Member of the OC]
+- _GW Early Career Scientists (GWECS) Meeting_, online, Sept 2021 [Chair of the OC]
+- _GW Early Career Scientists Funding Opportunity Workshop_, online, Jun 2021 [Member of the OC]
+- _Workshop on Gravitational Waves Astrophysics for Early Career Scientists (GWÆCS)_, Leiden, The Netherlands, May 2021 [Chair of the OC]
+- _LECS webinar: European research funding opportunities for early career scientists_, online, Jul 2020 [Organiser]
+- _Progress on Old and New Themes in Cosmology (PONT)_, Avignon, France, Apr 2017 [Member of the OC]
 
 
 ### Qualifications
@@ -104,11 +106,13 @@ University of Trento, Italy [110/110 e lode]
 
 ### Postdocs supervision
 
-- _Danny Laghi_, L2IT (from 2021)
+- _Martina Toscani_, L2IT (from Nov 2021)
+- _Danny Laghi_, L2IT (from Jul 2021)
 
 
 ### Teaching
 
+- _Gravitational Wave Cosmology_, Teacher, Invited pedagogical seminar, Ecole de Gif 2021, Marseille, France, 2021
 - _Gravitational Waves_, Teacher, Short-term course, 10th TRR-33 Winter School on Cosmology, Passo del Tonale, Italy, 2016
 - _Introduction to Mathematica_, Teacher, Short-term course, University College London, UK, 2013
 - _Introduction to Mathematica_, Teaching assistant, Short-term course, University College London, UK, 2012
