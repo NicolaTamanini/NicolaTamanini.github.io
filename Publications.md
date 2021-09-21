@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. M. Corman, A. Ghosh, C. Escamilla-Rivera, M. A. Hendry, S. Marsat and N. Tamanini,
+_Constraining cosmological extra dimensions with gravitational wave standard sirens: from theory to current and future multi-messenger observations_,
+[[arXiv:2109.08748](https://arxiv.org/abs/2109.08748)]
+
 1. P. Amaro Seoane _et al_,
 _The Effect of Mission Duration on LISA Science Objectives_,
 [[arXiv:2107.09665](https://arxiv.org/abs/2107.09665)]
