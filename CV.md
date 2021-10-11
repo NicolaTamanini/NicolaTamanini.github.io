@@ -206,6 +206,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Contributed conference talks
 
+1. _Constraining higher-dimensional cosmology with gravitational wave standard sirens_, Talk at the Cinquième Assemblée Générale du GdR Ondes Gravitationnelles, Annecy, France [11/10/2021]
 1. _Mapping the cosmic expansion with LISA standard sirens: current status, challenges and opportunities_, Talk at the LISA Symposium XIII, online [02/09/2020]
 1. _Detecting circumbinary exoplanets orbiting double white dwarf binaries with LISA_, Talk at the Texas Symposium on Relativistic Astrophysics, Portsmouth, UK [17/12/2019]
 1. _Circumbinary exoplanets: a new science case for LISA_, Talk at the LISA astrophysics working group meeting, Paris, France [12/12/2018]
@@ -243,6 +244,9 @@ University of Trento, Italy [110/110 e lode]
 
 ### Conferences, workshops and short-term schools attended
 
+1. Oct 2021, Cinquième Assemblée Générale du GdR Ondes Gravitationnelles, Annecy, France
+1. Sept 2021, Gravitational wave early career scientists (GWECS) meeting, online
+1. Sept 2021, École de Gif, Marseille, France
 1. Aug 2021, _Global meeting of the GWVerse COST action_, Lisbon/online
 1. Jun 2021, _Atelier de Physique Théorique des deux infinis_, online
 1. May 2021, _Gravitational wave astrophysics for early career scientists (GWÆCS)_, Lorentz Center Workshop, online
