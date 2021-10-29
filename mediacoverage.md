@@ -16,6 +16,10 @@ Based on N. Tamanini and C. Danielski, _The gravitational-wave detection of exop
 - [Press release from CEA Saclay](http://irfu.cea.fr/Phocea/Vie_des_labos/Ast/ast_visu.php?id_ast=4611&fbclid=IwAR2aueXVZrMAZEN8e58tq4DUQ6924I-WkFhqCCC8mxFcDv9rVBwp1K1bquk)
 - [Article on _Scientific American_](https://www.scientificamerican.com/article/future-gravitational-wave-detectors-could-find-exoplanets-too/?fbclid=IwAR3UnG7LwTBzD6uNSpfFhEjXo4rCehHxu1J6tYaFYy82A_DUyz7x0krsaFw)
 
+Based on C. Danielski and N. Tamanini, _Will gravitational waves discover the first extra-galactic planetary system?_, International Journal of Modern Physics D (2020).
+
+- [Article on _space.com_](https://www.space.com/amp/gravitational-waves-to-detect-planets-beyond-galaxy.html?fbclid=IwAR0drfRXBu_hSwdaufz2PYjM8aGC7080VkSicOzRGZ2JrafsnhihspGrY6U)
+
 ### Interviews
 
 - [Interview](https://eurotalents.cea.fr/english/postdoctoral-fellowship/Pages/Fellows%20and%20Community/Success%20Stories/Nicola-Tamanini.aspx) for the Eurotalents website at CEA Saclay, 2016
