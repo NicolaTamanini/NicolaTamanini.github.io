@@ -33,7 +33,7 @@ Mon. Not. Roy. Astron. Soc. 504 (2021) no.3, 3610-3618
 
 1. J. Baker et al., _High angular resolution gravitational wave astronomy_,
 White paper submitted to ESA’s Voyage 2050 call (2019),
-Experimental Astronomy (2021)
+Exper. Astron. 51 (2021) no.3, 1441-1470
 [[10.1007/s10686-021-09712-0](https://doi.org/10.1007/s10686-021-09712-0)][[arXiv:1908.11410](https://arxiv.org/abs/1908.11410)]
 
 1. L. Speri, N. Tamanini, R. R. Caldwell, J. R. Gair and B. Wang,
@@ -48,12 +48,12 @@ Phys. Rev. Lett. 126 (2021) no.10, 101105
 
 1. A. Sesana et al., _Unveiling the Gravitational Universe at μ-Hz Frequencies_,
 White paper submitted to ESA’s Voyage 2050 call (2019),
-Experimental Astronomy (2021)
+Exper. Astron. 51 (2021) no.3, 1333-1383
 [[doi:10.1007/s10686-021-09709-9](https://doi.org/10.1007/s10686-021-09709-9)] [[arXiv:1908.11391](https://arxiv.org/abs/1908.11391)]
 
 1. M. A. Sedda et al.,
 _The missing link in gravitational-wave astronomy: A summary of discoveries waiting in the decihertz range_,
-Experimental Astronomy (2021)
+Exper. Astron. 51 (2021) no.3, 1427-1440
 [[doi:10.1007/s10686-021-09713-z](https://doi.org/10.1007/s10686-021-09713-z)]
 
 1. M. A. Sedda et al.,
