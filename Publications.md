@@ -12,12 +12,13 @@ Here you can find all my publications and links to their records on the most com
 _Constraining cosmological extra dimensions with gravitational wave standard sirens: from theory to current and future multi-messenger observations_,
 [[arXiv:2109.08748](https://arxiv.org/abs/2109.08748)]
 
-1. P. Amaro Seoane _et al_,
-_The Effect of Mission Duration on LISA Science Objectives_,
-[[arXiv:2107.09665](https://arxiv.org/abs/2107.09665)]
-
 
 ### Publications in peer-review journals
+
+1. P. Amaro Seoane _et al_,
+_The Effect of Mission Duration on LISA Science Objectives_,
+Accepted by GERG (2021)
+[[arXiv:2107.09665](https://arxiv.org/abs/2107.09665)]
 
 1. D. Laghi, N. Tamanini, W. Del Pozzo, A. Sesana, J. Gair,
 _Gravitational wave cosmology with extreme mass-ratio inspirals_,
