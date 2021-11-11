@@ -104,10 +104,20 @@ University of Trento, Italy [110/110 e lode]
 - Habilitation for _Maître de Conférence_, France, 2019
 
 
-### Postdocs supervision
+### Postdocs supervised
 
 - _Martina Toscani_, L2IT (from Nov 2021)
 - _Danny Laghi_, L2IT (from Jul 2021)
+
+
+### PhD students supervised
+
+- _Vivienne Langen_, L2IT (from Nov 2021)
+
+
+### Master students supervised
+
+- _Niccolò Muttoni_, L2IT (from Nov 2021)
 
 
 ### Teaching
@@ -121,6 +131,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Reviewed theses (external reviewer)
 
+- _Étude de l'influence gravitationnelle d'une impulsion lumineuse_, Paul Lageyre, PhD thesis, Université de Bordeaux, 2021
 - _The astrophysics of black hole binaries in the era of gravitational wave astronomy_, Alberto Mangiagli, PhD thesis, Università degli Studi di Milano-Bicocca, 2020
 - _Extreme Stars in Alternative Theories of Gravity_, Marc Pace, MSc thesis, University of Malta, 2017
 
