@@ -42,6 +42,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Large collaboration memberships
 
+- Leader of the _Virgo group_ at L2IT [since 2021]
+- Leader of the _LISA group_ at L2IT [since 2021]
 - Member of the _Virgo Collaboration_ [since 2021]
 - Full member of the _LISA Consortium_ [since 2014]
 - Member of the _LIGO Scientific Collaboration_ [from 2017 to 2021]
