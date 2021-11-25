@@ -8,6 +8,14 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. V. Kalogera _et al_,
+_The Next Generation Global Gravitational Wave Observatory: The Science Book_,
+[[arXiv:2111.06990 [gr-qc](https://arxiv.org/abs/2111.06990 )]
+
+1. R. Abbot _et al_ [LIGO-Virgo-Kagra Collaboration],
+_Constraints on the cosmic expansion history from GWTC–3_,
+[[arXiv:2111.03604](https://arxiv.org/abs/2111.03604)]
+
 1. M. Corman, A. Ghosh, C. Escamilla-Rivera, M. A. Hendry, S. Marsat and N. Tamanini,
 _Constraining cosmological extra dimensions with gravitational wave standard sirens: from theory to current and future multi-messenger observations_,
 [[arXiv:2109.08748](https://arxiv.org/abs/2109.08748)]
