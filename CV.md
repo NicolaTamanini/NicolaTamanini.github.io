@@ -199,6 +199,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited conference talks
 
+1. _Cosmology with gravitaitonal-wave standard sirens_, Talk at the Paris Saclay Astroparticule Symposium, Sacaly, France [26/11/2021]
 1. _Exploring and building the future of GW astronomy with GWverse_, Talk at the Global meeting of the GWVerse COST action, Lisbon/online [31/08/2021]
 1. _Gravitational wave cosmology: a new arena to test the dark universe_, Talk at Atelier de Physique Théorique des deux infinis, online [07/06/2021]
 1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, Talk at PONT2020, online [10/12/2020]
@@ -258,6 +259,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Conferences, workshops and short-term schools attended
 
+1. Nov 2021, _Paris Saclay Astroparticule Symposium_, Saclay, France
+1. Nov 2021, _Gravitational wave job fair 2021_, online 
 1. Oct 2021, _Colloque de restitution de l'exercice de prospective nationale 2021-2030_, Giens, France
 1. Oct 2021, _Cinquième Assemblée Générale du GdR Ondes Gravitationnelles_, Annecy, France
 1. Sept 2021, _Gravitational wave early career scientists (GWECS) meeting_, online
