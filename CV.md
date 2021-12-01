@@ -257,8 +257,9 @@ University of Trento, Italy [110/110 e lode]
 
 1. _A career in science: FAQs_, Panel discussion at the Global meeting of the GWVerse COST action, Lisbon/online [30/08/2021]
 
-### Conferences, workshops and short-term schools attended
+### Scientific events attended
 
+1. Dec 2021, _Journée thématique de physique nucléaire et physique astro-nucleare_, Toulouse, France
 1. Nov 2021, _Paris Saclay Astroparticule Symposium_, Saclay, France
 1. Nov 2021, _Gravitational wave job fair 2021_, online 
 1. Oct 2021, _Colloque de restitution de l'exercice de prospective nationale 2021-2030_, Giens, France
