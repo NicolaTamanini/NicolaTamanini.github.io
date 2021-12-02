@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. J. B. Bayle _et al_,
+_Legacy of the First Workshop on Gravitational Wave Astrophysics for Early Career Scientists_
+[[arXiv:2111.15596](https://arxiv.org/abs/2111.15596)]
+
 1. V. Kalogera _et al_,
 _The Next Generation Global Gravitational Wave Observatory: The Science Book_,
 [[arXiv:2111.06990](https://arxiv.org/abs/2111.06990)]
