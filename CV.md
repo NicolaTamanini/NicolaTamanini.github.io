@@ -93,6 +93,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
+- _IRAP-L2IT gravitational waves mini-symposium_, Toulouse, France, Dec 2021 [Member of the OC]
+- _9th LISA Cosmology Working Group Workshop_, online, Dec 2021 [Member of the OC]
 - _GW Job Fair_, online, Nov 2021 [Member of the OC]
 - _GW Early Career Scientists (GWECS) Meeting_, online, Sept 2021 [Chair of the OC]
 - _GW Early Career Scientists Funding Opportunity Workshop_, online, Jun 2021 [Member of the OC]
@@ -118,7 +120,7 @@ University of Trento, Italy [110/110 e lode]
 - _Vivienne Langen_, L2IT (from Nov 2021)
 
 
-### Master students supervised
+### Student internships supervised
 
 - _Niccolò Muttoni_, L2IT (from Nov 2021)
 
@@ -199,6 +201,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited conference talks
 
+1. _Science overview of LIGO/Virgo and LISA_, IRAP-L2IT gravitaitonal waves mini-symposium, Toulouse, France [10/12/2021]
 1. _Cosmology with gravitaitonal-wave standard sirens_, Talk at the Paris Saclay Astroparticule Symposium, Sacaly, France [26/11/2021]
 1. _Exploring and building the future of GW astronomy with GWverse_, Talk at the Global meeting of the GWVerse COST action, Lisbon/online [31/08/2021]
 1. _Gravitational wave cosmology: a new arena to test the dark universe_, Talk at Atelier de Physique Théorique des deux infinis, online [07/06/2021]
@@ -222,30 +225,30 @@ University of Trento, Italy [110/110 e lode]
 ### Contributed conference talks
 
 1. _Constraining higher-dimensional cosmology with gravitational wave standard sirens_, Talk at the Cinquième Assemblée Générale du GdR Ondes Gravitationnelles, Annecy, France [11/10/2021]
-1. _Mapping the cosmic expansion with LISA standard sirens: current status, challenges and opportunities_, Talk at the LISA Symposium XIII, online [02/09/2020]
-1. _Detecting circumbinary exoplanets orbiting double white dwarf binaries with LISA_, Talk at the Texas Symposium on Relativistic Astrophysics, Portsmouth, UK [17/12/2019]
-1. _Circumbinary exoplanets: a new science case for LISA_, Talk at the LISA astrophysics working group meeting, Paris, France [12/12/2018]
-1. _Cosmology at all redshifts with LISA_, Talk at the 12th LISA symposium, Chicago, USA [12/07/2018]
-1. _LISA standard sirens_, Talk at the 5th LISA cosmology working group workshop, Helsinki, Finland [11/06/2018]
-1. _Standard sirens cosmography with LISA_, Talk at the GWverse COST action meeting, Valletta, Malta [22/01/2018]
-1. _Measuring the peculiar acceleration of binary black holes with LISA_, Talk at TEGrAW, Paris, France [30/06/2017]
-1. _Cosmology with LISA: massive black hole mergers as standard sirens_, Talk at GPhys, Meudon, France [19/06/2017]
-1. _Probing cosmology and measuring the peculiar acceleration of binary black holes with LISA_, Talk at StronG BaD, Oxford, Mississippi, USA [28/02/2017]
-1. _Gravitational waves: present and future observations plus cosmological applications_, Talk at Strings, Cosmology, and Gravity Student Conference 2017, Paris, France [17/02/2017]
-1. _The effect of matter structure on the gravitational waveform_, Talk at Gravitational Waves and Cosmology \& the 3rd eLISA Cosmology Working Group Workshop, DESY Hamburg, Germany [21/10/2016]
-1. _Late-time cosmology with eLISA_, Talk at the 11th International LISA Symposium, Zurich, Switzerland [08/09/2016]
-1. _Late-time cosmology with gravitational waves_, Talk at the GRavitational-wave Astronomy Meeting in PAris (GRAMPA), Paris, France [31/08/2016]
-1. _Late-time cosmology with eLISA_, Talk at the 21st International Conference on General Relativity and Gravitation, New York, USA [13/07/2016]
-1. _Late-time cosmology with eLISA_, Talk at Cosmology after Planck: what is next?, Les Houches, France [27/04/2016]
-1. _Late-time cosmology with eLISA_, Talk at the 28th Texas Symposium on Relativistic Astrophysics, Geneva, Switzerland [16/12/2015]
-1. _Late-time cosmology with eLISA_, Talk at the eLISA consortium meeting, Paris, France [13/10/2015]
-1. _Late-time cosmology with eLISA_, Talk at the 2nd eLISA Cosmology Working Group Workshop, Stavanger, Norway [23/09/2015]
-1. _Late-time cosmology with gravitational waves_, Talk at the 8th Aegean Summer School, Rethymno, Greece [30/06/2015]
-1. _New phenomenology for interacting dark energy_, Talk at UK Cosmology Meeting, Queen Mary University of London, UK [27/02/2015]
-1. _Cosmic dynamics of cosmological scalar fields_, Talk at BritGrav14, Cambridge, UK [01/03/2014]
-1. _The complete dynamics of a cosmological scalar field capable of crossing the phantom barrier_, Talk at UK Cosmology Meeting, Kings College London, UK [20/01/2014]
-1. _Good tetrads and exact solutions in f(T) gravity_,Talk at the 13th Marcel Grossmann Meeting, Stockholm, Sweden [05/07/2012]
-1. _A biconnection variational principle for General Relativity_,Talk at the 13th Marcel Grossmann Meeting, Stockholm, Sweden [03/07/2012]
+4. _Mapping the cosmic expansion with LISA standard sirens: current status, challenges and opportunities_, Talk at the LISA Symposium XIII, online [02/09/2020]
+5. _Detecting circumbinary exoplanets orbiting double white dwarf binaries with LISA_, Talk at the Texas Symposium on Relativistic Astrophysics, Portsmouth, UK [17/12/2019]
+6. _Circumbinary exoplanets: a new science case for LISA_, Talk at the LISA astrophysics working group meeting, Paris, France [12/12/2018]
+7. _Cosmology at all redshifts with LISA_, Talk at the 12th LISA symposium, Chicago, USA [12/07/2018]
+8. _LISA standard sirens_, Talk at the 5th LISA cosmology working group workshop, Helsinki, Finland [11/06/2018]
+9. _Standard sirens cosmography with LISA_, Talk at the GWverse COST action meeting, Valletta, Malta [22/01/2018]
+10. _Measuring the peculiar acceleration of binary black holes with LISA_, Talk at TEGrAW, Paris, France [30/06/2017]
+11. _Cosmology with LISA: massive black hole mergers as standard sirens_, Talk at GPhys, Meudon, France [19/06/2017]
+12. _Probing cosmology and measuring the peculiar acceleration of binary black holes with LISA_, Talk at StronG BaD, Oxford, Mississippi, USA [28/02/2017]
+13. _Gravitational waves: present and future observations plus cosmological applications_, Talk at Strings, Cosmology, and Gravity Student Conference 2017, Paris, France [17/02/2017]
+14. _The effect of matter structure on the gravitational waveform_, Talk at Gravitational Waves and Cosmology \& the 3rd eLISA Cosmology Working Group Workshop, DESY Hamburg, Germany [21/10/2016]
+15. _Late-time cosmology with eLISA_, Talk at the 11th International LISA Symposium, Zurich, Switzerland [08/09/2016]
+16. _Late-time cosmology with gravitational waves_, Talk at the GRavitational-wave Astronomy Meeting in PAris (GRAMPA), Paris, France [31/08/2016]
+17. _Late-time cosmology with eLISA_, Talk at the 21st International Conference on General Relativity and Gravitation, New York, USA [13/07/2016]
+18. _Late-time cosmology with eLISA_, Talk at Cosmology after Planck: what is next?, Les Houches, France [27/04/2016]
+19. _Late-time cosmology with eLISA_, Talk at the 28th Texas Symposium on Relativistic Astrophysics, Geneva, Switzerland [16/12/2015]
+20. _Late-time cosmology with eLISA_, Talk at the eLISA consortium meeting, Paris, France [13/10/2015]
+21. _Late-time cosmology with eLISA_, Talk at the 2nd eLISA Cosmology Working Group Workshop, Stavanger, Norway [23/09/2015]
+22. _Late-time cosmology with gravitational waves_, Talk at the 8th Aegean Summer School, Rethymno, Greece [30/06/2015]
+23. _New phenomenology for interacting dark energy_, Talk at UK Cosmology Meeting, Queen Mary University of London, UK [27/02/2015]
+24. _Cosmic dynamics of cosmological scalar fields_, Talk at BritGrav14, Cambridge, UK [01/03/2014]
+25. _The complete dynamics of a cosmological scalar field capable of crossing the phantom barrier_, Talk at UK Cosmology Meeting, Kings College London, UK [20/01/2014]
+26. _Good tetrads and exact solutions in f(T) gravity_,Talk at the 13th Marcel Grossmann Meeting, Stockholm, Sweden [05/07/2012]
+27. _A biconnection variational principle for General Relativity_,Talk at the 13th Marcel Grossmann Meeting, Stockholm, Sweden [03/07/2012]
 
 
 ### Posters presentations at conferences
@@ -259,76 +262,78 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
-1. Dec 2021, _Journée thématique de physique nucléaire et physique astro-nucleare_, Toulouse, France
-1. Nov 2021, _Paris Saclay Astroparticule Symposium_, Saclay, France
-1. Nov 2021, _Gravitational wave job fair 2021_, online 
-1. Oct 2021, _Colloque de restitution de l'exercice de prospective nationale 2021-2030_, Giens, France
-1. Oct 2021, _Cinquième Assemblée Générale du GdR Ondes Gravitationnelles_, Annecy, France
-1. Sept 2021, _Gravitational wave early career scientists (GWECS) meeting_, online
-1. Sept 2021, _École de Gif_, Marseille, France
-1. Aug 2021, _Global meeting of the GWVerse COST action_, Lisbon/online
-1. Jun 2021, _Atelier de Physique Théorique des deux infinis_, online
-1. May 2021, _Gravitational wave astrophysics for early career scientists (GWÆCS)_, Lorentz Center Workshop, online
-1. Apr 2021, _Current challenges in gravitational physics workshop_, online
-1. Mar 2021, _Gwmess2021 (annual conference of the GdR in GWs)_, online
-1. Feb 2021, _First Einstein Telescope France workshop_, online
-1. Jan 2021, _Meeting of the cosmology working group of the Groupement de Recherche (GdR) on Gravitational Waves_, online
-1. Dec 2020, _Progress on Old and New Themes in cosmology (PONT2020)_, online
-1. Dec 2020, _11th Einstein Telescope Symposium_, online
-1. Dec 2020, _LISA Consortium meeting_, online
-1. Oct 2020, _General meeting of the GdR ondes gravitationnelles_, online
-1. Sept 2020, _LISA Symposium XIII_, online
-1. Jun 2020, _LISA Consortium meeting_, online
-1. Dec 2019, _Texas Symposium on Relativistic Astrophysics_, Portsmouth, UK
-1. Dec 2019, _Multimessenger@Prague_, Prague, Czech Republic
-1. Jul 2019, _GR22/Amaldi13_, Valencia, Spain
-1. Jun 2019, _KITP conference Merging Visions: Exploring Compact Object Binaries with Gravity and Light_, Santa Barbara, USA
-1. Mar 2019, _Rencontres de Moriond_, La Thuile, Italy
-1. Mar 2019, _Enabling LISA Science Exploitation workshop_, Leiden, The Netherlands
-1. Dic 2018, _LISA astrophysics Working Group meeting_, Paris, France
-1. Nov 2018, _LISA Fundamental Physics Working Group meeting_, Firenze, Italy
-1. Nov 2018, _LISA consortium meeting_, Marseille, France
-1. Oct 2018, _General meeting of the GdR ondes gravitationnelles_, Paris, France
-1. Sept 2018, _2018 DESY Theory Workshop_, Hamburg, Germany
-1. Sept 2018, _LIGO/Virgo collaboration meeting_, Maastricht, Netherlands
-1. Jul 2018, _12th LISA symposium_, Chicago, USA
-1. Jun 2018, _5th LISA cosmology working group workshop_, Helsinki, Finland
-1. Jan 2018 _GWverse COST action meeting_, Valletta, Malta
-1. Nov 2017, _LISA consortium meeting_, Amsterdam, Netherlands
-1. Oct 2017, _4th LISA cosmology working group workshop_, Mainz, Germany
-1. Oct 2017, _LISA France meeting_, Paris, France
-1. Jul 2017, _Advances in Theoretical Cosmology in Light of Data_, Stockholm, Sweden
-1. Jun 2017, _The Era of Gravitational wave Astronomy_, Paris, France
-1. Jun 2017, _GPhys_, Meudon, France
-1. Jun 2017, _Gravitational waves for astrophysics and cosmology_, Benasque, Spain
-1. Apr 2017, _Progress on Old and New Themes in cosmology (PONT2017)_, Avignon, France
-1. Feb 2017, _StronG BaD_, Oxford, Mississippi, USA
-1. Feb 2017, _Strings, Cosmology, and Gravity Student Conference 2017_, Paris, France
-1. Dic 2016, _10th TRR1.33 Winter School on Cosmology_, Passo del Tonale, Italy
-1. Nov 2016, _1st CANTATA meeting_, Lisbon, Portugal
-1. Oct 2016, _Gravitational Waves and Cosmology \& the 3rd eLISA Cosmology Working Group Workshop_, DESY Hamburg, Germany
-1. Sept 2016, _11th International LISA Symposium_, Zurich, Switzerland 
-1. Aug 2016, _GRavitational1.wave Astronomy Meeting in PAris (GRAMPA)_, Paris, France
-1. Jul 2016, _21st International Conference on General Relativity and Gravitation_, New York, USA
-1. Apr 2016, _Cosmology after Planck: what is next?_, Les Houches, France
-1. Oct 2015, _28th Texas Symposium on Relativistic Astrophysics_, Geneva, Switzerland   
-1. Oct 2015, _The Time Machine Factory_, Torino, Italy
-1. Oct 2015, _eLISA consortium meeting_, Paris, France
-1. Sept 2015, _2nd eLISA Cosmology Working Group Workshop_, Stavanger, Norway
-1. Jun 2015, _8th Aegean summer school on gravitational waves_, Rethymno (Crete), Greece
-1. Apr 2015, _1st workshop of the eLISA cosmology working group_, CERN, Geneva, Switzerland
-1. Mar 2015, _Extended theories of gravity_, Nordita, Stockholm, Sweden
-1. Feb 2015, _UK Cosmology Meeting_, Queen Mary University of London, UK
-1. Nov 2014, _Modern aspects of gravity and cosmology_, LPT, Orsay, France
-1. Sept 2014, _Dark Matter Numerical Simulations_, IPhT, CEA1.Saclay, France
-1. Apr 2014, _Progress on Old and New Themes in cosmology (PONT)_, Avignon, France  
-1. Mar 2014, _BritGrav14_, Cambridge, UK
-1. Mar 2014, _Cosmology and the constants of Nature_, Cambridge, UK   
-1. Jan 2014, _UK Cosmology Meeting_, Kings College London, UK
-1. July 2013, _20th International Conference on General Relativity and Gravitation and 10th Amaldi Conference on Gravitational Waves_, Warsaw, Poland   
-1. July 2012, _13th Marcel Grossmann Meeting_, Stockholm, Sweden
-1. Sept 2011, _Do we understand gravity?_, Institute of Physics, London, UK
-1. Dic 2010, _4th TRR1.33 Winter School on Cosmology_, Passo del Tonale, Italy
+1. Dec 2021, _IRAP-L2IT gravitatinal waves mini-symposium_, Toulouse, France
+2. Dec 2021, _9th LISA Cosmology Working Group Workshop_, online
+3. Dec 2021, _Journée thématique de physique nucléaire et physique astro-nucleare_, Toulouse, France
+4. Nov 2021, _Paris Saclay Astroparticule Symposium_, Saclay, France
+5. Nov 2021, _Gravitational wave job fair 2021_, online 
+6. Oct 2021, _Colloque de restitution de l'exercice de prospective nationale 2021-2030_, Giens, France
+7. Oct 2021, _Cinquième Assemblée Générale du GdR Ondes Gravitationnelles_, Annecy, France
+8. Sept 2021, _Gravitational wave early career scientists (GWECS) meeting_, online
+9. Sept 2021, _École de Gif_, Marseille, France
+10. Aug 2021, _Global meeting of the GWVerse COST action_, Lisbon/online
+11. Jun 2021, _Atelier de Physique Théorique des deux infinis_, online
+12. May 2021, _Gravitational wave astrophysics for early career scientists (GWÆCS)_, Lorentz Center Workshop, online
+13. Apr 2021, _Current challenges in gravitational physics workshop_, online
+14. Mar 2021, _Gwmess2021 (annual conference of the GdR in GWs)_, online
+15. Feb 2021, _First Einstein Telescope France workshop_, online
+16. Jan 2021, _Meeting of the cosmology working group of the Groupement de Recherche (GdR) on Gravitational Waves_, online
+17. Dec 2020, _Progress on Old and New Themes in cosmology (PONT2020)_, online
+18. Dec 2020, _11th Einstein Telescope Symposium_, online
+19. Dec 2020, _LISA Consortium meeting_, online
+20. Oct 2020, _General meeting of the GdR ondes gravitationnelles_, online
+21. Sept 2020, _LISA Symposium XIII_, online
+22. Jun 2020, _LISA Consortium meeting_, online
+23. Dec 2019, _Texas Symposium on Relativistic Astrophysics_, Portsmouth, UK
+24. Dec 2019, _Multimessenger@Prague_, Prague, Czech Republic
+25. Jul 2019, _GR22/Amaldi13_, Valencia, Spain
+26. Jun 2019, _KITP conference Merging Visions: Exploring Compact Object Binaries with Gravity and Light_, Santa Barbara, USA
+27. Mar 2019, _Rencontres de Moriond_, La Thuile, Italy
+28. Mar 2019, _Enabling LISA Science Exploitation workshop_, Leiden, The Netherlands
+29. Dic 2018, _LISA astrophysics Working Group meeting_, Paris, France
+30. Nov 2018, _LISA Fundamental Physics Working Group meeting_, Firenze, Italy
+31. Nov 2018, _LISA consortium meeting_, Marseille, France
+32. Oct 2018, _General meeting of the GdR ondes gravitationnelles_, Paris, France
+33. Sept 2018, _2018 DESY Theory Workshop_, Hamburg, Germany
+34. Sept 2018, _LIGO/Virgo collaboration meeting_, Maastricht, Netherlands
+35. Jul 2018, _12th LISA symposium_, Chicago, USA
+36. Jun 2018, _5th LISA cosmology working group workshop_, Helsinki, Finland
+37. Jan 2018 _GWverse COST action meeting_, Valletta, Malta
+38. Nov 2017, _LISA consortium meeting_, Amsterdam, Netherlands
+39. Oct 2017, _4th LISA cosmology working group workshop_, Mainz, Germany
+40. Oct 2017, _LISA France meeting_, Paris, France
+41. Jul 2017, _Advances in Theoretical Cosmology in Light of Data_, Stockholm, Sweden
+42. Jun 2017, _The Era of Gravitational wave Astronomy_, Paris, France
+43. Jun 2017, _GPhys_, Meudon, France
+44. Jun 2017, _Gravitational waves for astrophysics and cosmology_, Benasque, Spain
+45. Apr 2017, _Progress on Old and New Themes in cosmology (PONT2017)_, Avignon, France
+46. Feb 2017, _StronG BaD_, Oxford, Mississippi, USA
+47. Feb 2017, _Strings, Cosmology, and Gravity Student Conference 2017_, Paris, France
+48. Dic 2016, _10th TRR1.33 Winter School on Cosmology_, Passo del Tonale, Italy
+49. Nov 2016, _1st CANTATA meeting_, Lisbon, Portugal
+50. Oct 2016, _Gravitational Waves and Cosmology \& the 3rd eLISA Cosmology Working Group Workshop_, DESY Hamburg, Germany
+51. Sept 2016, _11th International LISA Symposium_, Zurich, Switzerland 
+52. Aug 2016, _GRavitational1.wave Astronomy Meeting in PAris (GRAMPA)_, Paris, France
+53. Jul 2016, _21st International Conference on General Relativity and Gravitation_, New York, USA
+54. Apr 2016, _Cosmology after Planck: what is next?_, Les Houches, France
+55. Oct 2015, _28th Texas Symposium on Relativistic Astrophysics_, Geneva, Switzerland   
+56. Oct 2015, _The Time Machine Factory_, Torino, Italy
+57. Oct 2015, _eLISA consortium meeting_, Paris, France
+58. Sept 2015, _2nd eLISA Cosmology Working Group Workshop_, Stavanger, Norway
+59. Jun 2015, _8th Aegean summer school on gravitational waves_, Rethymno (Crete), Greece
+60. Apr 2015, _1st workshop of the eLISA cosmology working group_, CERN, Geneva, Switzerland
+61. Mar 2015, _Extended theories of gravity_, Nordita, Stockholm, Sweden
+62. Feb 2015, _UK Cosmology Meeting_, Queen Mary University of London, UK
+63. Nov 2014, _Modern aspects of gravity and cosmology_, LPT, Orsay, France
+64. Sept 2014, _Dark Matter Numerical Simulations_, IPhT, CEA1.Saclay, France
+65. Apr 2014, _Progress on Old and New Themes in cosmology (PONT)_, Avignon, France  
+66. Mar 2014, _BritGrav14_, Cambridge, UK
+67. Mar 2014, _Cosmology and the constants of Nature_, Cambridge, UK   
+68. Jan 2014, _UK Cosmology Meeting_, Kings College London, UK
+69. July 2013, _20th International Conference on General Relativity and Gravitation and 10th Amaldi Conference on Gravitational Waves_, Warsaw, Poland   
+70. July 2012, _13th Marcel Grossmann Meeting_, Stockholm, Sweden
+71. Sept 2011, _Do we understand gravity?_, Institute of Physics, London, UK
+72. Dic 2010, _4th TRR1.33 Winter School on Cosmology_, Passo del Tonale, Italy
 
 ### Spoken languages
 
