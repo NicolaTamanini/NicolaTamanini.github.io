@@ -16,18 +16,18 @@ More information can be found on the [L2IT website](https://annuaire.in2p3.fr/la
 
 ### Permanent members
 
-- Christelle Buy
-- Sylvain Marsat
-- Nicola Tamanini (group leader)
+- **Christelle Buy**
+- **Sylvain Marsat**
+- **Nicola Tamanini** (group leader)
 
 ### Members contributing from other L2IT groups
 
-- Catherine Biscarat (Computing, Algorithms and Data group)
-- Cayetano Santos (Computing, Algorithms and Data group)
+- **Catherine Biscarat** (Computing, Algorithms and Data group)
+- **Cayetano Santos** (Computing, Algorithms and Data group)
 
 ### Postocs, PhD students and other non-permanent members
 
-- Danny Laghi (postdoc)
-- Vivienne Langen (PhD student)
-- Niccolò Muttoni (research assistant)
-- Martina Toscani (postdoc)
+- **Danny Laghi** (postdoc)
+- **Vivienne Langen** (PhD student)
+- **Niccolò Muttoni** (research assistant)
+- **Martina Toscani** (postdoc)
