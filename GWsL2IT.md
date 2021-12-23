@@ -6,3 +6,5 @@ The [Laboratoire des 2 infinis - Toulouse (L2IT)](https://www.l2it.in2p3.fr) is 
 
 The gravitational wave group at L2IT conducts research on both theoretical and experimental aspects of gravitational wave science, with a distinct focus at exploiting new ideas connecting theory with observations through data analysis and numerical simulations. The group is part of both the [LISA Consortium](https://www.lisamission.org) and the [Virgo Collaboration](https://www.virgo-gw.eu), and conducts cutting-edge research on gravitational waves collaborating with external groups and institutes at local, national and international levels.
 
+<img src="/assets/img/lisaconlogo.png" height="200" />
+
