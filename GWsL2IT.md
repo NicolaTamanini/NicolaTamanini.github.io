@@ -1,6 +1,6 @@
 # Gravitational wave research at L2IT
 
-<img src="/assets/img/L2IT_logo-rvb.pdf" height="200" />
+<img src="/assets/img/L2IT_logo.jpg" height="200" />
 
 The [Laboratoire des 2 infinis - Toulouse (L2IT)](https://www.l2it.in2p3.fr) is a research institute of IN2P3/CNRS established in 2019 with the objective to pursue fundamental research with innovative numerical and theoretical approaches. The research of the institute is focused on particle physics, gravitational waves and the nuclear equation of state, and it is supported by a complementary development of numerical computing, data analysis and data science methodologies.
 
