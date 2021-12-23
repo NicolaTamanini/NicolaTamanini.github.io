@@ -27,7 +27,9 @@ More information can be found on the [L2IT website](https://annuaire.in2p3.fr/la
 
 ### Postocs, PhD students and other non-permanent members
 
-- **Danny Laghi** (postdoc)
-- **Vivienne Langen** (PhD student)
-- **Niccolò Muttoni** (research assistant)
-- **Martina Toscani** (postdoc)
+- **Danny Laghi**
+- **Vivienne Langen**
+- **Niccolò Muttoni**
+- **Martina Toscani**
+
+### Interns and students
