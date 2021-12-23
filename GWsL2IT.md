@@ -8,3 +8,24 @@ The gravitational wave group at L2IT conducts research on both theoretical and e
 
 <img src="/assets/img/lisaconlogo.png" height="120" /><img src="/assets/img/Logo-virgo.jpg" height="120" />
 
+## Current members of the L2IT GW group
+
+More information can be found on the [L2IT website](https://annuaire.in2p3.fr/laboratory/48).
+
+### Permanent members
+
+- Christelle Buy
+- Sylvain Marsat
+- Nicola Tamanini (group leader)
+
+### Members contributing from other L2IT groups
+
+- Catherine Biscarat (Computing, Algorithms and Data group)
+- Cayetano Santos (Computing, Algorithms and Data group)
+
+### Postocs, PhD students and other non-permanent members
+
+- Danny Laghi (postdoc)
+- Vivienne Langen (PhD student)
+- Niccolò Muttoni (research assistant)
+- Martina Toscani (postdoc)
