@@ -4,11 +4,12 @@ Dr Nicola Tamanini
 
 CNRS Directeur de Recherche
 
-Laboratoire des 2 infinis - Toulouse (L2IT)  
-Université Toulouse - Paul Sabatier  
-IRSAMC - Bâtiment 3R1B4  
-118 route de Narbonne  
-31062 TOULOUSE CEDEX 9
+Laboratoire des 2 infinis - Toulouse (L2IT UMR5033 CNRS-UT3)
+
+Maison de la Recherche et de la Valorisation  
+75 Cours des Sciences  
+31062 Toulouse  
+France
  
 Email: nicola.tamanini [at] l2it.in2p3.fr
 
