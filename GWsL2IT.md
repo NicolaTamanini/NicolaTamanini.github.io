@@ -10,9 +10,10 @@ The gravitational wave group at L2IT conducts research on both theoretical and e
 
 
 
-## Current members of the L2IT GW group
+## Current members
 
-More information can be found on the [L2IT website](https://annuaire.in2p3.fr/laboratory/48).
+The following lists the current members of the gravitational waves group at L2IT.
+Further information can be found on the [L2IT website](https://annuaire.in2p3.fr/laboratory/48).
 
 ### Permanent members
 
@@ -33,3 +34,21 @@ More information can be found on the [L2IT website](https://annuaire.in2p3.fr/la
 - **Martina Toscani**
 
 ### Interns and students
+
+## Past members
+
+Here are the people that were part of the L2IT GW group in the past:
+
+## Recent work
+
+Some of the most recent publications and pre-prints authored by at least two members of the group:
+
+- M. Corman, A. Ghosh, C. Escamilla-Rivera, M. A. Hendry, S. Marsat and N. Tamanini,
+_Constraining cosmological extra dimensions with gravitational wave standard sirens: from theory to current and future multi-messenger observations_,
+[[arXiv:2109.08748](https://arxiv.org/abs/2109.08748)]
+
+- D. Laghi, N. Tamanini, W. Del Pozzo, A. Sesana, J. Gair,
+_Gravitational wave cosmology with extreme mass-ratio inspirals_,
+Accepted by Mon. Not. Roy. Astron. Soc. (2021)
+[[doi:10.1093/mnras/stab2741](https://doi.org/10.1093/mnras/stab2741)]
+[[arXiv:2102.01708](https://arxiv.org/abs/2102.01708)]
