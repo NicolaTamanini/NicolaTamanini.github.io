@@ -34,7 +34,7 @@ Accepted by GERG (2021)
 
 1. D. Laghi, N. Tamanini, W. Del Pozzo, A. Sesana, J. Gair,
 _Gravitational wave cosmology with extreme mass-ratio inspirals_,
-Accepted by Mon. Not. Roy. Astron. Soc. (2021)
+Mon. Not. Roy. Astron. Soc. 508 (2021) no.3, 4512-4531
 [[doi:10.1093/mnras/stab2741](https://doi.org/10.1093/mnras/stab2741)]
 [[arXiv:2102.01708](https://arxiv.org/abs/2102.01708)]
 
