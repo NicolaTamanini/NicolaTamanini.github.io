@@ -39,7 +39,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 Here are the people that were part of the L2IT GW group in the past:
 
-## Recent work
+## Recent work 
 
 Some of the most recent publications and pre-prints authored by at least two members of the group:
 
