@@ -29,7 +29,8 @@ _Constraining cosmological extra dimensions with gravitational wave standard sir
 
 1. P. Amaro Seoane _et al_,
 _The Effect of Mission Duration on LISA Science Objectives_,
-Accepted by GERG (2021)
+Gen. Rel. Grav. \textbf{54} (2022) no.1, 3
+[[doi:10.1007/s10714-021-02889-x](https://doi.org/10.1007/s10714-021-02889-x)]
 [[arXiv:2107.09665](https://arxiv.org/abs/2107.09665)]
 
 1. D. Laghi, N. Tamanini, W. Del Pozzo, A. Sesana, J. Gair,
