@@ -43,11 +43,11 @@ Here are the people that were part of the L2IT GW group in the past:
 
 Some of the most recent publications and pre-prints authored by at least two members of the group:
 
-- M. Corman, A. Ghosh, C. Escamilla-Rivera, M. A. Hendry, S. Marsat and N. Tamanini,
+- M. Corman, A. Ghosh, C. Escamilla-Rivera, M. A. Hendry, **S. Marsat** and **N. Tamanini**,
 _Constraining cosmological extra dimensions with gravitational wave standard sirens: from theory to current and future multi-messenger observations_,
 [[arXiv:2109.08748](https://arxiv.org/abs/2109.08748)]
 
-1. D. Laghi, N. Tamanini, W. Del Pozzo, A. Sesana, J. Gair,
+1. **D. Laghi**, **N. Tamanini**, W. Del Pozzo, A. Sesana, J. Gair,
 _Gravitational wave cosmology with extreme mass-ratio inspirals_,
 Mon. Not. Roy. Astron. Soc. 508 (2021) no.3, 4512-4531
 [[doi:10.1093/mnras/stab2741](https://doi.org/10.1093/mnras/stab2741)]
