@@ -164,6 +164,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Refereed research proposals
 
+1. NWO Talent Programme 2021, Vidi research proposal, The Netherlands, 2022
 1. ANR Generic Call for Proposals, France, 2021
 1. FONDECYT Regular Competition, Chile, 2018
 
