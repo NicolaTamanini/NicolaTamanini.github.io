@@ -269,6 +269,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Feb 2022, _LDPG workshop_, online
+1. Jan 2022, _LISA Consortium meeting_, online
 1. Dec 2021, _IRAP-L2IT gravitatinal waves mini-symposium_, Toulouse, France
 2. Dec 2021, _9th LISA Cosmology Working Group Workshop_, online
 3. Dec 2021, _Journée thématique de physique nucléaire et physique astro-nucleare_, Toulouse, France
