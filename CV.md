@@ -83,7 +83,12 @@ University of Trento, Italy [110/110 e lode]
 - Elected chair of the _LISA Early Career Scientists_ (LECS) group (from 2019 to 2021)
 
 
-### Academic services
+### Academic services (external)
+
+- Nominated member of the Collège Scientifique Physique-SDU de l'Université de Toulouse
+
+
+### Academic services (internal)
 
 - Chair of the gravitational-wave postdoc application selection committee at L2IT (2021)
 - Chair of the gravitational-wave PhD application selection committee at L2IT (2021)
