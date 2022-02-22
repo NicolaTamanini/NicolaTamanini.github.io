@@ -20,12 +20,13 @@ _The Next Generation Global Gravitational Wave Observatory: The Science Book_,
 _Constraints on the cosmic expansion history from GWTC–3_,
 [[arXiv:2111.03604](https://arxiv.org/abs/2111.03604)]
 
+### Publications in peer-review journals
+
 1. M. Corman, A. Ghosh, C. Escamilla-Rivera, M. A. Hendry, S. Marsat and N. Tamanini,
 _Constraining cosmological extra dimensions with gravitational wave standard sirens: from theory to current and future multi-messenger observations_,
+Accepted by Phys. Rev. D (2022)
 [[arXiv:2109.08748](https://arxiv.org/abs/2109.08748)]
 
-
-### Publications in peer-review journals
 
 1. P. Amaro Seoane _et al_,
 _The Effect of Mission Duration on LISA Science Objectives_,
