@@ -256,7 +256,11 @@ Class. Quant. Grav. 28, 245020 (2011) [[doi:10.1088/0264-9381/28/24/245020](http
 _Inflationary Perturbations in Palatini Generalised Gravity_,
 Phys. Rev. D 83, 044018 (2011) [[doi:10.1103/PhysRevD.83.044018](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.83.044018)] [[arXiv:1010.0689](https://arxiv.org/abs/1010.0689)]
 
-### Conference proceedings
+### Conference proceedings & similar (published/peer-reviewed)
+
+1. J. Bayle et al.,
+_Workshop on Gravitational-Wave Astrophysics for Early Career Scientists_,
+Meeting report to appear on Nature Astronomy (2022)
 
 1. N. Tamanini,
 _Late time cosmology with LISA: probing the cosmic expansion with massive black hole binary mergers as standard sirens_,
