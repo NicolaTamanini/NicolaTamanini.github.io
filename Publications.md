@@ -260,7 +260,7 @@ Phys. Rev. D 83, 044018 (2011) [[doi:10.1103/PhysRevD.83.044018](https://journal
 
 1. J. Bayle et al.,
 _Workshop on Gravitational-Wave Astrophysics for Early Career Scientists_,
-Meeting report to appear on Nature Astronomy (2022)
+Nature Astronomy (2022) [10.1038/s41550-022-01629-8]
 
 1. N. Tamanini,
 _Late time cosmology with LISA: probing the cosmic expansion with massive black hole binary mergers as standard sirens_,
