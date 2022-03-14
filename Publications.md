@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. P. Amaro-Seoane _et al_,
+_Astrophysics with the Laser Interferometer Space Antenna_
+[[arXiv:2203.06016](https://arxiv.org/abs/2203.06016)]
+
 1. J. B. Bayle _et al_,
 _Legacy of the First Workshop on Gravitational Wave Astrophysics for Early Career Scientists_
 [[arXiv:2111.15596](https://arxiv.org/abs/2111.15596)]
