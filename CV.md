@@ -86,7 +86,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Academic services (external)
 
-- Nominated member of the Collège Scientifique Physique-SDU de l'Université de Toulouse
+- Nominated member of the Collège Scientifique Physique-SDU de l'Université de Toulouse (since 2022)
 
 
 ### Academic services (internal)
