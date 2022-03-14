@@ -8,7 +8,7 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
-1. P. Amaro-Seoane _et al_,
+1. P. Amaro-Seoane _et al_ [LISA Astrophysics Working Group],
 _Astrophysics with the Laser Interferometer Space Antenna_
 [[arXiv:2203.06016](https://arxiv.org/abs/2203.06016)]
 
