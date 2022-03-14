@@ -76,6 +76,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research appointements
 
+- Member of the Comité de Pilotage of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Coordinator of the cosmology working group of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Elected junior chair of the _LISA Cosmology Working Group_ (since 2021)
 - Chair of the _LIGO/Virgo/Kagra Cosmology Working Group_ (since 2021)
