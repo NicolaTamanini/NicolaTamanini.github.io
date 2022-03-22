@@ -281,7 +281,7 @@ Proceedings of the 13th Marcell Grossmann Meeting, [[doi:10.1142/9789814623995_0
 
 ### White papers & other documents (not peer-reviewed)
 
-1. V. Kalogera \textit{et al., _The Next Generation Global Gravitational Wave Observatory: The Science Book_,
+1. V. Kalogera et al., _The Next Generation Global Gravitational Wave Observatory: The Science Book_,
 Collection of GW white papers submitted to Astro2020 (2020 Decadal Survey on Astronomy and Astrophysics)
 [[arXiv:2111.06990](https://arxiv.org/abs/2111.06990)]
 
