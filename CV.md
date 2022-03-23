@@ -76,7 +76,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research appointements
 
-- Member of the Comité de Pilotage of the _GdR Ondes Gravitationnelles_ (since 2022)
+- Member of the Comité de Pilotage and of the Conseil Scientifique of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Coordinator of the cosmology working group of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Elected junior chair of the _LISA Cosmology Working Group_ (since 2021)
 - Chair of the _LIGO/Virgo/Kagra Cosmology Working Group_ (since 2021)
@@ -87,11 +87,12 @@ University of Trento, Italy [110/110 e lode]
 
 ### Academic services (external)
 
-- Nominated member of the Collège Scientifique Physique-SDU de l'Université de Toulouse (since 2022)
+- Nominated member of the Collège Scientifique Physique-SDU de l'Université de Toulouse Paul Sabatier (since 2022)
 
 
 ### Academic services (internal)
 
+- Chair of the gravitational-wave postdoc application selection committee at L2IT (2022)
 - Chair of the gravitational-wave postdoc application selection committee at L2IT (2021)
 - Chair of the gravitational-wave PhD application selection committee at L2IT (2021)
 - Member of the PhD application review committee at the AEI Potsdam (from 2019 to 2021)
@@ -100,6 +101,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
+- _LISA Symposium XVI_, online, Jul 2022, [Member of the scientific advisory committee]
 - _IRAP-L2IT gravitational waves mini-symposium_, Toulouse, France, Dec 2021 [Member of the OC]
 - _9th LISA Cosmology Working Group Workshop_, online, Dec 2021 [Member of the OC]
 - _GW Job Fair_, online, Nov 2021 [Member of the OC]
@@ -129,6 +131,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Student internships supervised
 
+- _Rémi Delpech_, L2IT (from Feb 2022) 
+- _Elsa Desbarats_, L2IT (from Feb 2022)
 - _Niccolò Muttoni_, L2IT (from Nov 2021)
 
 
@@ -272,6 +276,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Mar 2022, _LVK collaboration meeting_, online
 1. Feb 2022, _LDPG workshop_, online
 1. Jan 2022, _LISA Consortium meeting_, online
 1. Dec 2021, _IRAP-L2IT gravitatinal waves mini-symposium_, Toulouse, France
