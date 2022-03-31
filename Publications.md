@@ -28,7 +28,8 @@ _Constraints on the cosmic expansion history from GWTC–3_,
 
 1. M. Corman, A. Ghosh, C. Escamilla-Rivera, M. A. Hendry, S. Marsat and N. Tamanini,
 _Constraining cosmological extra dimensions with gravitational wave standard sirens: from theory to current and future multi-messenger observations_,
-Accepted by Phys. Rev. D (2022)
+Phys. Rev. D 105 (2022) no.6, 064061
+[[doi:10.1103/PhysRevD.105.064061](https://doi.org/10.1103/PhysRevD.105.064061)]
 [[arXiv:2109.08748](https://arxiv.org/abs/2109.08748)]
 
 
