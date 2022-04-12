@@ -22,7 +22,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 - **Sylvain Marsat**
 - **Nicola Tamanini** (group leader)
 
-### Members contributing from other L2IT groups
+### Permanent members contributing from other L2IT groups
 
 - **Catherine Biscarat** (Computing, Algorithms and Data group)
 - **Cayetano Santos** (Computing, Algorithms and Data group)
@@ -30,15 +30,18 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 ### Postocs, PhD students and other non-permanent members
 
 - **Danny Laghi**
-- **Vivienne Langen**
-- **Niccolò Muttoni**
 - **Martina Toscani**
+
+### PhD students
+
+- **Vivienne Langen**
 
 ### Interns and students
 
 - **Rémi Delpech**
 - **Elsa Desbarats**
 - **Stéphanie Hoang**
+- **Niccolò Muttoni**
 
 ## Past members
 
@@ -50,8 +53,8 @@ Some of the most recent publications and pre-prints authored by at least two mem
 
 1. M. Corman, A. Ghosh, C. Escamilla-Rivera, M. A. Hendry, S. Marsat and N. Tamanini,
 _Constraining cosmological extra dimensions with gravitational wave standard sirens: from theory to current and future multi-messenger observations_,
-Accepted by PRD,
-[[arXiv:2109.08748](https://arxiv.org/abs/2109.08748)]
+Phys. Rev. D 105 (2022) no.6, 064061,
+[[doi:10.1103/PhysRevD.105.064061](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.064061)][[arXiv:2109.08748](https://arxiv.org/abs/2109.08748)]
 
 1. D. Laghi, N. Tamanini, W. Del Pozzo, A. Sesana, J. Gair,
 _Gravitational wave cosmology with extreme mass-ratio inspirals_,
