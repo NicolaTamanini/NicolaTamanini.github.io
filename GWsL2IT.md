@@ -27,7 +27,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 - **Catherine Biscarat** (Computing, Algorithms and Data group)
 - **Cayetano Santos** (Computing, Algorithms and Data group)
 
-### Postocs, PhD students and other non-permanent members
+### Postdocs
 
 - **Danny Laghi**
 - **Martina Toscani**
