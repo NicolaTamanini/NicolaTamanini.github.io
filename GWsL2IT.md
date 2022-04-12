@@ -18,6 +18,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 ### Permanent members
 
 - **Christelle Buy**
+- **Rodolphe Clédassou**
 - **Sylvain Marsat**
 - **Nicola Tamanini** (group leader)
 
