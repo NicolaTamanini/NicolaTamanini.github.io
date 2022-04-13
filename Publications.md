@@ -8,7 +8,7 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
-1. P. Auclair _et al_,
+1. P. Auclair _et al_ [LISA Cosmology Working Group],
 _Cosmology with the Laser Interferometer Space Antenna_,
 [[arXiv:2204.05434](https://arxiv.org/abs/2204.05434)]
 
