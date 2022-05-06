@@ -41,11 +41,12 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 - **Rémi Delpech**
 - **Elsa Desbarats**
 - **Stéphanie Hoang**
-- **Niccolò Muttoni**
 
 ## Past members
 
 Here are the people that were part of the L2IT GW group in the past:
+
+- **Niccolò Muttoni** (Research assistant from Nov 2021 to Apr 2022)
 
 ## Recent work 
 
