@@ -186,6 +186,10 @@ University of Trento, Italy [110/110 e lode]
 - STSM from the COST action GWverse for a two-week visit to W. Del Pozzo (Univ. of Pisa) in 2018 [€2000]
 - STSM from the COST action CANTATA for a one-week visit to F. Lobo (Univ. of Lisbon) in 2017 [€900]
 
+### Outreach activities
+
+- _Ondes gravitationnelles: l'aube d'une nouvelle science de l'univers_, Outreach talk, Colloquim CC-IN2P3, Toulouse [06/05/2022]
+- N. Tamanini & C. Danielski, _Don’t Panic! Gravitational waves can find new planets_, Outreach article for the LIGO Magazine (2019) [[URL](https://www.ligo.org/magazine/LIGO-magazine-issue15.pdf#page=20)]
 
 
 ### Invited seminars
