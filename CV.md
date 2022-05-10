@@ -155,22 +155,23 @@ University of Trento, Italy [110/110 e lode]
 ### Refereed peer-review research journals
 
 1. Physical Review Letters (PRL)
-1. Physical Review D (PRD)
-1. Monthly Notices of the Royal Astronomical Society (MNRAS)
-1. Journal of Cosmology and Astroparrticle Physics (JCAP)
-1. Physics of the Dark Universe
-1. European Physical Journal C (EPJC)
-1. General Relativity and Gravitation (GERG)
-1. International Journal of Modern Physics D (IJMPD)
-1. Modern Physics Letters A
-1. Gravitation and Cosmology
-1. International Journal of Geometrical Methods in Modern Physics
-1. Astrophysics and Space Science
-1. Advances in High Energy Physics
-1. The Astrophysical Journal
-1. Universe
-1. Research in Astronomy and Astrophysics
-1. The Astronomical Journal
+2. Nature Communications Physics
+3. Physical Review D (PRD)
+4. Monthly Notices of the Royal Astronomical Society (MNRAS)
+5. Journal of Cosmology and Astroparrticle Physics (JCAP)
+6. Physics of the Dark Universe
+7. European Physical Journal C (EPJC)
+8. General Relativity and Gravitation (GERG)
+9. International Journal of Modern Physics D (IJMPD)
+10. Modern Physics Letters A
+11. Gravitation and Cosmology
+12. International Journal of Geometrical Methods in Modern Physics
+13. Astrophysics and Space Science
+14. Advances in High Energy Physics
+15. The Astrophysical Journal
+16. Universe
+17. Research in Astronomy and Astrophysics
+18. The Astronomical Journal
 
 
 ### Refereed research proposals
