@@ -30,6 +30,11 @@ _Constraints on the cosmic expansion history from GWTC–3_,
 
 ### Publications in peer-review journals
 
+1. K. G. Arun _et al_ [LISA Fundamental Physics Working Group], [LISA],
+_New Horizons for Fundamental Physics with LISA_,
+Accepted by Living Review in Relativity (2022)
+[arXiv:2205.01597](https://arxiv.org/abs/2205.01597)
+
 1. M. Corman, A. Ghosh, C. Escamilla-Rivera, M. A. Hendry, S. Marsat and N. Tamanini,
 _Constraining cosmological extra dimensions with gravitational wave standard sirens: from theory to current and future multi-messenger observations_,
 Phys. Rev. D 105 (2022) no.6, 064061
