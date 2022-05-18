@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. M. L. Katz, C. Danielski, N. Karnesis, V. Korol, N. Tamanini, N. J.~Cornish and T. B. Littenberg,
+_Bayesian Characterisation of Circumbinary Exoplanets with LISA_,
+[[arXiv:2205.03461](https://arxiv.org/abs/2205.03461)]
+
 1. P. Auclair _et al_ [LISA Cosmology Working Group],
 _Cosmology with the Laser Interferometer Space Antenna_,
 [[arXiv:2204.05434](https://arxiv.org/abs/2204.05434)]
