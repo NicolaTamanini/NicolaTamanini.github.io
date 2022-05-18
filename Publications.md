@@ -8,7 +8,7 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
-1. M. L. Katz, C. Danielski, N. Karnesis, V. Korol, N. Tamanini, N. J.~Cornish and T. B. Littenberg,
+1. M. L. Katz, C. Danielski, N. Karnesis, V. Korol, N. Tamanini, N. J. Cornish and T. B. Littenberg,
 _Bayesian Characterisation of Circumbinary Exoplanets with LISA_,
 [[arXiv:2205.03461](https://arxiv.org/abs/2205.03461)]
 
@@ -23,10 +23,6 @@ _Astrophysics with the Laser Interferometer Space Antenna_
 1. J. B. Bayle _et al_,
 _Legacy of the First Workshop on Gravitational Wave Astrophysics for Early Career Scientists_
 [[arXiv:2111.15596](https://arxiv.org/abs/2111.15596)]
-
-1. V. Kalogera _et al_,
-_The Next Generation Global Gravitational Wave Observatory: The Science Book_,
-[[arXiv:2111.06990](https://arxiv.org/abs/2111.06990)]
 
 ### Publications in peer-review journals
 
@@ -45,7 +41,6 @@ _Constraining cosmological extra dimensions with gravitational wave standard sir
 Phys. Rev. D 105 (2022) no.6, 064061
 [[doi:10.1103/PhysRevD.105.064061](https://doi.org/10.1103/PhysRevD.105.064061)]
 [[arXiv:2109.08748](https://arxiv.org/abs/2109.08748)]
-
 
 1. P. Amaro Seoane _et al_,
 _The Effect of Mission Duration on LISA Science Objectives_,
