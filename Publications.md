@@ -24,11 +24,12 @@ _Legacy of the First Workshop on Gravitational Wave Astrophysics for Early Caree
 _The Next Generation Global Gravitational Wave Observatory: The Science Book_,
 [[arXiv:2111.06990](https://arxiv.org/abs/2111.06990)]
 
+### Publications in peer-review journals
+
 1. R. Abbot _et al_ [LIGO-Virgo-Kagra Collaboration],
 _Constraints on the cosmic expansion history from GWTC–3_,
+Accepted by The Astrophysical Journal (2022)
 [[arXiv:2111.03604](https://arxiv.org/abs/2111.03604)]
-
-### Publications in peer-review journals
 
 1. K. G. Arun _et al_ [LISA Fundamental Physics Working Group], [LISA],
 _New Horizons for Fundamental Physics with LISA_,
