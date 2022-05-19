@@ -132,9 +132,9 @@ University of Trento, Italy [110/110 e lode]
 
 ### Student internships supervised
 
-- _Rémi Delpech_, L2IT (from Feb 2022) 
-- _Elsa Desbarats_, L2IT (from Feb 2022)
-- _Niccolò Muttoni_, L2IT (from Nov 2021)
+- _Rémi Delpech_, L2IT (from Feb 2022 to July 2022) 
+- _Elsa Desbarats_, L2IT (from Feb 2022 to June 2022)
+- _Niccolò Muttoni_, L2IT (from Nov 2021 to Apr 2022)
 
 
 ### Teaching
