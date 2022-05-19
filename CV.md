@@ -276,6 +276,10 @@ University of Trento, Italy [110/110 e lode]
 
 1. _Hybrid metric-Palatini gravities_, Poster presentation at the 20th International Conference on General Relativity and Gravitation, Warsaw, Poland [07/07/2013]
 
+### Chaired discussions at conferences
+
+1. _AAP MITI Nouvelles méthodes pour le traitement et l'analyse des données spatiales_, Discussion at LIDA in France, Caen, France [18/05/2022]
+2. _LECS discussion_, Panel discussion at LISA Symposium XIII, online
 
 ### Participations in conference panel discussions
 
@@ -283,6 +287,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. May 2022, _LIDA in France_, Caen, France
 1. Mar 2022, _LVK collaboration meeting_, online
 1. Feb 2022, _LDPG workshop_, online
 1. Jan 2022, _LISA Consortium meeting_, online
