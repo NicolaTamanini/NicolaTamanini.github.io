@@ -104,6 +104,7 @@ University of Trento, Italy [110/110 e lode]
 ### Organisation of scientific meetings
 
 - _LISA Symposium XVI_, online, Jul 2022, [Member of the scientific advisory committee]
+- _LDPG Workshop_, Toulouse, France, Jun 2022 [Member of the LOC]
 - _IRAP-L2IT gravitational waves mini-symposium_, Toulouse, France, Dec 2021 [Member of the OC]
 - _9th LISA Cosmology Working Group Workshop_, online, Dec 2021 [Member of the OC]
 - _GW Job Fair_, online, Nov 2021 [Member of the OC]
