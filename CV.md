@@ -87,6 +87,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Academic services (external)
 
+- Member of the selection committee of the ATER positions for CNU Sec 29 at Université de Toulouse Paul Sabatier (since 2022)
 - Nominated member of the Collège Scientifique Physique-SDU de l'Université de Toulouse Paul Sabatier (since 2022)
 
 
