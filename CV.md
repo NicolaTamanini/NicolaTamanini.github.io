@@ -198,6 +198,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited seminars
 
+1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, University of Salamanca, Spain [07/06/2022]
 1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, HEP-Cosmo-Astro seminar (remote) [14/04/2022]
 1. _Gravitational wave cosmology with LISA_, Webinaires de l'Action Dark Energy (remote), France [17/02/2022]
 1. _Detecting circumbinary exoplanets with gravitational waves from the center-of-mass motion of LISA Galactic binaries_, University of Birmingham (remote), UK [09/12/2020]
