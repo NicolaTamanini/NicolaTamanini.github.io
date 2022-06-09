@@ -105,6 +105,8 @@ University of Trento, Italy [110/110 e lode]
 
 - _LISA Symposium XVI_, online, Jul 2022, [Member of the scientific advisory committee]
 - _LDPG Workshop_, Toulouse, France, Jun 2022 [Member of the LOC]
+- Virgo France Cosmology Meeting, Paris, France, Jun 2022 [Organiser]
+- Rencontre commune des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles, Orsay, France, Jun 2022 [Member of the SOC]
 - _IRAP-L2IT gravitational waves mini-symposium_, Toulouse, France, Dec 2021 [Member of the OC]
 - _9th LISA Cosmology Working Group Workshop_, online, Dec 2021 [Member of the OC]
 - _GW Job Fair_, online, Nov 2021 [Member of the OC]
