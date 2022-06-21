@@ -51,6 +51,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research grants and fellowships
 
+- _CNRS MITI Project LIROCOS_, L2IT, Toulouse, France, 2022 (in collaboration with APC, CEA and CNES; role: PI) [collaborative research fundings, tot. €25600]
 - _ANR Tremplin–ERC_, L2IT, Toulouse, France, 2020 [research fundings, tot. €76700]
 - _Enhanced Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc's salary for 2 years + research/travel fundings, tot. ca. €65000]
 
@@ -76,6 +77,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research appointements
 
+- Nominated Coordinator General of the _GW Early Career Scientists (GWECS)_ organisation (since 2022)
 - Member of the Comité de Pilotage and of the Conseil Scientifique of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Coordinator of the cosmology working group of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Elected junior chair of the _LISA Cosmology Working Group_ (since 2021)
@@ -138,7 +140,6 @@ University of Trento, Italy [110/110 e lode]
 ### Student internships supervised
 
 - _Rémi Delpech_, L2IT (from Feb 2022 to July 2022) 
-- _Elsa Desbarats_, L2IT (from Feb 2022 to June 2022)
 - _Niccolò Muttoni_, L2IT (from Nov 2021 to Apr 2022)
 
 
@@ -251,6 +252,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Contributed conference talks
 
+1. _LVK Cosmology Working Group Plans and Preparations for 04_, talk at the Virgo France Cosmology Metting, Paris, France [21/06/2022]
 1. _Constraining higher-dimensional cosmology with gravitational wave standard sirens_, Talk at the Cinquième Assemblée Générale du GdR Ondes Gravitationnelles, Annecy, France [11/10/2021]
 4. _Mapping the cosmic expansion with LISA standard sirens: current status, challenges and opportunities_, Talk at the LISA Symposium XIII, online [02/09/2020]
 5. _Detecting circumbinary exoplanets orbiting double white dwarf binaries with LISA_, Talk at the Texas Symposium on Relativistic Astrophysics, Portsmouth, UK [17/12/2019]
@@ -293,6 +295,9 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Jun 2022, _Virgo France Cosmology Meeting_, Paris, France
+1. Jun 2022, _Rencontre commune des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles_, Orsay, France
+1. Jun 2022, _EuCAPT Workshop: Gravitational wave probes of black hole environments_, Rome, Italy
 1. May 2022, _LIDA in France_, Caen, France
 1. Mar 2022, _LVK collaboration meeting_, online
 1. Feb 2022, _LDPG workshop_, online
