@@ -252,7 +252,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Contributed conference talks
 
-1. _LVK Cosmology Working Group Plans and Preparations for 04_, talk at the Virgo France Cosmology Metting, Paris, France [21/06/2022]
+1. _Cosmology with gravitational waves: from theory to observations_, talk at the workshop A Shot in the Dark: New Challenges in Cosmology 2022, Leiden, The Netherlands [30/06/2022]
+1. _LVK Cosmology Working Group Plans and Preparations for 04_, talk at the Virgo France Cosmology Meeting, Paris, France [21/06/2022]
 1. _Constraining higher-dimensional cosmology with gravitational wave standard sirens_, Talk at the Cinquième Assemblée Générale du GdR Ondes Gravitationnelles, Annecy, France [11/10/2021]
 4. _Mapping the cosmic expansion with LISA standard sirens: current status, challenges and opportunities_, Talk at the LISA Symposium XIII, online [02/09/2020]
 5. _Detecting circumbinary exoplanets orbiting double white dwarf binaries with LISA_, Talk at the Texas Symposium on Relativistic Astrophysics, Portsmouth, UK [17/12/2019]
@@ -291,10 +292,12 @@ University of Trento, Italy [110/110 e lode]
 
 ### Participations in conference panel discussions
 
+1. _Future Challenges in GW Cosmology_, Panel discussion at A Shot in the Dark: New Challenges in Cosmology 2022, Leiden, The Netherlands [30/06/2022]
 1. _A career in science: FAQs_, Panel discussion at the Global meeting of the GWVerse COST action, Lisbon/online [30/08/2021]
 
 ### Scientific events attended
 
+1. Jun 2022, _A Shot in the Dark: New Challenges in Cosmology 2022_, Leiden, The Netherlands
 1. Jun 2022, _Virgo France Cosmology Meeting_, Paris, France
 1. Jun 2022, _Rencontre commune des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles_, Orsay, France
 1. Jun 2022, _EuCAPT Workshop: Gravitational wave probes of black hole environments_, Rome, Italy
