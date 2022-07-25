@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. R. Barbieri, S. Savastano, L. Speri, A. Antonelli, L. Sberna, O. Burke, J. R. Gair and N. Tamanini,
+_Constraining the evolution of Newton's constant with slow inspirals observed from spaceborne gravitational-wave detectors_,
+[[arXiv:2207.10674](https://arxiv.org/abs/2207.10674)]
+
 1. M. L. Katz, C. Danielski, N. Karnesis, V. Korol, N. Tamanini, N. J. Cornish and T. B. Littenberg,
 _Bayesian Characterisation of Circumbinary Exoplanets with LISA_,
 [[arXiv:2205.03461](https://arxiv.org/abs/2205.03461)]
