@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. A. Mangiagli, C. Caprini, M. Volonteri, S. Marsat, S. Vergani, N. Tamanini and H. Inchauspé,
+_Massive black hole binaries in LISA: multimessenger prospects and electromagnetic counterparts_,
+[[arXiv:2207.10678](https://arxiv.org/abs/2207.10678)]
+
 1. R. Barbieri, S. Savastano, L. Speri, A. Antonelli, L. Sberna, O. Burke, J. R. Gair and N. Tamanini,
 _Constraining the evolution of Newton's constant with slow inspirals observed from spaceborne gravitational-wave detectors_,
 [[arXiv:2207.10674](https://arxiv.org/abs/2207.10674)]
