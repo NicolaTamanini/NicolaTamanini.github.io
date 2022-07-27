@@ -298,6 +298,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Jul 2022, _LISA Symposium XVI_, online
 1. Jun 2022, _A Shot in the Dark: New Challenges in Cosmology 2022_, Leiden, The Netherlands
 1. Jun 2022, _Virgo France Cosmology Meeting_, Paris, France
 1. Jun 2022, _Rencontre commune des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles_, Orsay, France
