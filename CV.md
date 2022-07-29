@@ -168,18 +168,19 @@ University of Trento, Italy [110/110 e lode]
 4. Monthly Notices of the Royal Astronomical Society (MNRAS)
 5. Journal of Cosmology and Astroparrticle Physics (JCAP)
 6. Physics of the Dark Universe
-7. European Physical Journal C (EPJC)
-8. General Relativity and Gravitation (GERG)
-9. International Journal of Modern Physics D (IJMPD)
-10. Modern Physics Letters A
-11. Gravitation and Cosmology
-12. International Journal of Geometrical Methods in Modern Physics
-13. Astrophysics and Space Science
-14. Advances in High Energy Physics
-15. The Astrophysical Journal
-16. Universe
-17. Research in Astronomy and Astrophysics
-18. The Astronomical Journal
+7. Physics Letters B (PLB)
+8. European Physical Journal C (EPJC)
+9. General Relativity and Gravitation (GERG)
+10. International Journal of Modern Physics D (IJMPD)
+11. Modern Physics Letters A
+12. Gravitation and Cosmology
+13. International Journal of Geometrical Methods in Modern Physics
+14. Astrophysics and Space Science
+15. Advances in High Energy Physics
+16. The Astrophysical Journal
+17. Universe
+18. Research in Astronomy and Astrophysics
+19. The Astronomical Journal
 
 
 ### Refereed research proposals
