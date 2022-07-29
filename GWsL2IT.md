@@ -38,15 +38,16 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 ### Interns and students
 
-- **Rémi Delpech**
-- **Elsa Desbarats**
-- **Stéphanie Hoang**
+- 
 
 ## Past members
 
 Here are the people that were part of the L2IT GW group in the past:
 
 - **Niccolò Muttoni** (Research assistant from Nov 2021 to Apr 2022)
+- **Elsa Desbarats** (L3 student intern from Feb 2022 to Jun 2022)
+- **Rémi Delpech** (M2 student intern from Feb 2022 to Jul 2022)
+- **Stéphanie Hoang** (M2 student intern from Feb 2022 to Jul 2022)
 
 ## Recent work 
 
