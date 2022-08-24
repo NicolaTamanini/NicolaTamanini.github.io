@@ -230,6 +230,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited conference talks
 
+1. _GW cosmology with LISA (and TianQin)_, Talk at TianQin Astro Workshop, online [24/08/2022]
 1. _Cosmology with Gravitational Waves: Current Results and Future Prospects_, Talk at International Workshop on Emerging Trends in Gravitation and Cosmology, online [17/12/2021]
 2. _Science overview of LIGO/Virgo and LISA_, Talk at IRAP-L2IT gravitaitonal waves mini-symposium, Toulouse, France [10/12/2021]
 3. _Cosmology with gravitaitonal-wave standard sirens_, Talk at the Paris Saclay Astroparticule Symposium, Sacaly, France [26/11/2021]
@@ -299,6 +300,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Aug 2022, _TianQin Astro Workshop_, online
 1. Jul 2022, _LISA Symposium XVI_, online
 1. Jun 2022, _A Shot in the Dark: New Challenges in Cosmology 2022_, Leiden, The Netherlands
 1. Jun 2022, _Virgo France Cosmology Meeting_, Paris, France
