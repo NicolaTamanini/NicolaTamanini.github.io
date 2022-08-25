@@ -32,7 +32,13 @@ _Astrophysics with the Laser Interferometer Space Antenna_
 _Legacy of the First Workshop on Gravitational Wave Astrophysics for Early Career Scientists_
 [[arXiv:2111.15596](https://arxiv.org/abs/2111.15596)]
 
+
 ### Publications in peer-review journals
+
+1. M. L. Katz, C. Danielski, N. Karnesis, V. Korol, N. Tamanini, N. J. Cornish and T. B. Littenberg,
+_Bayesian Characterisation of Circumbinary Exoplanets with LISA_,
+Accepted by Mon. Not. Roy. Astron. Soc. (2022)
+[[arXiv:2205.03461](https://arxiv.org/abs/2205.03461)]
 
 1. R. Abbot _et al_ [LIGO-Virgo-Kagra Collaboration],
 _Constraints on the cosmic expansion history from GWTC–3_,
