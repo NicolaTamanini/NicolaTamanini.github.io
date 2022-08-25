@@ -145,7 +145,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Teaching
 
-- _Triple systems and exoplanets with LISA_, Pedagogical seminar, 1st MaNiTou Summer School on Gravitational Waves, Marseille, France 2022
+- _Gravitational wave cosmology with LISA_, Invited pedagogical seminar, Euclid Summer School, Banyuls, France
+- _Triple systems and exoplanets with LISA_, Invited pedagogical seminar, 1st MaNiTou Summer School on Gravitational Waves, Marseille, France 2022
 - _Gravitational Wave Cosmology_, Teacher, Invited pedagogical seminar, Ecole de Gif 2021, Marseille, France, 2021
 - _Gravitational Waves_, Teacher, Short-term course, 10th TRR-33 Winter School on Cosmology, Passo del Tonale, Italy, 2016
 - _Introduction to Mathematica_, Teacher, Short-term course, University College London, UK, 2013
