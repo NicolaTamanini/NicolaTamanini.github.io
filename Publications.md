@@ -16,10 +16,6 @@ _Massive black hole binaries in LISA: multimessenger prospects and electromagnet
 _Constraining the evolution of Newton's constant with slow inspirals observed from spaceborne gravitational-wave detectors_,
 [[arXiv:2207.10674](https://arxiv.org/abs/2207.10674)]
 
-1. M. L. Katz, C. Danielski, N. Karnesis, V. Korol, N. Tamanini, N. J. Cornish and T. B. Littenberg,
-_Bayesian Characterisation of Circumbinary Exoplanets with LISA_,
-[[arXiv:2205.03461](https://arxiv.org/abs/2205.03461)]
-
 1. P. Auclair _et al_ [LISA Cosmology Working Group],
 _Cosmology with the Laser Interferometer Space Antenna_,
 [[arXiv:2204.05434](https://arxiv.org/abs/2204.05434)]
