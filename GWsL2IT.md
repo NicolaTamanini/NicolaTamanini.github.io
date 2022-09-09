@@ -18,7 +18,6 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 ### Permanent members
 
 - **Christelle Buy**
-- **Rodolphe Clédassou**
 - **Sylvain Marsat**
 - **Nicola Tamanini** (group leader)
 
@@ -29,12 +28,14 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 ### Postdocs
 
+- **Ollie Burke**
 - **Danny Laghi**
 - **Martina Toscani**
 
 ### PhD students
 
 - **Vivienne Langen**
+- **Chang Liu** (visiting from Peking University)
 
 ### Interns and students
 
