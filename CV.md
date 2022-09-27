@@ -4,7 +4,7 @@ On this page you can find an extended version of my CV, including all relevant a
 
 ### In a nutshell
 
-My higher education consists in a BSc in physics (2008) and an MSc in theoretical and computational physics (2010) from the University of Trento (Italy), completed by a PhD in applied mathematics (2014) at University College London (UK). Throughout my MSc and PhD I mainly studied different theoretical and mathematical aspects of alternative theories of gravity and cosmology. In 2014 I started my first postdoc position at the Institut de Physique Théorique at CEA Saclay (France), where I worked on physical cosmology and started research on gravitational waves, joining the LISA Consortium. In 2017 I moved for my second postdoc position to the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam (Germany), where I joined the LIGO Scientific Collaboration and focused my research on different cosmological and astrophysical applications of gravitational wave astronomy. From 2021 I am a CNRS Directeur de Recherche at the Laboratoire des 2 Infinis - Toulouse (France), where I divide my research time working for both LISA and the Virgo Collaboration.
+My higher education consists in a BSc in physics (2008) and an MSc in theoretical and computational physics (2010) from the University of Trento (Italy), completed by a PhD in applied mathematics (2014) at University College London (UK). Throughout my MSc and PhD I mainly studied different theoretical and mathematical aspects of alternative theories of gravity and cosmology. In 2014 I started my first postdoc position at the Institut de Physique Théorique at CEA Saclay (France), where I worked on physical cosmology and started research on gravitational waves, joining the LISA Consortium. In 2017 I moved for my second postdoc position to the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam (Germany), where I joined the LIGO Scientific Collaboration and focused my research on different cosmological and astrophysical applications of gravitational wave astronomy. From 2021 I am a CNRS Directeur de Recherche at the Laboratoire des 2 Infinis - Toulouse (France), where I lead the gravitational wave group which is part of both LISA and the Virgo Collaboration.
 
 
 ### Career
@@ -128,6 +128,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Postdocs supervised
 
+- _Ollie Burke_, L2IT (from Sept 2022)
 - _Martina Toscani_, L2IT (from Nov 2021)
 - _Danny Laghi_, L2IT (from Jul 2021)
 
@@ -137,10 +138,11 @@ University of Trento, Italy [110/110 e lode]
 - _Vivienne Langen_, L2IT (from Nov 2021)
 
 
-### Student internships supervised
+### Students supervised
 
-- _Rémi Delpech_, L2IT (from Feb 2022 to July 2022) 
-- _Niccolò Muttoni_, L2IT (from Nov 2021 to Apr 2022)
+- _CHang Liu_, L2IT (visiting PhD student from Oct 2022)
+- _Rémi Delpech_, L2IT (M2 intern from Feb 2022 to July 2022) 
+- _Niccolò Muttoni_, L2IT (post-M2 research assistant from Nov 2021 to Apr 2022)
 
 
 ### Teaching
@@ -232,6 +234,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited conference talks
 
+1. _What to expect from LISA_, Talk at The quest for precision gravitational wave cosmology, Chicago, USA [19/09/2022]
 1. _GW cosmology with LISA (and TianQin)_, Talk at TianQin Astro Workshop, online [24/08/2022]
 1. _Cosmology with Gravitational Waves: Current Results and Future Prospects_, Talk at International Workshop on Emerging Trends in Gravitation and Cosmology, online [17/12/2021]
 2. _Science overview of LIGO/Virgo and LISA_, Talk at IRAP-L2IT gravitaitonal waves mini-symposium, Toulouse, France [10/12/2021]
@@ -292,6 +295,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Chaired discussions at conferences
 
+1. _LVK Collaboration Meeting_, f2f cosmology session, Cardiff, UK [12/09/2022]
 1. _AAP MITI Nouvelles méthodes pour le traitement et l'analyse des données spatiales_, Discussion at LIDA in France, Caen, France [18/05/2022]
 2. _LECS discussion_, Panel discussion at LISA Symposium XIII, online
 
@@ -302,6 +306,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Sept 2022, _The quest for precision gravitational wave cosmology_, Chicago, USA
+1. Sept 2022, _LVK collaboration meeting_, Cardiff, UK
 1. Aug 2022, _TianQin Astro Workshop_, online
 1. Jul 2022, _LISA Symposium XVI_, online
 1. Jun 2022, _A Shot in the Dark: New Challenges in Cosmology 2022_, Leiden, The Netherlands
