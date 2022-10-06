@@ -36,6 +36,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 - **Vivienne Langen**
 - **Chang Liu** (visiting from Peking University)
+- **Rémi Delpech** (jointly with the IRAP)
 
 ### Interns and students
 
