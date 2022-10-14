@@ -105,6 +105,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
+- _Assemblée Générale GdR Ondes Gravitationnelles_, Toulouse, France, Oct 2022 [Chair of the LOC]
 - _LISA Symposium XVI_, online, Jul 2022 [Member of the scientific advisory committee]
 - _1st MaNiTou Summer School on Gravitational Waves_, Marseille, Jul 2022 [Member of the SOC]
 - _LDPG Workshop_, Toulouse, France, Jun 2022 [Member of the LOC]
@@ -140,7 +141,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Students supervised
 
-- _CHang Liu_, L2IT (visiting PhD student from Oct 2022)
+- _Chang Liu_, L2IT (visiting PhD student from Oct 2022)
 - _Rémi Delpech_, L2IT (M2 intern from Feb 2022 to July 2022) 
 - _Niccolò Muttoni_, L2IT (post-M2 research assistant from Nov 2021 to Apr 2022)
 
@@ -307,6 +308,9 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Oct 2022, _Assemblée Générale GdR Ondes Gravitationnelles_, Toulouse, France
+1. Oct 2022, _Virgo France meeting_, Paris, France
+1. Sept 2022, _AEI PhD student day_, Potsdam, Germany
 1. Sept 2022, _The quest for precision gravitational wave cosmology_, Chicago, USA
 1. Sept 2022, _LVK collaboration meeting_, Cardiff, UK
 1. Aug 2022, _TianQin Astro Workshop_, online
