@@ -20,12 +20,12 @@ _Constraining the evolution of Newton's constant with slow inspirals observed fr
 _Cosmology with the Laser Interferometer Space Antenna_,
 [[arXiv:2204.05434](https://arxiv.org/abs/2204.05434)]
 
-1. P. Amaro-Seoane _et al_ [LISA Astrophysics Working Group],
-_Astrophysics with the Laser Interferometer Space Antenna_
-[[arXiv:2203.06016](https://arxiv.org/abs/2203.06016)]
-
 
 ### Publications in peer-review journals
+
+1. P. Amaro-Seoane _et al_ [LISA Astrophysics Working Group],
+_Astrophysics with the Laser Interferometer Space Antenna_
+Accepted by Living Review in Gen. Rel. [[arXiv:2203.06016](https://arxiv.org/abs/2203.06016)]
 
 1. L. Sberna _et al_,
 _Observing GW190521-like binary black holes and their environment with LISA_,
@@ -36,11 +36,6 @@ Accepted by PRD (2022)
 _Bayesian Characterisation of Circumbinary Exoplanets with LISA_,
 Accepted by Mon. Not. Roy. Astron. Soc. (2022)
 [[arXiv:2205.03461](https://arxiv.org/abs/2205.03461)]
-
-1. R. Abbot _et al_ [LIGO-Virgo-Kagra Collaboration],
-_Constraints on the cosmic expansion history from GWTC–3_,
-Accepted by The Astrophysical Journal (2022)
-[[arXiv:2111.03604](https://arxiv.org/abs/2111.03604)]
 
 1. K. G. Arun _et al_ [LISA Fundamental Physics Working Group], [LISA],
 _New Horizons for Fundamental Physics with LISA_,
@@ -133,10 +128,6 @@ Phys. Rev. D 101 (2020) no.6, 063002 [[doi:10.1103/PhysRevD.101.063002](https://
 _The gravitational-wave detection of exoplanets orbiting white dwarf binaries using LISA_,
 Nature Astronomy (2019) [[doi:10.1038/s41550-019-0807-y](https://www.nature.com/articles/s41550-019-0807-y)] [[arXiv:1812.04330](https://arxiv.org/abs/1812.04330)]
 
-37. B. P. Abbott et al. [LIGO Scientific and Virgo Collaborations],
-_Tests of General Relativity with GW170817_,
-Phys. Rev. Lett. 123 (2019) no.1, 011102 [[doi:10.1103/PhysRevLett.123.011102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.011102)] [[arXiv:1811.00364](https://arxiv.org/abs/1811.00364)]
-
 36. E. Belgacem et al. [LISA Cosmology Working Group],
 _Testing modified gravity at cosmological distances with LISA standard sirens_,
 JCAP 1907 (2019) no.07, 024 [[doi:10.1088/1475-7516/2019/07/024](https://iopscience.iop.org/article/10.1088/1475-7516/2019/07/024)] [[arXiv:1906.01593](https://arxiv.org/abs/1906.01593)]
@@ -144,10 +135,6 @@ JCAP 1907 (2019) no.07, 024 [[doi:10.1088/1475-7516/2019/07/024](https://iopscie
 35. L. Barack et al.,
 _Black holes, gravitational waves and fundamental physics: a roadmap_,
 Class. Quant. Grav. 36, no. 14, 143001 (2019) [[doi:10.1088/1361-6382/ab0587](https://iopscience.iop.org/article/10.1088/1361-6382/ab0587)] [[arXiv:1806.05195](https://arxiv.org/abs/1806.05195)]
-
-34. M. Fishbach et al. [LIGO Scientific and Virgo Collaborations],
-_A standard siren measurement of the Hubble constant from GW170817 without the electromagnetic counterpart_,
-Astrophys. J. 871 (2019) L13 [[doi:10.3847/2041-8213/aaf96e](https://iopscience.iop.org/article/10.3847/2041-8213/aaf96e)] [[arXiv:1807.05667](https://arxiv.org/abs/1807.05667)]
 
 33. T. Robson, N. J. Cornish, N. Tamanini and S. Toonen,
 _Detecting hierarchical stellar systems with LISA_,
@@ -281,6 +268,9 @@ Class. Quant. Grav. 28, 245020 (2011) [[doi:10.1088/0264-9381/28/24/245020](http
 _Inflationary Perturbations in Palatini Generalised Gravity_,
 Phys. Rev. D 83, 044018 (2011) [[doi:10.1103/PhysRevD.83.044018](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.83.044018)] [[arXiv:1010.0689](https://arxiv.org/abs/1010.0689)]
 
+
+
+
 ### Conference proceedings & similar (published/peer-reviewed)
 
 1. J. Bayle et al.,
@@ -298,6 +288,35 @@ Proceedings of the 13th Marcell Grossmann Meeting, [[doi:10.1142/9789814623995_0
 1. N. Tamanini and C. G. Boehmer,
 _Definition of Good Tetrads for f(T) Gravity_,
 Proceedings of the 13th Marcell Grossmann Meeting, [[doi:10.1142/9789814623995_0148](https://www.worldscientific.com/doi/abs/10.1142/9789814623995_0148)] [[arXiv:1304.0672](https://arxiv.org/abs/1304.0672)]
+
+
+
+
+### LVK collaboration papers (substantial personal contribution)
+
+1. R. Abbot _et al_ [LIGO-Virgo-Kagra Collaboration],
+_Constraints on the cosmic expansion history from GWTC–3_,
+Accepted by The Astrophysical Journal (2022)
+[[arXiv:2111.03604](https://arxiv.org/abs/2111.03604)]
+
+1. B. P. Abbott et al. [LIGO Scientific and Virgo Collaborations],
+_Tests of General Relativity with GW170817_,
+Phys. Rev. Lett. 123 (2019) no.1, 011102 [[doi:10.1103/PhysRevLett.123.011102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.011102)] [[arXiv:1811.00364](https://arxiv.org/abs/1811.00364)]
+
+1. M. Fishbach et al. [LIGO Scientific and Virgo Collaborations],
+_A standard siren measurement of the Hubble constant from GW170817 without the electromagnetic counterpart_,
+Astrophys. J. 871 (2019) L13 [[doi:10.3847/2041-8213/aaf96e](https://iopscience.iop.org/article/10.3847/2041-8213/aaf96e)] [[arXiv:1807.05667](https://arxiv.org/abs/1807.05667)]
+
+
+
+
+### LVK collaboration paper (minimal personal contribution)
+
+1. R. Abbott _et al_ [LIGO Scientific, VIRGO and KAGRA],
+_Model-based cross-correlation search for gravitational waves from the low-mass X-ray binary Scorpius X-1 in LIGO O3 data_,
+[[arXiv:2209.02863](https://arxiv.org/abs/2209.02863)]
+
+
 
 
 ### White papers & other documents (not peer-reviewed)
