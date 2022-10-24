@@ -29,7 +29,8 @@ Accepted by Living Review in Gen. Rel. [[arXiv:2203.06016](https://arxiv.org/abs
 
 1. L. Sberna _et al_,
 _Observing GW190521-like binary black holes and their environment with LISA_,
-Accepted by PRD (2022)
+Phys. Rev. D 106 (2022) no.6, 064056
+[[doi:10.1103/PhysRevD.106.064056](https://doi.org/10.1103/PhysRevD.106.064056)]
 [[arXiv:2205.08550](https://arxiv.org/abs/2205.08550)].
 
 1. M. L. Katz, C. Danielski, N. Karnesis, V. Korol, N. Tamanini, N. J. Cornish and T. B. Littenberg,
