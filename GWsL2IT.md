@@ -55,6 +55,12 @@ Here are the people that were part of the L2IT GW group in the past:
 
 Some of the most recent publications and pre-prints authored by at least two members of the group:
 
+1. L. Sberna, S. Babak, S. Marsat, A. Caputo, G. Cusin, A. Toubiana, E. Barausse, C. Caprini, T. Dal Canton, A. Sesana, N. Tamanini,
+_Observing GW190521-like binary black holes and their environment with LISA_,
+Phys. Rev. D 106 (2022) no.6, 064056
+[[doi:10.1103/PhysRevD.106.064056](https://doi.org/10.1103/PhysRevD.106.064056)]
+[[arXiv:2205.08550](https://arxiv.org/abs/2205.08550)].
+
 1. M. Corman, A. Ghosh, C. Escamilla-Rivera, M. A. Hendry, S. Marsat and N. Tamanini,
 _Constraining cosmological extra dimensions with gravitational wave standard sirens: from theory to current and future multi-messenger observations_,
 Phys. Rev. D 105 (2022) no.6, 064061,
