@@ -30,7 +30,7 @@ Accepted by Living Review in Gen. Rel. [[arXiv:2203.06016](https://arxiv.org/abs
 1. L. Sberna _et al_,
 _Observing GW190521-like binary black holes and their environment with LISA_,
 Accepted by PRD (2022)
-[[arXiv:2205.08550]((https://arxiv.org/abs/2205.03461))].
+[[arXiv:2205.08550](https://arxiv.org/abs/2205.03461)].
 
 1. M. L. Katz, C. Danielski, N. Karnesis, V. Korol, N. Tamanini, N. J. Cornish and T. B. Littenberg,
 _Bayesian Characterisation of Circumbinary Exoplanets with LISA_,
