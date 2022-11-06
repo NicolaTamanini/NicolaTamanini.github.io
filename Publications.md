@@ -25,7 +25,7 @@ Accepted by Phys. Rev. D 106 (2022)
 [[arXiv:2207.10678](https://arxiv.org/abs/2207.10678)]
 
 1. P. Amaro-Seoane _et al_ [LISA Astrophysics Working Group],
-_Astrophysics with the Laser Interferometer Space Antenna_
+_Astrophysics with the Laser Interferometer Space Antenna_,
 Accepted by Living Review in Gen. Rel. [[arXiv:2203.06016](https://arxiv.org/abs/2203.06016)]
 
 1. L. Sberna _et al_,
