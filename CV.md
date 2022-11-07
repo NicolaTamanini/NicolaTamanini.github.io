@@ -262,6 +262,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Contributed conference talks
 
+1. _Cosmology working group: plans and preparations for O4_, talk at the Virgo Week, EGO/Cascina, Italy [07/11/2022]
 1. _Cosmology with gravitational waves: from theory to observations_, talk at the workshop A Shot in the Dark: New Challenges in Cosmology 2022, Leiden, The Netherlands [30/06/2022]
 1. _LVK Cosmology Working Group Plans and Preparations for 04_, talk at the Virgo France Cosmology Meeting, Paris, France [21/06/2022]
 1. _Constraining higher-dimensional cosmology with gravitational wave standard sirens_, Talk at the Cinquième Assemblée Générale du GdR Ondes Gravitationnelles, Annecy, France [11/10/2021]
