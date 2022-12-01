@@ -124,8 +124,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Qualifications
 
-- Habilitation for _Professore Universitario_, Italy, 2020
-- Habilitation for _Maître de Conférence_, France, 2019
+- Abilitazione per _Professore Universitario_, Italy, 2020
+- Habilitation pour _Maître de Conférence_, France, 2019
 
 
 ### Postdocs supervised
