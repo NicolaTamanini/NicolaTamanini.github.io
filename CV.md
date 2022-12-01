@@ -105,6 +105,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
+- [_LISA data analysis: from classical methods to machine learining_](https://indico.in2p3.fr/event/27706/) workshop, Toulouse, France, Nov 2022 [Overall coordinator and main organiser]
 - _Assemblée Générale GdR Ondes Gravitationnelles_, Toulouse, France, Oct 2022 [Chair of the LOC]
 - _LISA Symposium XVI_, online, Jul 2022 [Member of the scientific advisory committee]
 - _1st MaNiTou Summer School on Gravitational Waves_, Marseille, Jul 2022 [Member of the SOC]
