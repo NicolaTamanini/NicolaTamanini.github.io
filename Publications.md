@@ -316,6 +316,10 @@ Astrophys. J. 871 (2019) L13 [[doi:10.3847/2041-8213/aaf96e](https://iopscience.
 
 ### LVK collaboration paper (minimal personal contribution)
 
+1. R.~Abbott et al.} [LIGO Scientific, VIRGO and KAGRA],
+_Search for subsolar-mass black hole binaries in the second part of Advanced LIGO's and Advanced Virgo's third observing run,''
+[arXiv:2212.01477 [astro-ph.HE]]
+
 1. R. Abbott _et al_ [LIGO Scientific, VIRGO and KAGRA],
 _Model-based cross-correlation search for gravitational waves from the low-mass X-ray binary Scorpius X-1 in LIGO O3 data_,
 [[arXiv:2209.02863](https://arxiv.org/abs/2209.02863)]
