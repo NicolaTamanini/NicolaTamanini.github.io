@@ -405,4 +405,4 @@ University of Trento, Italy [110/110 e lode]
 - Italian (native speaker)
 - English (fluent)
 - French (fluent)
-- German (moderate/beginner)
+- German (not fluent at all)
