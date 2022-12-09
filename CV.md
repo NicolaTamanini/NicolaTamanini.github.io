@@ -310,6 +310,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Nov 2022, _LISA data analysis: from classical methods to machine learining_ workshop, Toulouse, France
 1. Nov 2022, _Virgo Week_, EGO/Cascina, Italy
 1. Oct 2022, _Assemblée Générale GdR Ondes Gravitationnelles_, Toulouse, France
 1. Oct 2022, _Virgo France meeting_, Paris, France
