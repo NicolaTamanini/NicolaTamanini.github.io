@@ -8,6 +8,14 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. M. Toscani, E. M. Rossi, N. Tamanini and G. Cusin,
+_Lensing of gravitational waves from tidal disruption events_,
+[[arXiv:2301.01804](https://arxiv.org/abs/2301.01804)]
+
+1. J. R. Gair et al.,
+_The Hitchhiker's guide to the galaxy catalog approach for gravitational wave cosmology_,
+[[arXiv:2212.08694](https://arxiv.org/abs/2212.08694)]
+
 1. R. Barbieri, S. Savastano, L. Speri, A. Antonelli, L. Sberna, O. Burke, J. R. Gair and N. Tamanini,
 _Constraining the evolution of Newton's constant with slow inspirals observed from spaceborne gravitational-wave detectors_,
 [[arXiv:2207.10674](https://arxiv.org/abs/2207.10674)]
