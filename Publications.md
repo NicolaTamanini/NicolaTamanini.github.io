@@ -277,6 +277,11 @@ Phys. Rev. D 83, 044018 (2011) [[doi:10.1103/PhysRevD.83.044018](https://journal
 
 ### Conference proceedings & similar (published/peer-reviewed)
 
+1. A. Mangiagli, C. Caprini, M. Volonteri, S. Marsat, S. Vergani, N. Tamanini and L. Speri,
+_Cosmology with massive black hole binary mergers in the LISA era_,
+PoS ICHEP2022 (2022), 125
+[[doi:10.22323/1.414.0125](https://doi.org/10.22323/1.414.0125)]
+
 1. J. Bayle et al.,
 _Workshop on Gravitational-Wave Astrophysics for Early Career Scientists_,
 Nature Astron. 6 (2022), 304 [[10.1038/s41550-022-01629-8](https://www.nature.com/articles/s41550-022-01629-8)]
