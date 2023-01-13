@@ -309,7 +309,7 @@ Proceedings of the 13th Marcell Grossmann Meeting, [[doi:10.1142/9789814623995_0
 
 
 
-### LVK collaboration papers (substantial personal contribution)
+### LVK collaboration papers (non-negligible personal contribution)
 
 1. R. Abbot _et al_ [LIGO-Virgo-Kagra Collaboration],
 _Constraints on the cosmic expansion history from GWTC–3_,
@@ -327,7 +327,7 @@ Astrophys. J. 871 (2019) L13 [[doi:10.3847/2041-8213/aaf96e](https://iopscience.
 
 
 
-### LVK collaboration paper (minimal personal contribution)
+### LVK collaboration paper (negligible personal contribution)
 
 1. R.~Abbott et al.} [LIGO Scientific, VIRGO and KAGRA],
 _Search for subsolar-mass black hole binaries in the second part of Advanced LIGO's and Advanced Virgo's third observing run,''
