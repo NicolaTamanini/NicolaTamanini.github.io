@@ -311,7 +311,7 @@ Proceedings of the 13th Marcell Grossmann Meeting, [[doi:10.1142/9789814623995_0
 
 ### LVK collaboration papers (non-negligible personal contribution)
 
-1. R. Abbot _et al_ [LIGO-Virgo-Kagra Collaboration],
+1. R. Abbot et al. [LIGO-Virgo-Kagra Collaboration],
 _Constraints on the cosmic expansion history from GWTC–3_,
 Accepted by The Astrophysical Journal (2022)
 [[arXiv:2111.03604](https://arxiv.org/abs/2111.03604)]
@@ -329,11 +329,11 @@ Astrophys. J. 871 (2019) L13 [[doi:10.3847/2041-8213/aaf96e](https://iopscience.
 
 ### LVK collaboration paper (negligible personal contribution)
 
-1. R.~Abbott et al.} [LIGO Scientific, VIRGO and KAGRA],
-_Search for subsolar-mass black hole binaries in the second part of Advanced LIGO's and Advanced Virgo's third observing run,''
-[arXiv:2212.01477 [astro-ph.HE]]
+1. R. Abbott et al. [LIGO Scientific, VIRGO and KAGRA],
+_Search for subsolar-mass black hole binaries in the second part of Advanced LIGO's and Advanced Virgo's third observing run_,
+[[arXiv:2212.01477](https://arxiv.org/abs/2212.01477)]
 
-1. R. Abbott _et al_ [LIGO Scientific, VIRGO and KAGRA],
+1. R. Abbott et al. [LIGO Scientific, VIRGO and KAGRA],
 _Model-based cross-correlation search for gravitational waves from the low-mass X-ray binary Scorpius X-1 in LIGO O3 data_,
 [[arXiv:2209.02863](https://arxiv.org/abs/2209.02863)]
 
@@ -342,7 +342,7 @@ _Model-based cross-correlation search for gravitational waves from the low-mass 
 
 ### White papers & other documents (not peer-reviewed)
 
-1. J. B. Bayle _et al_,
+1. J. B. Bayle et al.,
 _Legacy of the First Workshop on Gravitational Wave Astrophysics for Early Career Scientists_
 [[arXiv:2111.15596](https://arxiv.org/abs/2111.15596)]
 
@@ -356,7 +356,7 @@ White paper submitted to Astro2020 (2020 Decadal Survey on Astronomy and Astroph
 1. R. Caldwell et al., _Astro2020 Science White Paper: Cosmology with a Space-Based Gravitational Wave Observatory_,
 White paper submitted to Astro2020 (2020 Decadal Survey on Astronomy and Astrophysics), [[arXiv:1903.04657](https://arxiv.org/abs/1903.04657)]
 
-1. H. Audley et al (LISA consortium), _Laser Interferometer Space Antenna_,
+1. H. Audley et al. [LISA consortium], _Laser Interferometer Space Antenna_,
 Submitted to ESA on January 13th in response to the call for missions for the L3 slot in the Cosmic Vision Programme, [[arXiv:1702.00786](https://arxiv.org/abs/1702.00786)]
 
 ### Outreach
