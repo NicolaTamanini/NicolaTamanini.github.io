@@ -55,19 +55,12 @@ Here are the people that were part of the L2IT GW group in the past:
 
 Some of the most recent publications and pre-prints authored by at least two members of the group:
 
+1. M. Toscani, E. M. Rossi, N. Tamanini and G. Cusin,
+_Lensing of gravitational waves from tidal disruption events_,
+[[arXiv:2301.01804](https://arxiv.org/abs/2301.01804)]
+
 1. L. Sberna, S. Babak, S. Marsat, A. Caputo, G. Cusin, A. Toubiana, E. Barausse, C. Caprini, T. Dal Canton, A. Sesana, N. Tamanini,
 _Observing GW190521-like binary black holes and their environment with LISA_,
 Phys. Rev. D 106 (2022) no.6, 064056
 [[doi:10.1103/PhysRevD.106.064056](https://doi.org/10.1103/PhysRevD.106.064056)]
-[[arXiv:2205.08550](https://arxiv.org/abs/2205.08550)].
-
-1. M. Corman, A. Ghosh, C. Escamilla-Rivera, M. A. Hendry, S. Marsat and N. Tamanini,
-_Constraining cosmological extra dimensions with gravitational wave standard sirens: from theory to current and future multi-messenger observations_,
-Phys. Rev. D 105 (2022) no.6, 064061,
-[[doi:10.1103/PhysRevD.105.064061](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.064061)][[arXiv:2109.08748](https://arxiv.org/abs/2109.08748)]
-
-1. D. Laghi, N. Tamanini, W. Del Pozzo, A. Sesana, J. Gair,
-_Gravitational wave cosmology with extreme mass-ratio inspirals_,
-Mon. Not. Roy. Astron. Soc. 508 (2021) no.3, 4512-4531
-[[doi:10.1093/mnras/stab2741](https://doi.org/10.1093/mnras/stab2741)]
-[[arXiv:2102.01708](https://arxiv.org/abs/2102.01708)]
+[[arXiv:2205.08550](https://arxiv.org/abs/2205.08550)]
