@@ -106,10 +106,11 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
+- [_Journée scientifique LPT/L2IT_](https://indico.in2p3.fr/event/28881/), Toulouse, France, Jan 2023 [Member of the OC]
 - [_LISA data analysis: from classical methods to machine learning_](https://indico.in2p3.fr/event/27706/) workshop, Toulouse, France, Nov 2022 [Overall coordinator and main organiser]
-- _Assemblée Générale GdR Ondes Gravitationnelles_, Toulouse, France, Oct 2022 [Chair of the LOC]
+- [_Assemblée Générale GdR Ondes Gravitationnelles_](https://indico.in2p3.fr/event/27290/), Toulouse, France, Oct 2022 [Chair of the LOC]
 - _LISA Symposium XVI_, online, Jul 2022 [Member of the scientific advisory committee]
-- _1st MaNiTou Summer School on Gravitational Waves_, Marseille, France, Jul 2022 [Member of the SOC]
+- [_1st MaNiTou Summer School on Gravitational Waves_](https://indico.in2p3.fr/event/25990/), Marseille, France, Jul 2022 [Member of the SOC]
 - _LDPG Workshop_, Toulouse, France, Jun 2022 [Member of the LOC]
 - _Virgo France Cosmology Meeting_, Paris, France, Jun 2022 [Organiser]
 - _Rencontre commune des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles_, Orsay, France, Jun 2022 [Member of the SOC]
