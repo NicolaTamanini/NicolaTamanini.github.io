@@ -29,7 +29,8 @@ _Cosmology with the Laser Interferometer Space Antenna_,
 
 1. A. Mangiagli, C. Caprini, M. Volonteri, S. Marsat, S. Vergani, N. Tamanini and H. Inchauspé,
 _Massive black hole binaries in LISA: multimessenger prospects and electromagnetic counterparts_,
-Accepted by Phys. Rev. D 106 (2022)
+Phys. Rev. D 106 (2022) no.10, 103017
+[[doi:10.1103/PhysRevD.106.103017](https://doi.org/10.1103/PhysRevD.106.103017)]
 [[arXiv:2207.10678](https://arxiv.org/abs/2207.10678)]
 
 1. P. Amaro-Seoane _et al_ [LISA Astrophysics Working Group],
