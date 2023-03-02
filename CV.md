@@ -52,7 +52,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research grants and fellowships
 
-- _CNRS MITI Project LIROCOS_, L2IT, Toulouse, France, 2022 (in collaboration with APC, CEA and CNES; role: PI) [collaborative research fundings, tot. €25600]
+- _CNRS MITI Project LIROCOS_, L2IT, Toulouse, France, 2022 (in collaboration with APC, CEA and CNES; role: PI) [collaborative research fundings, tot. €50000]
 - _ANR Tremplin–ERC_, L2IT, Toulouse, France, 2020 [research fundings, tot. €76700]
 - _Enhanced Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc's salary for 2 years + research/travel fundings, tot. ca. €65000]
 
@@ -78,10 +78,11 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research appointements
 
-- Nominated Coordinator General of the _GW Early Career Scientists (GWECS)_ organisation (since 2022)
+- Chair of the _ET OSB Division 5_ on synergy with other GW observatories (since 2023)
+- Coordinator General of the _GW Early Career Scientists (GWECS)_ organisation (since 2022)
 - Member of the Comité de Pilotage and of the Conseil Scientifique of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Coordinator of the cosmology working group of the _GdR Ondes Gravitationnelles_ (since 2022)
-- Elected junior chair of the _LISA Cosmology Working Group_ (since 2021)
+- Elected early-career chair of the _LISA Cosmology Working Group_ (since 2021)
 - Chair of the _LIGO/Virgo/Kagra Cosmology Working Group_ (since 2021)
 - Member of the _LISA Publication and Presentation (P&P) Committee_ (since 2021)
 - Coordinator of the _LISA sub-working package_ on estimation of cosmological parameters and standard sirens (since 2019)
@@ -96,6 +97,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Academic services (internal)
 
+- Chair of the gravitational-wave PhD application selection committee at L2IT (2023)
 - Member of the selection commitee for a junior professorship chair at L2IT / Univ. Paul Sabatier (2022)
 - Chair of the gravitational-wave postdoc application selection committee at L2IT (2022)
 - Chair of the gravitational-wave postdoc application selection committee at L2IT (2021)
@@ -144,8 +146,10 @@ University of Trento, Italy [110/110 e lode]
 
 ### Students supervised
 
+- _Olympe Léchine_, L2IT (M2 intern from Mar to July 2023)
+- _Nour Bou Zamel_, L2IT (L3 intern from Mar to June 2023)
 - _Chang Liu_, L2IT (visiting PhD student from Oct 2022)
-- _Rémi Delpech_, L2IT (M2 intern from Feb 2022 to July 2022) 
+- _Rémi Delpech_, L2IT (M2 intern from Feb to July 2022) 
 - _Niccolò Muttoni_, L2IT (post-M2 research assistant from Nov 2021 to Apr 2022)
 
 
@@ -206,7 +210,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Outreach activities
 
-- _Ondes gravitationnelles: l'aube d'une nouvelle science de l'univers_, Outreach talk, Colloquim CC-IN2P3, Toulouse [06/05/2022]
+- N. Tamanini, _Ondes gravitationnelles: l'aube d'une nouvelle science de l'univers_, Outreach talk, Colloquim CC-IN2P3, Toulouse [06/05/2022]
 - N. Tamanini & C. Danielski, _Don’t Panic! Gravitational waves can find new planets_, Outreach article for the LIGO Magazine (2019) [[URL](https://www.ligo.org/magazine/LIGO-magazine-issue15.pdf#page=20)]
 
 
