@@ -40,7 +40,9 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 ### Interns and students
 
-- 
+- **Nour Bou Zamel** (L3)
+- **Olympe Léchine** (M2)
+- **Clèment Llauro** (M2)
 
 ## Past members
 
