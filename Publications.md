@@ -16,16 +16,17 @@ _Lensing of gravitational waves from tidal disruption events_,
 _The Hitchhiker's guide to the galaxy catalog approach for gravitational wave cosmology_,
 [[arXiv:2212.08694](https://arxiv.org/abs/2212.08694)]
 
-1. R. Barbieri, S. Savastano, L. Speri, A. Antonelli, L. Sberna, O. Burke, J. R. Gair and N. Tamanini,
-_Constraining the evolution of Newton's constant with slow inspirals observed from spaceborne gravitational-wave detectors_,
-[[arXiv:2207.10674](https://arxiv.org/abs/2207.10674)]
-
 1. P. Auclair _et al_ [LISA Cosmology Working Group],
 _Cosmology with the Laser Interferometer Space Antenna_,
 [[arXiv:2204.05434](https://arxiv.org/abs/2204.05434)]
 
 
 ### Publications in peer-review journals
+
+1. R. Barbieri, S. Savastano, L. Speri, A. Antonelli, L. Sberna, O. Burke, J. R. Gair and N. Tamanini,
+_Constraining the evolution of Newton's constant with slow inspirals observed from spaceborne gravitational-wave detectors_,
+Accepted by PRD (2023)
+[[arXiv:2207.10674](https://arxiv.org/abs/2207.10674)]
 
 1. A. Mangiagli, C. Caprini, M. Volonteri, S. Marsat, S. Vergani, N. Tamanini and H. Inchauspé,
 _Massive black hole binaries in LISA: multimessenger prospects and electromagnetic counterparts_,
