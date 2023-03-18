@@ -305,6 +305,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Chaired discussions at conferences
 
+1. _LVK Collaboration Meeting_, f2f cosmology session, Chicago, US [16/03/2023]
 1. _LVK Collaboration Meeting_, f2f cosmology session, Cardiff, UK [12/09/2022]
 1. _AAP MITI Nouvelles méthodes pour le traitement et l'analyse des données spatiales_, Discussion at LIDA in France, Caen, France [18/05/2022]
 2. _LECS discussion_, Panel discussion at LISA Symposium XIII, online
@@ -316,6 +317,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Mar 2023, _LVK collaboration meeting_, Chicago, US
+1. Jan 2023, [_Journée scientifique LPT/L2IT_](https://indico.in2p3.fr/event/28881/), Toulouse, France, 
 1. Nov 2022, _LISA data analysis: from classical methods to machine learining_ workshop, Toulouse, France
 1. Nov 2022, _Virgo Week_, EGO/Cascina, Italy
 1. Oct 2022, _Assemblée Générale GdR Ondes Gravitationnelles_, Toulouse, France
