@@ -57,7 +57,7 @@ Mon. Not. Roy. Astron. Soc. 517 (2022) no.1, 697-711
 
 1. K. G. Arun _et al_ [LISA Fundamental Physics Working Group], [LISA],
 _New Horizons for Fundamental Physics with LISA_,
-Living Rev. Rel. \textbf{25} (2022) no.1, 4
+Living Rev. Rel. 25 (2022) no.1, 4
 [[doi:10.1007/s41114-022-00036-9](https://doi:10.1007/s41114-022-00036-9)]
 [[arXiv:2205.01597](https://arxiv.org/abs/2205.01597)]
 
