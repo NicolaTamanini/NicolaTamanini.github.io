@@ -41,7 +41,9 @@ Phys. Rev. D 106 (2022) no.10, 103017
 
 1. P. Amaro-Seoane _et al_ [LISA Astrophysics Working Group],
 _Astrophysics with the Laser Interferometer Space Antenna_,
-Accepted by Living Review in Gen. Rel. [[arXiv:2203.06016](https://arxiv.org/abs/2203.06016)]
+Living Rev. Rel. 26 (2023) no.1, 2
+[[doi:10.1007/s41114-022-00041-y](https://doi.org/10.1007/s41114-022-00041-y)]
+[[arXiv:2203.06016](https://arxiv.org/abs/2203.06016)]
 
 1. L. Sberna _et al_,
 _Observing GW190521-like binary black holes and their environment with LISA_,
