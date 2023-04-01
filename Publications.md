@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. N. Muttoni, D. Laghi, N. Tamanini, S. Marsat and D. Izquierdo-Villalba,
+_Dark siren cosmology with binary black holes in the era of third-generation gravitational wave detectors_,
+[[arXiv:2303.10693](https://arxiv.org/abs/2303.10693)]
+
 1. M. Toscani, E. M. Rossi, N. Tamanini and G. Cusin,
 _Lensing of gravitational waves from tidal disruption events_,
 [[arXiv:2301.01804](https://arxiv.org/abs/2301.01804)]
@@ -25,7 +29,8 @@ _Cosmology with the Laser Interferometer Space Antenna_,
 
 1. R. Barbieri, S. Savastano, L. Speri, A. Antonelli, L. Sberna, O. Burke, J. R. Gair and N. Tamanini,
 _Constraining the evolution of Newton's constant with slow inspirals observed from spaceborne gravitational-wave detectors_,
-Accepted by PRD (2023)
+Phys. Rev. D 107 (2023) no.6, 064073
+[[doi:10.1103/PhysRevD.107.064073](https://doi.org/10.1103/PhysRevD.107.064073)]
 [[arXiv:2207.10674](https://arxiv.org/abs/2207.10674)]
 
 1. A. Mangiagli, C. Caprini, M. Volonteri, S. Marsat, S. Vergani, N. Tamanini and H. Inchauspé,
@@ -331,12 +336,27 @@ Astrophys. J. 871 (2019) L13 [[doi:10.3847/2041-8213/aaf96e](https://iopscience.
 
 ### LVK collaboration paper (negligible personal contribution)
 
+1. F. Acernese et al. [VIRGO],
+_Advanced Virgo Plus: Future Perspectives_,
+[[doi:10.1088/1742-6596/2429/1/012040](https://iopscience.iop.org/article/10.1088/1742-6596/2429/1/012040)]
+
+1. F. Acernese et al. [VIRGO],
+_The Advanced Virgo+ status_,
+[[doi:10.1088/1742-6596/2429/1/012039](https://iopscience.iop.org/article/10.1088/1742-6596/2429/1/012039)]
+
+1. R. Abbott et al. [LIGO Scientific, VIRGO and KAGRA],
+_Open data from the third observing run of LIGO, Virgo, KAGRA and GEO_,
+[[arXiv:2302.03676](https://arxiv.org/abs/2302.03676)]
+
 1. R. Abbott et al. [LIGO Scientific, VIRGO and KAGRA],
 _Search for subsolar-mass black hole binaries in the second part of Advanced LIGO's and Advanced Virgo's third observing run_,
+[[doi:10.1093/mnras/stad588](https://doi.org/10.1093/mnras/stad588)]
 [[arXiv:2212.01477](https://arxiv.org/abs/2212.01477)]
 
 1. R. Abbott et al. [LIGO Scientific, VIRGO and KAGRA],
 _Model-based cross-correlation search for gravitational waves from the low-mass X-ray binary Scorpius X-1 in LIGO O3 data_,
+Astrophys. J. Lett. 941 (2022) no.2, L30
+[[doi:10.3847/2041-8213/aca1b0](https://doi.org/10.3847/2041-8213/aca1b0)]
 [[arXiv:2209.02863](https://arxiv.org/abs/2209.02863)]
 
 
