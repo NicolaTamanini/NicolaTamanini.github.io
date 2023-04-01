@@ -57,6 +57,10 @@ Here are the people that were part of the L2IT GW group in the past:
 
 Some of the most recent publications and pre-prints authored by at least two members of the group:
 
+1. N. Muttoni, D. Laghi, N. Tamanini, S. Marsat and D. Izquierdo-Villalba,
+_Dark siren cosmology with binary black holes in the era of third-generation gravitational wave detectors_,
+[[arXiv:2303.10693](https://arxiv.org/abs/2303.10693)]
+
 1. M. Toscani, E. M. Rossi, N. Tamanini and G. Cusin,
 _Lensing of gravitational waves from tidal disruption events_,
 [[arXiv:2301.01804](https://arxiv.org/abs/2301.01804)]
