@@ -27,6 +27,11 @@ _Cosmology with the Laser Interferometer Space Antenna_,
 
 ### Publications in peer-review journals
 
+1. J. R. Gair et al.,
+_The Hitchhiker's guide to the galaxy catalog approach for gravitational wave cosmology_,
+Accepted by The Astrophysical Journal,
+[[arXiv:2212.08694](https://arxiv.org/abs/2212.08694)]
+
 1. R. Barbieri, S. Savastano, L. Speri, A. Antonelli, L. Sberna, O. Burke, J. R. Gair and N. Tamanini,
 _Constraining the evolution of Newton's constant with slow inspirals observed from spaceborne gravitational-wave detectors_,
 Phys. Rev. D 107 (2023) no.6, 064073
