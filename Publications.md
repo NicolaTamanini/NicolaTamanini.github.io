@@ -16,10 +16,6 @@ _Dark siren cosmology with binary black holes in the era of third-generation gra
 _Lensing of gravitational waves from tidal disruption events_,
 [[arXiv:2301.01804](https://arxiv.org/abs/2301.01804)]
 
-1. J. R. Gair et al.,
-_The Hitchhiker's guide to the galaxy catalog approach for gravitational wave cosmology_,
-[[arXiv:2212.08694](https://arxiv.org/abs/2212.08694)]
-
 1. P. Auclair _et al_ [LISA Cosmology Working Group],
 _Cosmology with the Laser Interferometer Space Antenna_,
 [[arXiv:2204.05434](https://arxiv.org/abs/2204.05434)]
