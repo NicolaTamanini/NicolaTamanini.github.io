@@ -339,6 +339,10 @@ Astrophys. J. 871 (2019) L13 [[doi:10.3847/2041-8213/aaf96e](https://iopscience.
 
 ### LVK collaboration paper (negligible personal contribution)
 
+1. R. Abbott et al. [LIGO Scientific, VIRGO and KAGRA],
+_Search for gravitational-lensing signatures in the full third observing run of the LIGO-Virgo network_,
+[[arXiv:2304.08393](https://arxiv.org/abs/2304.08393)]
+
 1. F. Acernese et al. [VIRGO],
 _Advanced Virgo Plus: Future Perspectives_,
 [[doi:10.1088/1742-6596/2429/1/012040](https://iopscience.iop.org/article/10.1088/1742-6596/2429/1/012040)]
