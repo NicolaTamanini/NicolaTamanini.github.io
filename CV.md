@@ -108,22 +108,23 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
-- [_Journée scientifique LPT/L2IT_](https://indico.in2p3.fr/event/28881/), Toulouse, France, Jan 2023 [Member of the OC]
-- [_LISA data analysis: from classical methods to machine learning_](https://indico.in2p3.fr/event/27706/) workshop, Toulouse, France, Nov 2022 [Overall coordinator and main organiser]
-- [_Assemblée Générale GdR Ondes Gravitationnelles_](https://indico.in2p3.fr/event/27290/), Toulouse, France, Oct 2022 [Chair of the LOC]
-- _LISA Symposium XVI_, online, Jul 2022 [Member of the scientific advisory committee]
-- [_1st MaNiTou Summer School on Gravitational Waves_](https://indico.in2p3.fr/event/25990/), Marseille, France, Jul 2022 [Member of the SOC]
-- _LDPG Workshop_, Toulouse, France, Jun 2022 [Member of the LOC]
-- _Virgo France Cosmology Meeting_, Paris, France, Jun 2022 [Organiser]
-- _Rencontre commune des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles_, Orsay, France, Jun 2022 [Member of the SOC]
-- _IRAP-L2IT gravitational waves mini-symposium_, Toulouse, France, Dec 2021 [Member of the OC]
-- _9th LISA Cosmology Working Group Workshop_, online, Dec 2021 [Member of the OC]
-- _GW Job Fair_, online, Nov 2021 [Member of the OC]
-- _GW Early Career Scientists (GWECS) Meeting_, online, Sept 2021 [Chair of the OC]
-- _GW Early Career Scientists Funding Opportunity Workshop_, online, Jun 2021 [Member of the OC]
-- _Workshop on Gravitational Waves Astrophysics for Early Career Scientists (GWÆCS)_, online (Lorentz Center workshop), May 2021 [Chair of the OC]
-- _LECS webinar: European research funding opportunities for early career scientists_, online, Jul 2020 [Organiser]
-- _Progress on Old and New Themes in Cosmology (PONT)_, Avignon, France, Apr 2017 [Member of the OC]
+1. [_PONT2023_](https://indico.cern.ch/event/1166693/), Avignon, France, May 2023 [Memner of the OC]
+1. [_Journée scientifique LPT/L2IT_](https://indico.in2p3.fr/event/28881/), Toulouse, France, Jan 2023 [Member of the OC]
+1. [_LISA data analysis: from classical methods to machine learning_](https://indico.in2p3.fr/event/27706/) workshop, Toulouse, France, Nov 2022 [Overall coordinator and main organiser]
+1. [_Assemblée Générale GdR Ondes Gravitationnelles_](https://indico.in2p3.fr/event/27290/), Toulouse, France, Oct 2022 [Chair of the LOC]
+1. _LISA Symposium XVI_, online, Jul 2022 [Member of the scientific advisory committee]
+1. [_1st MaNiTou Summer School on Gravitational Waves_](https://indico.in2p3.fr/event/25990/), Marseille, France, Jul 2022 [Member of the SOC]
+1. _LDPG Workshop_, Toulouse, France, Jun 2022 [Member of the LOC]
+1. _Virgo France Cosmology Meeting_, Paris, France, Jun 2022 [Organiser]
+1. _Rencontre commune des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles_, Orsay, France, Jun 2022 [Member of the SOC]
+1. _IRAP-L2IT gravitational waves mini-symposium_, Toulouse, France, Dec 2021 [Member of the OC]
+1. _9th LISA Cosmology Working Group Workshop_, online, Dec 2021 [Member of the OC]
+1. _GW Job Fair_, online, Nov 2021 [Member of the OC]
+1. _GW Early Career Scientists (GWECS) Meeting_, online, Sept 2021 [Chair of the OC]
+1. _GW Early Career Scientists Funding Opportunity Workshop_, online, Jun 2021 [Member of the OC]
+1. _Workshop on Gravitational Waves Astrophysics for Early Career Scientists (GWÆCS)_, online (Lorentz Center workshop), May 2021 [Chair of the OC]
+1. _LECS webinar: European research funding opportunities for early career scientists_, online, Jul 2020 [Organiser]
+1. _Progress on Old and New Themes in Cosmology (PONT)_, Avignon, France, Apr 2017 [Member of the OC]
 
 
 ### Qualifications
@@ -306,6 +307,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Chaired discussions at conferences
 
+1. _ET Symposium_ ET OSB Div5 session, Cagliari Italy [10/05/2023]
 1. _LVK Collaboration Meeting_, f2f cosmology session, Chicago, US [16/03/2023]
 1. _LVK Collaboration Meeting_, f2f cosmology session, Cardiff, UK [12/09/2022]
 1. _AAP MITI Nouvelles méthodes pour le traitement et l'analyse des données spatiales_, Discussion at LIDA in France, Caen, France [18/05/2022]
@@ -318,6 +320,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. May 2023, _ET Symposium_, Cagliari, Italy
+1. May 2023, _PONT2023_, Avignon, France
 1. Mar 2023, _LVK collaboration meeting_, Chicago, US
 1. Jan 2023, [_Journée scientifique LPT/L2IT_](https://indico.in2p3.fr/event/28881/), Toulouse, France, 
 1. Nov 2022, _LISA data analysis: from classical methods to machine learining_ workshop, Toulouse, France
