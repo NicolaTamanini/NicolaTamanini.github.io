@@ -52,8 +52,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research grants and fellowships
 
-- _CNRS MITI Project LIROCOS_, L2IT, Toulouse, France, 2022 (in collaboration with APC, CEA and CNES; role: PI) [collaborative research fundings, tot. €50000]
-- _ANR Tremplin–ERC_, L2IT, Toulouse, France, 2020 [research fundings, tot. €76700]
+- _CNRS MITI Project LIROCOS_, L2IT, Toulouse, France, 2022 (in collaboration with APC, CEA and CNES; role: PI) [collaborative research fundings, tot. €50000 for 2 years]
+- _ANR Tremplin–ERC_, L2IT, Toulouse, France, 2020 [research fundings, tot. €76700 for 1 year]
 - _Enhanced Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc's salary for 2 years + research/travel fundings, tot. ca. €65000]
 
 
@@ -91,6 +91,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Academic services (external)
 
+- Member of the selection committee for a tenure-track full professorship position (chaire excellence) at Aix-Marseille University (2023)
 - Member of the selection committee of the ATER positions for CNU Sec 29 at Université de Toulouse Paul Sabatier (since 2022)
 - Nominated member of the Collège Scientifique Physique-SDU de l'Université de Toulouse Paul Sabatier (since 2022)
 
@@ -108,6 +109,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
+1. [_10th LISA Cosmology Working Group Workshop_](https://indico.uis.no/event/28/), Stavanger, Norway Jun 2023 [Member of the SOC]
 1. [_PONT2023_](https://indico.cern.ch/event/1166693/), Avignon, France, May 2023 [Memner of the OC]
 1. [_Journée scientifique LPT/L2IT_](https://indico.in2p3.fr/event/28881/), Toulouse, France, Jan 2023 [Member of the OC]
 1. [_LISA data analysis: from classical methods to machine learning_](https://indico.in2p3.fr/event/27706/) workshop, Toulouse, France, Nov 2022 [Overall coordinator and main organiser]
@@ -130,7 +132,7 @@ University of Trento, Italy [110/110 e lode]
 ### Qualifications
 
 - Abilitazione per _Professore Universitario_, Italy, 2020
-- Habilitation pour _Maître de Conférence_, France, 2019
+- Qualification pour _Maître de Conférence_, France, 2019
 
 
 ### Postdocs supervised
@@ -245,6 +247,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited conference talks
 
+1. _LISA cosmology vs L3 catalogs_, Talk at Towards LISA catalogs, Nice, France [13/06/2023]
 1. _What to expect from LISA_, Talk at The quest for precision gravitational wave cosmology, Chicago, USA [19/09/2022]
 1. _GW cosmology with LISA (and TianQin)_, Talk at TianQin Astro Workshop, online [24/08/2022]
 1. _Cosmology with Gravitational Waves: Current Results and Future Prospects_, Talk at International Workshop on Emerging Trends in Gravitation and Cosmology, online [17/12/2021]
@@ -320,6 +323,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Jun 2023, _Towards LISA catalogs_, Nice, France
+1. Jun 2023, _10th LISA Cosmology Working Group Workshop_, Stavanger, Norway
 1. May 2023, _ET Symposium_, Cagliari, Italy
 1. May 2023, _PONT2023_, Avignon, France
 1. Mar 2023, _LVK collaboration meeting_, Chicago, US
