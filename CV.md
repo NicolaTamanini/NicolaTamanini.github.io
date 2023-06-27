@@ -38,7 +38,9 @@ University of Trento, Italy [110/110 e lode]
 **_BSc in physics_**, University of Trento, Italy [110/110 e lode]
 
 
+### Professional training
 
+- Formation Manageriale "SOCLE" du CNRS, Toulouse/online, 2023
 
 ### Large collaboration memberships
 
