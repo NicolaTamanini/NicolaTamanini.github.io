@@ -12,10 +12,6 @@ Here you can find all my publications and links to their records on the most com
 _Dark siren cosmology with binary black holes in the era of third-generation gravitational wave detectors_,
 [[arXiv:2303.10693](https://arxiv.org/abs/2303.10693)]
 
-1. P. Auclair _et al_ [LISA Cosmology Working Group],
-_Cosmology with the Laser Interferometer Space Antenna_,
-[[arXiv:2204.05434](https://arxiv.org/abs/2204.05434)]
-
 
 ### Publications in peer-review journals
 
@@ -367,6 +363,12 @@ Astrophys. J. Lett. 941 (2022) no.2, L30
 [[doi:10.3847/2041-8213/aca1b0](https://doi.org/10.3847/2041-8213/aca1b0)]
 [[arXiv:2209.02863](https://arxiv.org/abs/2209.02863)]
 
+### White papers & other documents (peer-reviewed)
+
+1. P. Auclair _et al_ [LISA Cosmology Working Group] (Responsibilities: co-cordinator of the white paper, co-coordinator of Chap. 2),
+_Cosmology with the Laser Interferometer Space Antenna,
+Accepted by Liv. Rev. Rel. (2023)
+[[arXiv:2204.05434](https://arxiv.org/abs/2204.05434)]
 
 
 
