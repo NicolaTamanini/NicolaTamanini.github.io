@@ -215,13 +215,14 @@ University of Trento, Italy [110/110 e lode]
 
 ### Outreach activities
 
-- N. Tamanini, _Ondes gravitationnelles: l'aube d'une nouvelle science de l'univers_, Outreach talk, Seminaire de la Societe Francais de Physique, Toulouse [30/06/2023]
-- N. Tamanini, _Ondes gravitationnelles: l'aube d'une nouvelle science de l'univers_, Outreach talk, Colloquim CC-IN2P3, Toulouse [06/05/2022]
+- N. Tamanini, _Ondes gravitationnelles: l'aube d'une nouvelle science de l'univers_, Outreach talk (in French), Seminaire de la Societe Francais de Physique, Toulouse [30/06/2023]
+- N. Tamanini, _Ondes gravitationnelles: l'aube d'une nouvelle science de l'univers_, Outreach talk (in French), Colloquim CC-IN2P3, Toulouse [06/05/2022]
 - N. Tamanini & C. Danielski, _Don’t Panic! Gravitational waves can find new planets_, Outreach article for the LIGO Magazine (2019) [[URL](https://www.ligo.org/magazine/LIGO-magazine-issue15.pdf#page=20)]
 
 
 ### Invited seminars
 
+1. _La phénoménologie des ondes gravitationnelles_ (in French), Conseil Scientifique de l'IN2P3, Paris [03/07/2023] 
 1. _GW cosmology with LISA_, Ghent University, Belgium [28/03/2023]
 1. _Early career in GWs_, Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam, Germany [30/09/2022]
 1. _Cosmology with gravitational wave standard sirens: current results and future prospects_, University of Salamanca, Spain [07/06/2022]
