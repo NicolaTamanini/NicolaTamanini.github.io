@@ -17,7 +17,7 @@ _Dark siren cosmology with binary black holes in the era of third-generation gra
 [[arXiv:2303.10693](https://arxiv.org/abs/2303.10693)]
 
 
-### Publications in peer-review journals
+### Publications in peer-review journals (short author-list / small collaborations)
 
 1. M. Toscani, E. M. Rossi, N. Tamanini and G. Cusin,
 _Lensing of gravitational waves from tidal disruption events_,
@@ -43,12 +43,6 @@ Phys. Rev. D 106 (2022) no.10, 103017
 [[doi:10.1103/PhysRevD.106.103017](https://doi.org/10.1103/PhysRevD.106.103017)]
 [[arXiv:2207.10678](https://arxiv.org/abs/2207.10678)]
 
-1. P. Amaro-Seoane _et al_ [LISA Astrophysics Working Group],
-_Astrophysics with the Laser Interferometer Space Antenna_,
-Living Rev. Rel. 26 (2023) no.1, 2
-[[doi:10.1007/s41114-022-00041-y](https://doi.org/10.1007/s41114-022-00041-y)]
-[[arXiv:2203.06016](https://arxiv.org/abs/2203.06016)]
-
 1. L. Sberna _et al_,
 _Observing GW190521-like binary black holes and their environment with LISA_,
 Phys. Rev. D 106 (2022) no.6, 064056
@@ -60,12 +54,6 @@ _Bayesian Characterisation of Circumbinary Exoplanets with LISA_,
 Mon. Not. Roy. Astron. Soc. 517 (2022) no.1, 697-711
 [[doi:10.1093/mnras/stac2555](https://doi:10.1093/mnras/stac2555)]
 [[arXiv:2205.03461](https://arxiv.org/abs/2205.03461)]
-
-1. K. G. Arun _et al_ [LISA Fundamental Physics Working Group], [LISA],
-_New Horizons for Fundamental Physics with LISA_,
-Living Rev. Rel. 25 (2022) no.1, 4
-[[doi:10.1007/s41114-022-00036-9](https://doi:10.1007/s41114-022-00036-9)]
-[[arXiv:2205.01597](https://arxiv.org/abs/2205.01597)]
 
 1. M. Corman, A. Ghosh, C. Escamilla-Rivera, M. A. Hendry, S. Marsat and N. Tamanini,
 _Constraining cosmological extra dimensions with gravitational wave standard sirens: from theory to current and future multi-messenger observations_,
@@ -90,11 +78,6 @@ _Characterisation of lensing selection effects for LISA massive black hole binar
 Mon. Not. Roy. Astron. Soc. 504 (2021) no.3, 3610-3618
 [[doi:10.1093/mnras/stab1130](https://academic.oup.com/mnras/article-abstract/504/3/3610/6246409)] [[arXiv:2011.15109](https://arxiv.org/abs/2011.15109)]
 
-1. J. Baker et al., _High angular resolution gravitational wave astronomy_,
-White paper submitted to ESA’s Voyage 2050 call (2019),
-Exper. Astron. 51 (2021) no.3, 1441-1470
-[[10.1007/s10686-021-09712-0](https://doi.org/10.1007/s10686-021-09712-0)][[arXiv:1908.11410](https://arxiv.org/abs/1908.11410)]
-
 1. L. Speri, N. Tamanini, R. R. Caldwell, J. R. Gair and B. Wang,
 _Testing the Quasar Hubble Diagram with LISA Standard Sirens_,
 Phys. Rev. D 103 (2021) no.8, 083526
@@ -105,21 +88,10 @@ _Detectable environmental effects in GW190521-like black-hole binaries with LISA
 Phys. Rev. Lett. 126 (2021) no.10, 101105
 [[doi:10.1103/PhysRevLett.126.101105](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.101105)] [[arXiv:2010.06056](https://arxiv.org/abs/2010.06056)]
 
-1. A. Sesana et al., _Unveiling the Gravitational Universe at μ-Hz Frequencies_,
-White paper submitted to ESA’s Voyage 2050 call (2019),
-Exper. Astron. 51 (2021) no.3, 1333-1383
-[[doi:10.1007/s10686-021-09709-9](https://doi.org/10.1007/s10686-021-09709-9)] [[arXiv:1908.11391](https://arxiv.org/abs/1908.11391)]
-
 1. M. A. Sedda et al.,
 _The missing link in gravitational-wave astronomy: A summary of discoveries waiting in the decihertz range_,
 Exper. Astron. 51 (2021) no.3, 1427-1440
 [[doi:10.1007/s10686-021-09713-z](https://doi.org/10.1007/s10686-021-09713-z)]
-
-1. M. A. Sedda et al.,
-_The Missing Link in Gravitational-Wave Astronomy: Discoveries waiting in the decihertz range_,
-White paper submitted to ESA’s Voyage 2050 call (2019),
-Class. Quant. Grav. 37 (2020) 21, 215011
-[[doi:10.1088/1361-6382/abb5c1](https://iopscience.iop.org/article/10.1088/1361-6382/abb5c1)] [[arXiv:1908.11375](https://arxiv.org/abs/1908.11375)]
  
 42. C. Danielski and N. Tamanini,
 _Will Gravitational Waves Discover the First Extra-Galactic Planetary System?_,
@@ -377,6 +349,35 @@ Astrophys. J. Lett. 941 (2022) no.2, L30
 _Cosmology with the Laser Interferometer Space Antenna_,
 Accepted by Liv. Rev. Rel. (2023)
 [[arXiv:2204.05434](https://arxiv.org/abs/2204.05434)]
+
+1. P. Amaro-Seoane _et al_ [LISA Astrophysics Working Group],
+_Astrophysics with the Laser Interferometer Space Antenna_,
+Living Rev. Rel. 26 (2023) no.1, 2
+[[doi:10.1007/s41114-022-00041-y](https://doi.org/10.1007/s41114-022-00041-y)]
+[[arXiv:2203.06016](https://arxiv.org/abs/2203.06016)]
+
+1. K. G. Arun _et al_ [LISA Fundamental Physics Working Group], [LISA],
+_New Horizons for Fundamental Physics with LISA_,
+Living Rev. Rel. 25 (2022) no.1, 4
+[[doi:10.1007/s41114-022-00036-9](https://doi:10.1007/s41114-022-00036-9)]
+[[arXiv:2205.01597](https://arxiv.org/abs/2205.01597)]
+
+1. J. Baker et al., _High angular resolution gravitational wave astronomy_,
+White paper submitted to ESA’s Voyage 2050 call (2019),
+Exper. Astron. 51 (2021) no.3, 1441-1470
+[[10.1007/s10686-021-09712-0](https://doi.org/10.1007/s10686-021-09712-0)][[arXiv:1908.11410](https://arxiv.org/abs/1908.11410)]
+
+1. A. Sesana et al., _Unveiling the Gravitational Universe at μ-Hz Frequencies_,
+White paper submitted to ESA’s Voyage 2050 call (2019),
+Exper. Astron. 51 (2021) no.3, 1333-1383
+[[doi:10.1007/s10686-021-09709-9](https://doi.org/10.1007/s10686-021-09709-9)] [[arXiv:1908.11391](https://arxiv.org/abs/1908.11391)]
+
+1. M. A. Sedda et al.,
+_The Missing Link in Gravitational-Wave Astronomy: Discoveries waiting in the decihertz range_,
+White paper submitted to ESA’s Voyage 2050 call (2019),
+Class. Quant. Grav. 37 (2020) 21, 215011
+[[doi:10.1088/1361-6382/abb5c1](https://iopscience.iop.org/article/10.1088/1361-6382/abb5c1)] [[arXiv:1908.11375](https://arxiv.org/abs/1908.11375)]
+
 
 
 
