@@ -55,18 +55,12 @@ Here are the people that were part of the L2IT GW group in the past:
 
 ## Recent work 
 
-Some of the most recent publications and pre-prints authored by at least two members of the group:
+Some of the most recent publications and pre-prints authored by members of the group:
+
+1. M. Toscani, O. Burke, C. Liu, N. B. Zamel, N. Tamanini and F. Pozzoli,
+_Strongly-Lensed Extreme Mass-ratio Inspirals_,
+[[arXiv:2307.06722](https://arxiv.org/abs/2307.06722)]
 
 1. N. Muttoni, D. Laghi, N. Tamanini, S. Marsat and D. Izquierdo-Villalba,
 _Dark siren cosmology with binary black holes in the era of third-generation gravitational wave detectors_,
 [[arXiv:2303.10693](https://arxiv.org/abs/2303.10693)]
-
-1. M. Toscani, E. M. Rossi, N. Tamanini and G. Cusin,
-_Lensing of gravitational waves from tidal disruption events_,
-[[arXiv:2301.01804](https://arxiv.org/abs/2301.01804)]
-
-1. L. Sberna, S. Babak, S. Marsat, A. Caputo, G. Cusin, A. Toubiana, E. Barausse, C. Caprini, T. Dal Canton, A. Sesana, N. Tamanini,
-_Observing GW190521-like binary black holes and their environment with LISA_,
-Phys. Rev. D 106 (2022) no.6, 064056
-[[doi:10.1103/PhysRevD.106.064056](https://doi.org/10.1103/PhysRevD.106.064056)]
-[[arXiv:2205.08550](https://arxiv.org/abs/2205.08550)]
