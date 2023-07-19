@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. M. Toscani, O. Burke, C. Liu, N. B. Zamel, N. Tamanini and F. Pozzoli,
+_Strongly-Lensed Extreme Mass-ratio Inspirals_,
+[[arXiv:2307.06722](https://arxiv.org/abs/2307.06722)]
+
 1. N. Muttoni, D. Laghi, N. Tamanini, S. Marsat and D. Izquierdo-Villalba,
 _Dark siren cosmology with binary black holes in the era of third-generation gravitational wave detectors_,
 [[arXiv:2303.10693](https://arxiv.org/abs/2303.10693)]
@@ -17,12 +21,14 @@ _Dark siren cosmology with binary black holes in the era of third-generation gra
 
 1. M. Toscani, E. M. Rossi, N. Tamanini and G. Cusin,
 _Lensing of gravitational waves from tidal disruption events_,
-Accepted by MNRAS,
+Mon. Not. Roy. Astron. Soc. 523 (2023) no.3, 3863-3873
+[[doi:10.1093/mnras/stad1633](https://doi.org/10.1093/mnras/stad1633)]
 [[arXiv:2301.01804](https://arxiv.org/abs/2301.01804)]
 
 1. J. R. Gair et al.,
 _The Hitchhiker's guide to the galaxy catalog approach for gravitational wave cosmology_,
-Accepted by The Astrophysical Journal,
+Astron. J. \textbf{166} (2023) no.1, 22
+[[doi:10.3847/1538-3881/acca78](https://doi.org/10.3847/1538-3881/acca78)]
 [[arXiv:2212.08694](https://arxiv.org/abs/2212.08694)]
 
 1. R. Barbieri, S. Savastano, L. Speri, A. Antonelli, L. Sberna, O. Burke, J. R. Gair and N. Tamanini,
