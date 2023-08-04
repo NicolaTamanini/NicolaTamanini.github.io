@@ -12,12 +12,13 @@ Here you can find all my publications and links to their records on the most com
 _Strongly-Lensed Extreme Mass-ratio Inspirals_,
 [[arXiv:2307.06722](https://arxiv.org/abs/2307.06722)]
 
-1. N. Muttoni, D. Laghi, N. Tamanini, S. Marsat and D. Izquierdo-Villalba,
-_Dark siren cosmology with binary black holes in the era of third-generation gravitational wave detectors_,
-[[arXiv:2303.10693](https://arxiv.org/abs/2303.10693)]
-
 
 ### Publications in peer-review journals (short author-list / small collaborations)
+
+1. N. Muttoni, D. Laghi, N. Tamanini, S. Marsat and D. Izquierdo-Villalba,
+_Dark siren cosmology with binary black holes in the era of third-generation gravitational wave detectors_,
+Accepted by PRD
+[[arXiv:2303.10693](https://arxiv.org/abs/2303.10693)]
 
 1. M. Toscani, E. M. Rossi, N. Tamanini and G. Cusin,
 _Lensing of gravitational waves from tidal disruption events_,
