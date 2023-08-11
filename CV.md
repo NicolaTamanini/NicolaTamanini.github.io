@@ -222,7 +222,7 @@ University of Trento, Italy [110/110 e lode]
 - N. Tamanini & C. Danielski, _Don’t Panic! Gravitational waves can find new planets_, Outreach article for the LIGO Magazine (2019) [[URL](https://www.ligo.org/magazine/LIGO-magazine-issue15.pdf#page=20)]
 
 
-### Invited seminars
+### Invited seminars & colloquia
 
 1. _La phénoménologie des ondes gravitationnelles_ (in French), Conseil Scientifique de l'IN2P3, Paris [03/07/2023] 
 1. _GW cosmology with LISA_, Ghent University, Belgium [28/03/2023]
@@ -253,6 +253,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited conference talks
 
+1. _LISA forecasts on LCDM_, Talk at LISA Fundamental Physics WG Workshop, Copenhagen, Denmark [10/08/2023]
 1. _LISA cosmology vs L3 catalogs_, Talk at Towards LISA catalogs, Nice, France [13/06/2023]
 1. _What to expect from LISA_, Talk at The quest for precision gravitational wave cosmology, Chicago, USA [19/09/2022]
 1. _GW cosmology with LISA (and TianQin)_, Talk at TianQin Astro Workshop, online [24/08/2022]
