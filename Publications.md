@@ -315,6 +315,10 @@ Astrophys. J. 871 (2019) L13 [[doi:10.3847/2041-8213/aaf96e](https://iopscience.
 
 ### LVK collaboration paper (negligible personal contribution)
 
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_Search for Eccentric Black Hole Coalescences during the Third Observing Run of LIGO and Virgo_,
+[[arXiv:2308.03822](https://arxiv.org/abs/2304.08393)].
+
 1. R. Abbott et al. [LIGO Scientific, VIRGO and KAGRA],
 _Search for gravitational-lensing signatures in the full third observing run of the LIGO-Virgo network_,
 [[arXiv:2304.08393](https://arxiv.org/abs/2304.08393)]
