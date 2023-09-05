@@ -28,7 +28,7 @@ Mon. Not. Roy. Astron. Soc. 523 (2023) no.3, 3863-3873
 
 1. J. R. Gair et al.,
 _The Hitchhiker's guide to the galaxy catalog approach for gravitational wave cosmology_,
-Astron. J. \textbf{166} (2023) no.1, 22
+Astron. J. 166 (2023) no.1, 22
 [[doi:10.3847/1538-3881/acca78](https://doi.org/10.3847/1538-3881/acca78)]
 [[arXiv:2212.08694](https://arxiv.org/abs/2212.08694)]
 
