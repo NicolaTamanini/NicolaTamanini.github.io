@@ -17,7 +17,8 @@ _Strongly-Lensed Extreme Mass-ratio Inspirals_,
 
 1. N. Muttoni, D. Laghi, N. Tamanini, S. Marsat and D. Izquierdo-Villalba,
 _Dark siren cosmology with binary black holes in the era of third-generation gravitational wave detectors_,
-Accepted by PRD
+Phys. Rev. D 108 (2023) no.4, 043543
+[[doi:10.1103/PhysRevD.108.043543](https://doi.org/10.1103/PhysRevD.108.043543)]
 [[arXiv:2303.10693](https://arxiv.org/abs/2303.10693)]
 
 1. M. Toscani, E. M. Rossi, N. Tamanini and G. Cusin,
