@@ -331,6 +331,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Aug 2023, _LISA Fundamental Physics WG Workshop_, Copenhagen, Denmark
+2. Jun 2023, _A journey through the theoretical universe_, Toulouse, France 
 1. Jun 2023, _Towards LISA catalogs_, Nice, France
 1. Jun 2023, _10th LISA Cosmology Working Group Workshop_, Stavanger, Norway
 1. May 2023, _ET Symposium_, Cagliari, Italy
