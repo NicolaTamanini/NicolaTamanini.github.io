@@ -24,6 +24,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 ### Permanent members contributing from other L2IT groups
 
 - **Catherine Biscarat** (Computing, Algorithms and Data group)
+- **Mathieu Dubois** (Computing, Algorithms and Data group)
 - **Cayetano Santos** (Computing, Algorithms and Data group)
 
 ### Postdocs
@@ -35,19 +36,20 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 ### PhD students
 
 - **Vivienne Langen**
-- **Chang Liu** (visiting from Peking University)
 - **Rémi Delpech** (jointly with the IRAP)
 
 ### Interns and students
 
-- **Nour Bou Zamel** (L3)
-- **Olympe Léchine** (M2)
-- **Clèment Llauro** (M2)
+-
 
 ## Past members
 
 Here are the people that were part of the L2IT GW group in the past:
 
+- **Chang Liu** (Visiting PhD student from Peking University, China, from Oct 2022 to Sept 2023)
+- **Olympe Léchine** (M2 intern from Mar 2023 to Aug 2023)
+- **Clèment Llauro** (M2 intern from Mar 2023 to Aug 2023)
+- **Nour Bou Zamel** (L3 intern from Mar 2023 to Jun 2023)
 - **Niccolò Muttoni** (Research assistant from Nov 2021 to Apr 2022)
 - **Elsa Desbarats** (L3 student intern from Feb 2022 to Jun 2022)
 - **Rémi Delpech** (M2 student intern from Feb 2022 to Jul 2022)
@@ -63,4 +65,6 @@ _Strongly-Lensed Extreme Mass-ratio Inspirals_,
 
 1. N. Muttoni, D. Laghi, N. Tamanini, S. Marsat and D. Izquierdo-Villalba,
 _Dark siren cosmology with binary black holes in the era of third-generation gravitational wave detectors_,
+Phys. Rev. D 108 (2023) no.4, 043543
+[[doi:10.1103/PhysRevD.108.043543](https://doi.org/10.1103/PhysRevD.108.043543)]
 [[arXiv:2303.10693](https://arxiv.org/abs/2303.10693)]
