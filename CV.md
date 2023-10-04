@@ -147,6 +147,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### PhD students supervised
 
+- _Vasco Gennari_, L2IT, (from Oct 2023)
 - _Vivienne Langen_, L2IT (from Nov 2021)
 
 
@@ -154,13 +155,14 @@ University of Trento, Italy [110/110 e lode]
 
 - _Olympe Léchine_, L2IT (M2 intern from Mar to July 2023)
 - _Nour Bou Zamel_, L2IT (L3 intern from Mar to June 2023)
-- _Chang Liu_, L2IT (visiting PhD student from Oct 2022)
+- _Chang Liu_, L2IT (visiting PhD student from Oct 2022 to Sept 2023)
 - _Rémi Delpech_, L2IT (M2 intern from Feb to July 2022) 
 - _Niccolò Muttoni_, L2IT (post-M2 research assistant from Nov 2021 to Apr 2022)
 
 
 ### Teaching
 
+- _Ondes Gravitationnelles_ (in French), Short-term course, Euclid Summer School, Ronce-les-Bains, France, 2023
 - _Gravitational waves and their applications to cosmology_, Invited pedagogical seminar, Mathematical foundations and applications of gravity, online, 2022
 - _Gravitational wave cosmology with LISA_, Invited pedagogical seminar, Euclid Summer School, Banyuls, France, 2022
 - _Triple systems and exoplanets with LISA_, Invited pedagogical seminar, 1st MaNiTou Summer School on Gravitational Waves, Marseille, France, 2022
@@ -312,12 +314,13 @@ University of Trento, Italy [110/110 e lode]
 27. _A biconnection variational principle for General Relativity_,Talk at the 13th Marcel Grossmann Meeting, Stockholm, Sweden [03/07/2012]
 
 
-### Posters presentations at conferences
+### Poster presentations at conferences
 
 1. _Hybrid metric-Palatini gravities_, Poster presentation at the 20th International Conference on General Relativity and Gravitation, Warsaw, Poland [07/07/2013]
 
 ### Chaired discussions at conferences
 
+1. _LVK Collaboration Meeting_, f2f cosmology session, Toyama, Japan [11/09/2023]
 1. _ET Symposium_ ET OSB Div5 session, Cagliari Italy [10/05/2023]
 1. _LVK Collaboration Meeting_, f2f cosmology session, Chicago, US [16/03/2023]
 1. _LVK Collaboration Meeting_, f2f cosmology session, Cardiff, UK [12/09/2022]
@@ -331,6 +334,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Oct 2023, _Virgo+ET France Meeting_, Paris, France
+1. Sept 2023, _LVK Collaboration Meeting, Toyama, Japan
 1. Aug 2023, _LISA Fundamental Physics WG Workshop_, Copenhagen, Denmark
 2. Jun 2023, _A journey through the theoretical universe_, Toulouse, France 
 1. Jun 2023, _Towards LISA catalogs_, Nice, France
