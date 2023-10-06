@@ -37,6 +37,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 - **Vivienne Langen**
 - **Rémi Delpech** (jointly with the IRAP)
+- **Vasco Gennari**
 
 ### Interns and students
 
