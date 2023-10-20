@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. C. Liu, D. Laghi and N. Tamanini,
+_Probing modified gravitational-wave propagation with extreme mass-ratio inspirals_,
+[[arXiv:2310.12813](https://arxiv.org/abs/2307.06722)]
+
 1. M. Toscani, O. Burke, C. Liu, N. B. Zamel, N. Tamanini and F. Pozzoli,
 _Strongly-Lensed Extreme Mass-ratio Inspirals_,
 [[arXiv:2307.06722](https://arxiv.org/abs/2307.06722)]
