@@ -112,8 +112,9 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
-1. [_10th LISA Cosmology Working Group Workshop_](https://indico.uis.no/event/28/), Stavanger, Norway Jun 2023 [Member of the SOC]
-1. [_PONT2023_](https://indico.cern.ch/event/1166693/), Avignon, France, May 2023 [Memner of the OC]
+1. [_Journée des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles_](https://indico.in2p3.fr/event/30339/), Paris, France, Oct 2023, [Member of the OC]
+1. [_10th LISA Cosmology Working Group Workshop_](https://indico.uis.no/event/28/), Stavanger, Norway, Jun 2023 [Member of the SOC]
+1. [_PONT2023_](https://indico.cern.ch/event/1166693/), Avignon, France, May 2023 [Member of the OC]
 1. [_Journée scientifique LPT/L2IT_](https://indico.in2p3.fr/event/28881/), Toulouse, France, Jan 2023 [Member of the OC]
 1. [_LISA data analysis: from classical methods to machine learning_](https://indico.in2p3.fr/event/27706/) workshop, Toulouse, France, Nov 2022 [Overall coordinator and main organiser]
 1. [_Assemblée Générale GdR Ondes Gravitationnelles_](https://indico.in2p3.fr/event/27290/), Toulouse, France, Oct 2022 [Chair of the LOC]
@@ -318,8 +319,9 @@ University of Trento, Italy [110/110 e lode]
 
 1. _Hybrid metric-Palatini gravities_, Poster presentation at the 20th International Conference on General Relativity and Gravitation, Warsaw, Poland [07/07/2013]
 
-### Chaired discussions at conferences
+### Chaired sessions at conferences
 
+1. _Assemblée Générale GdR Ondes Gravitationnelles_, Cosmology session, Meudon, France [16/10/2023]
 1. _LVK Collaboration Meeting_, f2f cosmology session, Toyama, Japan [11/09/2023]
 1. _ET Symposium_ ET OSB Div5 session, Cagliari Italy [10/05/2023]
 1. _LVK Collaboration Meeting_, f2f cosmology session, Chicago, US [16/03/2023]
@@ -334,6 +336,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Oct 2023, _Assemblée Générale GdR Ondes Gravitationnelles_, Meudon, France
+1. Oct 2023, _Journée des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles_, Paris, France
 1. Oct 2023, _Virgo+ET France Meeting_, Paris, France
 1. Sept 2023, _LVK Collaboration Meeting, Toyama, Japan
 1. Aug 2023, _LISA Fundamental Physics WG Workshop_, Copenhagen, Denmark
