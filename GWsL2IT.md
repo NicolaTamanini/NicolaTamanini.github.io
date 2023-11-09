@@ -31,13 +31,13 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 - **Ollie Burke**
 - **Danny Laghi**
-- **Martina Toscani**
 
 ### PhD students
 
 - **Vivienne Langen**
 - **Rémi Delpech** (jointly with the IRAP)
 - **Vasco Gennari**
+- **Manuel Piarulli**
 
 ### Interns and students
 
@@ -47,6 +47,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 Here are the people that were part of the L2IT GW group in the past:
 
+- **Martina Toscani** (Postdoc from Nov 2021 to Oct 2023)
 - **Chang Liu** (Visiting PhD student from Peking University, China, from Oct 2022 to Sept 2023)
 - **Olympe Léchine** (M2 intern from Mar 2023 to Aug 2023)
 - **Clèment Llauro** (M2 intern from Mar 2023 to Aug 2023)
