@@ -308,16 +308,21 @@ Proceedings of the 13th Marcell Grossmann Meeting, [[doi:10.1142/9789814623995_0
 
 1. R. Abbot et al. [LIGO-Virgo-Kagra Collaboration],
 _Constraints on the cosmic expansion history from GWTC–3_,
-Accepted by The Astrophysical Journal (2022)
+Astrophys. J. 949 (2023) no.2, 76
+[[doi:10.3847/1538-4357/ac74bb](https://iopscience.iop.org/article/10.3847/1538-4357/ac74bb)]
 [[arXiv:2111.03604](https://arxiv.org/abs/2111.03604)]
 
 1. B. P. Abbott et al. [LIGO Scientific and Virgo Collaborations],
 _Tests of General Relativity with GW170817_,
-Phys. Rev. Lett. 123 (2019) no.1, 011102 [[doi:10.1103/PhysRevLett.123.011102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.011102)] [[arXiv:1811.00364](https://arxiv.org/abs/1811.00364)]
+Phys. Rev. Lett. 123 (2019) no.1, 011102
+[[doi:10.1103/PhysRevLett.123.011102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.011102)]
+[[arXiv:1811.00364](https://arxiv.org/abs/1811.00364)]
 
 1. M. Fishbach et al. [LIGO Scientific and Virgo Collaborations],
 _A standard siren measurement of the Hubble constant from GW170817 without the electromagnetic counterpart_,
-Astrophys. J. 871 (2019) L13 [[doi:10.3847/2041-8213/aaf96e](https://iopscience.iop.org/article/10.3847/2041-8213/aaf96e)] [[arXiv:1807.05667](https://arxiv.org/abs/1807.05667)]
+Astrophys. J. 871 (2019) L13
+[[doi:10.3847/2041-8213/aaf96e](https://iopscience.iop.org/article/10.3847/2041-8213/aaf96e)]
+[[arXiv:1807.05667](https://arxiv.org/abs/1807.05667)]
 
 
 
