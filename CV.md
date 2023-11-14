@@ -229,6 +229,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited seminars & colloquia
 
+1. _Cosmology with gravitational wave standard sirens_, EuCapt Colloquim (remote) [14/11/2023]
 1. _La phénoménologie des ondes gravitationnelles_ (in French), Conseil Scientifique de l'IN2P3, Paris [03/07/2023] 
 1. _GW cosmology with LISA_, Ghent University, Belgium [28/03/2023]
 1. _Early career in GWs_, Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam, Germany [30/09/2022]
