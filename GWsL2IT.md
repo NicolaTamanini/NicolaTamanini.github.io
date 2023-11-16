@@ -38,6 +38,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 - **Rémi Delpech** (jointly with the IRAP)
 - **Vasco Gennari**
 - **Manuel Piarulli**
+- **Clèment Jacquet**
 
 ### Interns and students
 
