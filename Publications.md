@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. A. Mangiagli, C. Caprini, S. Marsat, L. Speri, R. R. Caldwell and N. Tamanini,
+   _Massive black hole binaries in LISA: constraining cosmological parameters at high redshifts_,
+   [[arXiv:2312.04632](https://arxiv.org/abs/2312.04632)]
+
 1. N. Afshordi et al., [LISA Consortium Waveform Working Group],
 _Waveform Modelling for the Laser Interferometer Space Antenna_,
 [[arXiv:2311.01300](https://arxiv.org/abs/2311.01300)]
