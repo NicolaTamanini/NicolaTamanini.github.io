@@ -20,12 +20,13 @@ _Waveform Modelling for the Laser Interferometer Space Antenna_,
 _Probing modified gravitational-wave propagation with extreme mass-ratio inspirals_,
 [[arXiv:2310.12813](https://arxiv.org/abs/2307.06722)]
 
-1. M. Toscani, O. Burke, C. Liu, N. B. Zamel, N. Tamanini and F. Pozzoli,
-_Strongly-Lensed Extreme Mass-ratio Inspirals_,
-[[arXiv:2307.06722](https://arxiv.org/abs/2307.06722)]
-
 
 ### Publications in peer-review journals (short author-list / small collaborations)
+
+1. M. Toscani, O. Burke, C. Liu, N. B. Zamel, N. Tamanini and F. Pozzoli,
+_Strongly-Lensed Extreme Mass-ratio Inspirals_,
+Accepted by Phys. Rev. D,
+[[arXiv:2307.06722](https://arxiv.org/abs/2307.06722)]
 
 1. N. Muttoni, D. Laghi, N. Tamanini, S. Marsat and D. Izquierdo-Villalba,
 _Dark siren cosmology with binary black holes in the era of third-generation gravitational wave detectors_,
