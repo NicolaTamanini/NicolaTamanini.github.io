@@ -54,7 +54,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research grants and fellowships
 
-- _CNRS MITI Project LIROCOS_, L2IT, Toulouse, France, 2022 (in collaboration with APC, CEA and CNES; role: PI) [collaborative research fundings, tot. €50000 for 2 years]
+- _CNES PhD Grant_, L2IT, Toulouse, France 2023 [funds for half a PhD scholarship, ca. €70000]
 - _ANR Tremplin–ERC_, L2IT, Toulouse, France, 2020 [research fundings, tot. €76700 for 1 year]
 - _Enhanced Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc's salary for 2 years + research/travel fundings, tot. ca. €65000]
 
@@ -64,6 +64,11 @@ University of Trento, Italy [110/110 e lode]
 - _Royal Society University Research Fellowship_, King's College London, UK, 2020 [fellow's salary for 5 years + research/travel fundings, tot. ca. £600000]
 - _Radboud Excellence Initiative Fellowship_, Radboud University, The Netherlands, 2016 [postdoc's salary for 2 years, tot. ca. €120000]
 
+
+### Collaborative research grants
+
+- _Écoles thematiques du CNRS_, L2IT, Toulouse, France, 2023 (in collaboration with IRAP, CPPM, CPT, ARTEMIS; role: PI) [fundings for the summer school _MaNiTou_, tot. €5500]
+- _CNRS MITI Project LIROCOS_, L2IT, Toulouse, France, 2022 (in collaboration with APC, CEA and CNES; role: PI) [collaborative research fundings, tot. €50000 for 2 years]
 
 ### Scholarships
 
@@ -81,7 +86,7 @@ University of Trento, Italy [110/110 e lode]
 ### Research appointements
 
 - Chair of the _ET OSB Division 5_ on synergy with other GW observatories (since 2023)
-- Coordinator General of the _GW Early Career Scientists (GWECS)_ organisation (since 2022)
+- Coordinator General of the _GW Early Career Scientists (GWECS)_ organisation (from 2022 to 2023)
 - Member of the Comité de Pilotage and of the Conseil Scientifique of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Coordinator of the cosmology working group of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Elected early-career chair of the _LISA Cosmology Working Group_ (since 2021)
@@ -141,13 +146,15 @@ University of Trento, Italy [110/110 e lode]
 
 ### Postdocs supervised
 
+- _Gergely Dálya_, L2IT (from Feb 2024)
 - _Ollie Burke_, L2IT (from Sept 2022)
-- _Martina Toscani_, L2IT (from Nov 2021)
+- _Martina Toscani_, L2IT (from Nov 2021 to Oct 2023)
 - _Danny Laghi_, L2IT (from Jul 2021)
 
 
 ### PhD students supervised
 
+- _Manuel Piarulli_, L2IT, (co-supervised; from Nov 2023)
 - _Vasco Gennari_, L2IT, (from Oct 2023)
 - _Vivienne Langen_, L2IT (from Nov 2021)
 
@@ -229,6 +236,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited seminars & colloquia
 
+1. _Science synergies between ground- and space-based gravitational wave observatories_, IP2I Lyon, France [15/12/2023]
 1. _Cosmology with gravitational wave standard sirens_, EuCapt Colloquim (remote) [14/11/2023]
 1. _La phénoménologie des ondes gravitationnelles_ (in French), Conseil Scientifique de l'IN2P3, Paris [03/07/2023] 
 1. _GW cosmology with LISA_, Ghent University, Belgium [28/03/2023]
@@ -321,6 +329,7 @@ University of Trento, Italy [110/110 e lode]
 
 1. _Hybrid metric-Palatini gravities_, Poster presentation at the 20th International Conference on General Relativity and Gravitation, Warsaw, Poland [07/07/2013]
 
+
 ### Chaired sessions at conferences
 
 1. _Assemblée Générale GdR Ondes Gravitationnelles_, Cosmology session, Meudon, France [16/10/2023]
@@ -331,13 +340,16 @@ University of Trento, Italy [110/110 e lode]
 1. _AAP MITI Nouvelles méthodes pour le traitement et l'analyse des données spatiales_, Discussion at LIDA in France, Caen, France [18/05/2022]
 2. _LECS discussion_, Panel discussion at LISA Symposium XIII, online
 
+
 ### Participations in conference panel discussions
 
 1. _Future Challenges in GW Cosmology_, Panel discussion at A Shot in the Dark: New Challenges in Cosmology 2022, Leiden, The Netherlands [30/06/2022]
 1. _A career in science: FAQs_, Panel discussion at the Global meeting of the GWVerse COST action, Lisbon/online [30/08/2021]
 
+
 ### Scientific events attended
 
+1. Nov 2023, _LISA France Meeting_, Paris, France
 1. Oct 2023, _Assemblée Générale GdR Ondes Gravitationnelles_, Meudon, France
 1. Oct 2023, _Journée des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles_, Paris, France
 1. Oct 2023, _Virgo+ET France Meeting_, Paris, France
