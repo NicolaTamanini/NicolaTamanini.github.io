@@ -214,6 +214,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Refereed research proposals
 
+1. Thematic programme of the Institut Pascal, Université Paris-Saclay, France, 2023
 1. EURIZON Fellowship Programme: “Remote Research Grants for Ukrainian Researchers”, EU, 2023
 1. SNSF Projects MINT, Switzerland, 2023
 1. NWO Talent Programme 2021, Vidi research proposal, The Netherlands, 2022
