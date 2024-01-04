@@ -138,7 +138,7 @@ Phys. Rev. D 101 (2020) no.6, 063002 [[doi:10.1103/PhysRevD.101.063002](https://
 
 1. N. Tamanini and C. Danielski,
 _The gravitational-wave detection of exoplanets orbiting white dwarf binaries using LISA_,
-Nature Astronomy (2019) [[doi:10.1038/s41550-019-0807-y](https://www.nature.com/articles/s41550-019-0807-y)] [[arXiv:1812.04330](https://arxiv.org/abs/1812.04330)]
+Nature Astronomy 3 (2019) no.9, 858-866 [[doi:10.1038/s41550-019-0807-y](https://www.nature.com/articles/s41550-019-0807-y)] [[arXiv:1812.04330](https://arxiv.org/abs/1812.04330)]
 
 36. E. Belgacem et al. [LISA Cosmology Working Group],
 _Testing modified gravity at cosmological distances with LISA standard sirens_,
