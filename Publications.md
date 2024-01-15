@@ -18,7 +18,7 @@ _Waveform Modelling for the Laser Interferometer Space Antenna_,
 
 1. C. Liu, D. Laghi and N. Tamanini,
 _Probing modified gravitational-wave propagation with extreme mass-ratio inspirals_,
-[[arXiv:2310.12813](https://arxiv.org/abs/2307.06722)]
+[[arXiv:2310.12813](https://arxiv.org/abs/2310.12813)]
 
 
 ### Publications in peer-review journals (short author-list / small collaborations)
