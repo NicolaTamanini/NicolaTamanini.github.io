@@ -30,6 +30,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 ### Postdocs
 
 - **Ollie Burke**
+- **Gergely Dálya**
 - **Danny Laghi**
 
 ### PhD students
