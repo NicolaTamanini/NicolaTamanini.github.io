@@ -67,6 +67,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Collaborative research grants
 
+- _Plan Nationaux de l'INSU_, L2IT, Toulouse, France, 2023 (in collaboration with IRAP, CPPM, CPT, ARTEMIS; role: PI) [fundings for the summer school _MaNiTou_, tot. €8000]
 - _Écoles thematiques du CNRS_, L2IT, Toulouse, France, 2023 (in collaboration with IRAP, CPPM, CPT, ARTEMIS; role: PI) [fundings for the summer school _MaNiTou_, tot. €5500]
 - _CNRS MITI Project LIROCOS_, L2IT, Toulouse, France, 2022 (in collaboration with APC, CEA and CNES; role: PI) [collaborative research fundings, tot. €50000 for 2 years]
 
