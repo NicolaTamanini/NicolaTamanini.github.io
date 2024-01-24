@@ -119,6 +119,7 @@ University of Trento, Italy [110/110 e lode]
 ### Organisation of scientific meetings
 
 1. [_Journée des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles_](https://indico.in2p3.fr/event/30339/), Paris, France, Oct 2023, [Member of the OC]
+1. [2nd MaNiTou Summer School on Gravitational Waves_](https://indico.in2p3.fr/event/29050/), Nice, France, Jul 2023 [Member of the SOC]
 1. [_10th LISA Cosmology Working Group Workshop_](https://indico.uis.no/event/28/), Stavanger, Norway, Jun 2023 [Member of the SOC]
 1. [_PONT2023_](https://indico.cern.ch/event/1166693/), Avignon, France, May 2023 [Member of the OC]
 1. [_Journée scientifique LPT/L2IT_](https://indico.in2p3.fr/event/28881/), Toulouse, France, Jan 2023 [Member of the OC]
