@@ -372,6 +372,7 @@ Astrophys. J. Lett. 941 (2022) no.2, L30
 1. P. Auclair _et al_ [LISA Cosmology Working Group] (Responsibilities: co-coordinator of the white paper, co-coordinator of Chap. 2),
 _Cosmology with the Laser Interferometer Space Antenna_,
 Accepted by Liv. Rev. Rel. (2023)
+[[doi:10.1007/s41114-023-00045-2](https://link.springer.com/article/10.1007/s41114-023-00045-2)]
 [[arXiv:2204.05434](https://arxiv.org/abs/2204.05434)]
 
 1. P. Amaro-Seoane _et al_ [LISA Astrophysics Working Group],
