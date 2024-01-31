@@ -239,6 +239,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited seminars & colloquia
 
+1. _Cosmology with gravitational wave standard sirens_, CERN, Geneva [31/01/2024]
 1. _Science synergies between ground- and space-based gravitational wave observatories_, IP2I Lyon, France [15/12/2023]
 1. _Cosmology with gravitational wave standard sirens_, EuCapt Colloquim (remote) [14/11/2023]
 1. _La phénoménologie des ondes gravitationnelles_ (in French), Conseil Scientifique de l'IN2P3, Paris [03/07/2023] 
