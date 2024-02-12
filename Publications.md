@@ -16,16 +16,17 @@ Here you can find all my publications and links to their records on the most com
 _Waveform Modelling for the Laser Interferometer Space Antenna_,
 [[arXiv:2311.01300](https://arxiv.org/abs/2311.01300)]
 
-1. C. Liu, D. Laghi and N. Tamanini,
-_Probing modified gravitational-wave propagation with extreme mass-ratio inspirals_,
-[[arXiv:2310.12813](https://arxiv.org/abs/2310.12813)]
-
 
 ### Publications in peer-review journals (short author-list / small collaborations)
 
+1. C. Liu, D. Laghi and N. Tamanini,
+_Probing modified gravitational-wave propagation with extreme mass-ratio inspirals_,
+Accepted by Phys. Rev. D (2024),
+[[arXiv:2310.12813](https://arxiv.org/abs/2310.12813)]
+
 1. M. Toscani, O. Burke, C. Liu, N. B. Zamel, N. Tamanini and F. Pozzoli,
 _Strongly-Lensed Extreme Mass-ratio Inspirals_,
-Accepted by Phys. Rev. D,
+Accepted by Phys. Rev. D (2024),
 [[arXiv:2307.06722](https://arxiv.org/abs/2307.06722)]
 
 1. N. Muttoni, D. Laghi, N. Tamanini, S. Marsat and D. Izquierdo-Villalba,
