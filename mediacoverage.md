@@ -6,6 +6,8 @@ Here you can find links to articles, interviews, videos and everything else that
 
 #### Strongly lensed EMRIs
 
+<img src="/assets/img/Plan de travail 1@3x_0.png" height="300" />
+
 At the L2IT, I coordinated a team of students and researchers to investigate whether extreme mass ratio inspirals (EMRIs), binary systems composed by a massive black hole and a stellar-mass compact object, can be strongly lensed by galaxies along the line-of-sight between the source and the future space-based gravitational-wave detector LISA. If this happens, LISA will observe more than one gravitational-wave signal, which would correspond to different images of the original signal. This will provide a new target signal for LISA composed by overlapping EMRI signals arriving from the same direction in the sky, which could provide new insights into astrophysics and cosmology.
 
 Based on M. Toscani, O. Burke, C. Liu, N. B. Zamel, N. Tamanini and F. Pozzoli, _Strongly-Lensed Extreme Mass-ratio Inspirals_, Physical Review D (2024)
