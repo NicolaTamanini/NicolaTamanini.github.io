@@ -67,6 +67,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Collaborative research grants
 
+- _CNRS AMORCE_ project GWGSC, L2IT, Toulouse, France, 2024 (in collaboration with Univ. of Glasgow; role: PI) [collaborative research fundings, tot. €10000 for 1 year]
 - _Plan Nationaux de l'INSU_, L2IT, Toulouse, France, 2023 (in collaboration with IRAP, CPPM, CPT, ARTEMIS; role: PI) [fundings for the summer school _MaNiTou_, tot. €8000]
 - _Écoles thematiques du CNRS_, L2IT, Toulouse, France, 2023 (in collaboration with IRAP, CPPM, CPT, ARTEMIS; role: PI) [fundings for the summer school _MaNiTou_, tot. €5500]
 - _CNRS MITI Project LIROCOS_, L2IT, Toulouse, France, 2022 (in collaboration with APC, CEA and CNES; role: PI) [collaborative research fundings, tot. €50000 for 2 years]
@@ -90,10 +91,10 @@ University of Trento, Italy [110/110 e lode]
 - Coordinator General of the _GW Early Career Scientists (GWECS)_ organisation (from 2022 to 2023)
 - Member of the Comité de Pilotage and of the Conseil Scientifique of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Coordinator of the cosmology working group of the _GdR Ondes Gravitationnelles_ (since 2022)
-- Elected early-career chair of the _LISA Cosmology Working Group_ (since 2021)
+- Elected early-career chair of the _LISA Cosmology Working Group_ (from 2021 to 2024)
 - Chair of the _LIGO/Virgo/Kagra Cosmology Working Group_ (since 2021)
 - Member of the _LISA Publication and Presentation (P&P) Committee_ (since 2021)
-- Coordinator of the _LISA sub-working package_ on estimation of cosmological parameters and standard sirens (since 2019)
+- Coordinator of the _LISA Science Group sub-working package_ on estimation of cosmological parameters and standard sirens (since 2019)
 - Elected chair of the _LISA Early Career Scientists_ (LECS) group (from 2019 to 2021)
 
 
@@ -156,18 +157,21 @@ University of Trento, Italy [110/110 e lode]
 
 ### PhD students supervised
 
-- _Manuel Piarulli_, L2IT, (co-supervised; from Nov 2023)
+- _Manuel Piarulli_, L2IT, (co-supervisor; from Nov 2023)
 - _Vasco Gennari_, L2IT, (from Oct 2023)
 - _Vivienne Langen_, L2IT (from Nov 2021)
 
 
-### Students supervised
+### Students supervised (all at the L2IT)
 
-- _Olympe Léchine_, L2IT (M2 intern from Mar to July 2023)
-- _Nour Bou Zamel_, L2IT (L3 intern from Mar to June 2023)
-- _Chang Liu_, L2IT (visiting PhD student from Oct 2022 to Sept 2023)
-- _Rémi Delpech_, L2IT (M2 intern from Feb to July 2022) 
-- _Niccolò Muttoni_, L2IT (post-M2 research assistant from Nov 2021 to Apr 2022)
+- _Tom Bertheas_ (M2 intern from Apr to Jul 2024; co-supervised with D. Steer (APC))
+- _Cyrian Jacquot_ & _Mani Larripa_ (L2 research project; from Jan to Jun 2024)
+- _Thomas Jacquot_ (M2 intern from Mar to Juk 2024; co-supervised with G. Dálya)
+- _Olympe Léchine_ (M2 intern from Mar to Jul 2023; co-supervised with M. Toscani)
+- _Nour Bou Zamel_ (L3 intern from Mar to Jun 2023)
+- _Chang Liu_ (visiting PhD student from Oct 2022 to Sept 2023)
+- _Rémi Delpech_ (M2 intern from Feb to July 2022; co-supervised with A. Blanchard (IRAP)) 
+- _Niccolò Muttoni_ (research assistant from Nov 2021 to Apr 2022)
 
 
 ### Teaching
@@ -271,6 +275,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited conference talks
 
+1. _Project LIROCOS_, Talk at the journée de restitution de la MITI, Paris France [22/03/2024]
 1. _LISA forecasts on LCDM_, Talk at LISA Fundamental Physics WG Workshop, Copenhagen, Denmark [10/08/2023]
 1. _LISA cosmology vs L3 catalogs_, Talk at Towards LISA catalogs, Nice, France [13/06/2023]
 1. _What to expect from LISA_, Talk at The quest for precision gravitational wave cosmology, Chicago, USA [19/09/2022]
@@ -353,6 +358,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Mar 2024, _Journée de restitution de la MITI_, Paris, France
 1. Nov 2023, _LISA France Meeting_, Paris, France
 1. Oct 2023, _Assemblée Générale GdR Ondes Gravitationnelles_, Meudon, France
 1. Oct 2023, _Journée des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles_, Paris, France
