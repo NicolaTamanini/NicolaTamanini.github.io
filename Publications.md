@@ -25,12 +25,14 @@ _Waveform Modelling for the Laser Interferometer Space Antenna_,
 
 1. C. Liu, D. Laghi and N. Tamanini,
 _Probing modified gravitational-wave propagation with extreme mass-ratio inspirals_,
-Accepted by Phys. Rev. D (2024),
+Phys. Rev. D 109 (2024) no.6, 063521
+[[doi:10.1103/PhysRevD.109.063521](https://doi.org/10.1103/PhysRevD.109.063521)]
 [[arXiv:2310.12813](https://arxiv.org/abs/2310.12813)]
 
 1. M. Toscani, O. Burke, C. Liu, N. B. Zamel, N. Tamanini and F. Pozzoli,
 _Strongly-Lensed Extreme Mass-ratio Inspirals_,
-Accepted by Phys. Rev. D (2024),
+Phys. Rev. D 109 (2024) no.6, 063505
+[[doi:10.1103/PhysRevD.109.063505](https://doi.org/10.1103/PhysRevD.109.063505)]
 [[arXiv:2307.06722](https://arxiv.org/abs/2307.06722)]
 
 1. N. Muttoni, D. Laghi, N. Tamanini, S. Marsat and D. Izquierdo-Villalba,
