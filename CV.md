@@ -54,6 +54,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research grants and fellowships
 
+- _CNRS AMORCE Grant_, L2IT, Toulouse, France 2024 [research fundings, tot. €10000 for 1 year]
 - _CNES PhD Grant_, L2IT, Toulouse, France 2023 [funds for half a PhD scholarship, ca. €70000]
 - _ANR Tremplin–ERC_, L2IT, Toulouse, France, 2020 [research fundings, tot. €76700 for 1 year]
 - _Enhanced Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc's salary for 2 years + research/travel fundings, tot. ca. €65000]
