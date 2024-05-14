@@ -87,6 +87,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research appointements
 
+- Member of the _ET Early-Career Scientist Committee_ (since 2024)
 - Chair of the _ET OSB Division 5_ on synergy with other GW observatories (since 2023)
 - Coordinator General of the _GW Early Career Scientists (GWECS)_ organisation (from 2022 to 2023)
 - Member of the Comité de Pilotage and of the Conseil Scientifique of the _GdR Ondes Gravitationnelles_ (since 2022)
