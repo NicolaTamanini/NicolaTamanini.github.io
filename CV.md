@@ -52,14 +52,14 @@ University of Trento, Italy [110/110 e lode]
 - Member of the _LIGO Scientific Collaboration_ [from 2017 to 2021]
 
 
-### Research grants and fellowships
+### Individual research grants and fellowships
 
 - _CNES PhD Grant_, L2IT, Toulouse, France 2023 [funds for half a PhD scholarship, ca. €70000]
 - _ANR Tremplin–ERC_, L2IT, Toulouse, France, 2020 [research fundings, tot. €76700 for 1 year]
 - _Enhanced Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc's salary for 2 years + research/travel fundings, tot. ca. €65000]
 
 
-### Research grants and fellowships (offered but declined)
+### Individual research grants and fellowships (offered but declined)
 
 - _Royal Society University Research Fellowship_, King's College London, UK, 2020 [fellow's salary for 5 years + research/travel fundings, tot. ca. £600000]
 - _Radboud Excellence Initiative Fellowship_, Radboud University, The Netherlands, 2016 [postdoc's salary for 2 years, tot. ca. €120000]
@@ -67,10 +67,12 @@ University of Trento, Italy [110/110 e lode]
 
 ### Collaborative research grants
 
+- _ANR MRSEI_ project GWCats, L2IT, Toulouse, France, 2024 (in collaboration with Univ. of Glasgow; role: PI) [collaborative research fundings, tot. €30000 for 2 year]
 - _CNRS AMORCE_ project GWGSC, L2IT, Toulouse, France, 2024 (in collaboration with Univ. of Glasgow; role: PI) [collaborative research fundings, tot. €10000 for 1 year]
 - _Plan Nationaux de l'INSU_, L2IT, Toulouse, France, 2023 (in collaboration with IRAP, CPPM, CPT, ARTEMIS; role: PI) [fundings for the summer school _MaNiTou_, tot. €8000]
 - _Écoles thematiques du CNRS_, L2IT, Toulouse, France, 2023 (in collaboration with IRAP, CPPM, CPT, ARTEMIS; role: PI) [fundings for the summer school _MaNiTou_, tot. €5500]
 - _CNRS MITI Project LIROCOS_, L2IT, Toulouse, France, 2022 (in collaboration with APC, CEA and CNES; role: PI) [collaborative research fundings, tot. €50000 for 2 years]
+
 
 ### Scholarships
 
@@ -228,12 +230,14 @@ University of Trento, Italy [110/110 e lode]
 1. ANR Generic Call for Proposals, France, 2021
 1. FONDECYT Regular Competition, Chile, 2018
 
+
 ### Travel research grants
 
 - STSM from the COST action GWverse for a two-week visit to E. M. Rossi (Leiden Observatory) in 2019 [€2000]
 - STSM from the COST action CANTATA for a one-week visit to E. Barausse (Insitut d'Astrophysique de Paris) in 2018 [€1200]
 - STSM from the COST action GWverse for a two-week visit to W. Del Pozzo (Univ. of Pisa) in 2018 [€2000]
 - STSM from the COST action CANTATA for a one-week visit to F. Lobo (Univ. of Lisbon) in 2017 [€900]
+
 
 ### Outreach activities
 
@@ -276,7 +280,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited conference talks
 
-1. _Project LIROCOS_, Talk at the journée de restitution de la MITI, Paris France [22/03/2024]
+1. _Cosmology with GWs and latest LVK results_, Talk at Exploring the Dark Side of the Universe Tools 2024 - 5th World Summit, Île de Noirmoutier, France [04/06/2024]
+1. _Project LIROCOS_, Talk at the journée de restitution de la MITI, Paris, France [22/03/2024]
 1. _LISA forecasts on LCDM_, Talk at LISA Fundamental Physics WG Workshop, Copenhagen, Denmark [10/08/2023]
 1. _LISA cosmology vs L3 catalogs_, Talk at Towards LISA catalogs, Nice, France [13/06/2023]
 1. _What to expect from LISA_, Talk at The quest for precision gravitational wave cosmology, Chicago, USA [19/09/2022]
@@ -359,6 +364,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Jun 2024, _Exploring the Dark Side of the Universe Tools 2024 - 5th World Summit_, Île de Noirmoutier, France
 1. Mar 2024, _Journée de restitution de la MITI_, Paris, France
 1. Nov 2023, _LISA France Meeting_, Paris, France
 1. Oct 2023, _Assemblée Générale GdR Ondes Gravitationnelles_, Meudon, France
@@ -372,7 +378,7 @@ University of Trento, Italy [110/110 e lode]
 1. May 2023, _ET Symposium_, Cagliari, Italy
 1. May 2023, _PONT2023_, Avignon, France
 1. Mar 2023, _LVK collaboration meeting_, Chicago, US
-1. Jan 2023, [_Journée scientifique LPT/L2IT_](https://indico.in2p3.fr/event/28881/), Toulouse, France, 
+1. Jan 2023, _Journée scientifique LPT/L2IT_, Toulouse, France, 
 1. Nov 2022, _LISA data analysis: from classical methods to machine learining_ workshop, Toulouse, France
 1. Nov 2022, _Virgo Week_, EGO/Cascina, Italy
 1. Oct 2022, _Assemblée Générale GdR Ondes Gravitationnelles_, Toulouse, France
