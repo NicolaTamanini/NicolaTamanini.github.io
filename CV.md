@@ -364,6 +364,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Jun 2024, _LISA DDPC Kick-off meeting_, Toulouse, France
 1. Jun 2024, _Exploring the Dark Side of the Universe Tools 2024 - 5th World Summit_, Île de Noirmoutier, France
 1. Mar 2024, _Journée de restitution de la MITI_, Paris, France
 1. Nov 2023, _LISA France Meeting_, Paris, France
