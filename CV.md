@@ -248,6 +248,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited seminars & colloquia
 
+1. _Standard sirens for LISA_, 11th LISA CosWG Workshop, Porto, Portugal [20/06/24]
 1. _Cosmology with gravitational wave standard sirens_, CERN, Geneva [31/01/2024]
 1. _Science synergies between ground- and space-based gravitational wave observatories_, IP2I Lyon, France [15/12/2023]
 1. _Cosmology with gravitational wave standard sirens_, EuCapt Colloquim (remote) [14/11/2023]
@@ -364,6 +365,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Jun 2024, _11th LISA CosWG Workshop_, Porto, Portugal
 1. Jun 2024, _LISA DDPC Kick-off meeting_, Toulouse, France
 1. Jun 2024, _Exploring the Dark Side of the Universe Tools 2024 - 5th World Summit_, Île de Noirmoutier, France
 1. Mar 2024, _Journée de restitution de la MITI_, Paris, France
