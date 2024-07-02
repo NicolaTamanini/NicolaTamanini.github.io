@@ -12,6 +12,10 @@ Here you can find all my publications and links to their records on the most com
  _Observation of Gravitational Waves from the Coalescence of a 2.5-4.5 Msun Compact Object and a Neutron Star_,
 [[arXiv:2404.04248](https://arxiv.org/abs/2404.04248)]
 
+1. [LIGO Scientific, VIRGO and KAGRA],
+_Ultralight vector dark matter search using data from the KAGRA O3GK run_,
+[[arXiv:2403.03004](https://arxiv.org/abs/2403.03004)]
+
 1. M. Colpi et al.,
 _LISA Definition Study Report_,
 [[arXiv:2402.07571](https://arxiv.org/abs/2402.07571)]
