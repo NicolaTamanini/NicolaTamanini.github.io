@@ -65,7 +65,7 @@ University of Trento, Italy [110/110 e lode]
 - _Radboud Excellence Initiative Fellowship_, Radboud University, The Netherlands, 2016 [postdoc's salary for 2 years, tot. ca. €120000]
 
 
-### Collaborative research grants
+### Collaborative research grants led by myself
 
 - _ANR MRSEI_ project GWCats, L2IT, Toulouse, France, 2024 (in collaboration with Univ. of Glasgow; role: PI) [collaborative research fundings, tot. €30000 for 2 year]
 - _CNRS AMORCE_ project GWGSC, L2IT, Toulouse, France, 2024 (in collaboration with Univ. of Glasgow; role: PI) [collaborative research fundings, tot. €10000 for 1 year]
@@ -122,8 +122,10 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
+1. [_3rd MaNiTou Summer School on Gravitational Waves_](https://indico.in2p3.fr/event/31714/overview), Toulouse, France, Jul 2024
+1. [_GWCats: Gravitational Wave Cosmology meets Galaxy Catalogues_](https://indico.in2p3.fr/event/33026/), Glasgow, UK, Jun 2024 [Main organiser]
 1. [_Journée des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles_](https://indico.in2p3.fr/event/30339/), Paris, France, Oct 2023, [Member of the OC]
-1. [2nd MaNiTou Summer School on Gravitational Waves_](https://indico.in2p3.fr/event/29050/), Nice, France, Jul 2023 [Member of the SOC]
+1. [_2nd MaNiTou Summer School on Gravitational Waves_](https://indico.in2p3.fr/event/29050/), Nice, France, Jul 2023 [Member of the SOC]
 1. [_10th LISA Cosmology Working Group Workshop_](https://indico.uis.no/event/28/), Stavanger, Norway, Jun 2023 [Member of the SOC]
 1. [_PONT2023_](https://indico.cern.ch/event/1166693/), Avignon, France, May 2023 [Member of the OC]
 1. [_Journée scientifique LPT/L2IT_](https://indico.in2p3.fr/event/28881/), Toulouse, France, Jan 2023 [Member of the OC]
@@ -155,7 +157,7 @@ University of Trento, Italy [110/110 e lode]
 - _Gergely Dálya_, L2IT (from Feb 2024)
 - _Ollie Burke_, L2IT (from Sept 2022)
 - _Martina Toscani_, L2IT (from Nov 2021 to Oct 2023)
-- _Danny Laghi_, L2IT (from Jul 2021)
+- _Danny Laghi_, L2IT (from Jul 2021 to May 2024)
 
 
 ### PhD students supervised
@@ -248,7 +250,6 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited seminars & colloquia
 
-1. _Standard sirens for LISA_, 11th LISA CosWG Workshop, Porto, Portugal [20/06/24]
 1. _Cosmology with gravitational wave standard sirens_, CERN, Geneva [31/01/2024]
 1. _Science synergies between ground- and space-based gravitational wave observatories_, IP2I Lyon, France [15/12/2023]
 1. _Cosmology with gravitational wave standard sirens_, EuCapt Colloquim (remote) [14/11/2023]
@@ -281,6 +282,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited conference talks
 
+1. _Standard sirens with LISA_, Talk at the 15th LISA Symposium, Dublin, Ireland [08/07/2024]
+1. _Standards sirens for LISA_, Talk at the 11th LISA Cosmology Working Group Workshop, Porto, Portugal [20/06/2024] 
 1. _Cosmology with GWs and latest LVK results_, Talk at Exploring the Dark Side of the Universe Tools 2024 - 5th World Summit, Île de Noirmoutier, France [04/06/2024]
 1. _Project LIROCOS_, Talk at the journée de restitution de la MITI, Paris, France [22/03/2024]
 1. _LISA forecasts on LCDM_, Talk at LISA Fundamental Physics WG Workshop, Copenhagen, Denmark [10/08/2023]
@@ -365,6 +368,9 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Jul 2024, _15th LISA Symposium_, Dublin, Ireland
+1. Jul 2024, _3rd MaNiTou Summer School on GWs, Toulouse, France
+1. Jun 2024, _GWCats: GW Cosmology meets Galaxy Catalogues_, Glasgow, UK
 1. Jun 2024, _11th LISA CosWG Workshop_, Porto, Portugal
 1. Jun 2024, _LISA DDPC Kick-off meeting_, Toulouse, France
 1. Jun 2024, _Exploring the Dark Side of the Universe Tools 2024 - 5th World Summit_, Île de Noirmoutier, France
