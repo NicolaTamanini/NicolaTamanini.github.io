@@ -89,15 +89,16 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research appointements
 
-- Member of the _ET Early-Career Scientist Committee_ (since 2024)
+- Member of the _Virgo Speakers Committee_ (since 2024)
+- Member of the _ET Early-Career Scientist Support Committee_ (since 2024)
 - Chair of the _ET OSB Division 5_ on synergy with other GW observatories (since 2023)
 - Coordinator General of the _GW Early Career Scientists (GWECS)_ organisation (from 2022 to 2023)
 - Member of the Comité de Pilotage and of the Conseil Scientifique of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Coordinator of the cosmology working group of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Elected early-career chair of the _LISA Cosmology Working Group_ (from 2021 to 2024)
-- Chair of the _LIGO/Virgo/Kagra Cosmology Working Group_ (since 2021)
-- Member of the _LISA Publication and Presentation (P&P) Committee_ (since 2021)
-- Coordinator of the _LISA Science Group sub-working package_ on estimation of cosmological parameters and standard sirens (since 2019)
+- Chair of the _LIGO-Virgo-Kagra Cosmology Working Group_ (since 2021)
+- Member of the _LISA Consortium Publication and Presentation (P&P) Committee_ (since 2021)
+- Coordinator of the _LISA Science Group sub-working package_ on estimation of cosmological parameters and standard sirens (from 2019 to 2024)
 - Elected chair of the _LISA Early Career Scientists_ (LECS) group (from 2019 to 2021)
 
 
