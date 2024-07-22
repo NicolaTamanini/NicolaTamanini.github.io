@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. G.~Raman et al.,
+_Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA observing run_,
+[[arXiv:2407.12867](https://arxiv.org/abs/2407.12867)]
+
 1. [LIGO Scientific, VIRGO and KAGRA],
  _Observation of Gravitational Waves from the Coalescence of a 2.5-4.5 Msun Compact Object and a Neutron Star_,
 [[arXiv:2404.04248](https://arxiv.org/abs/2404.04248)]
