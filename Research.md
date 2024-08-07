@@ -14,4 +14,4 @@ Fig: Picture of a discussion on gravitational wave cosmology at the workshop "A 
 
 The [LISA mission](https://www.lisamission.org) will open a new gravitational wave window in the mHz frequency range and will detect new interesting populations of gravitational wave sources. Some of these sources can be used to probe the expansion of the Universe. LISA will thus deliver cosmological information in a complentary way with repsect to standard electromagnetic observations and Earth-based gravitataional wave detectors.
 
-Here is the [link to a talk](https://www.youtube.com/watch?v=ZZn5mxhwSLQ&list=PLzmcUBaevwOvHXvFgVGAX_o_CJg6xbOtW&index=5) I gave at the 15th LISA Symposium in 2024.
+Here is the [link to a talk](https://www.youtube.com/watch?v=ZZn5mxhwSLQ&list=PLzmcUBaevwOvHXvFgVGAX_o_CJg6xbOtW&index=5) I gave at the 15th LISA Symposium in 2024 about how LISA will map the expansion of the Universe.
