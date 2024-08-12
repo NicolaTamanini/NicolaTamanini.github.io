@@ -370,7 +370,7 @@ University of Trento, Italy [110/110 e lode]
 ### Scientific events attended
 
 1. Jul 2024, _15th LISA Symposium_, Dublin, Ireland
-1. Jul 2024, _3rd MaNiTou Summer School on GWs, Toulouse, France
+1. Jul 2024, _3rd MaNiTou Summer School on GWs_, Toulouse, France
 1. Jun 2024, _GWCats: GW Cosmology meets Galaxy Catalogues_, Glasgow, UK
 1. Jun 2024, _11th LISA CosWG Workshop_, Porto, Portugal
 1. Jun 2024, _LISA DDPC Kick-off meeting_, Toulouse, France
