@@ -182,6 +182,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Teaching
 
+- _Gravitational Waves_, Short-term course, Rodolphe Cledassou Summer School, Hendaye, France, 2024
 - _Ondes Gravitationnelles_ (in French), Short-term course, Euclid Summer School, Ronce-les-Bains, France, 2023
 - _Gravitational waves and their applications to cosmology_, Invited pedagogical seminar, Mathematical foundations and applications of gravity, online, 2022
 - _Gravitational wave cosmology with LISA_, Invited pedagogical seminar, Euclid Summer School, Banyuls, France, 2022
@@ -195,10 +196,15 @@ University of Trento, Italy [110/110 e lode]
 
 ### Reviewed theses (external reviewer)
 
+- _Dark Siren Cosmology and Binary Black Holes Populations with LIGO-Virgo-KAGRA Gravitational Waves_, Grégoire Pierra, PhD thesis, Université Claude Bernard Lyon 1, 2024
 - _Étude de l'influence gravitationnelle d'une impulsion lumineuse_, Paul Lageyre, PhD thesis, Université de Bordeaux, 2021
 - _The astrophysics of black hole binaries in the era of gravitational wave astronomy_, Alberto Mangiagli, PhD thesis, Università degli Studi di Milano-Bicocca, 2020
 - _Extreme Stars in Alternative Theories of Gravity_, Marc Pace, MSc thesis, University of Malta, 2017
 
+
+### Participation in PhD thesis committees
+
+- Paul Lageyre, Université de Bordeaux, 2021
 
 ### Refereed peer-review research journals
 
@@ -284,7 +290,7 @@ University of Trento, Italy [110/110 e lode]
 ### Invited conference talks
 
 1. _Standard sirens with LISA_, Talk at the 15th LISA Symposium, Dublin, Ireland [08/07/2024]
-1. _Standards sirens for LISA_, Talk at the 11th LISA Cosmology Working Group Workshop, Porto, Portugal [20/06/2024] 
+1. _Standard sirens for LISA_, Talk at the 11th LISA Cosmology Working Group Workshop, Porto, Portugal [20/06/2024] 
 1. _Cosmology with GWs and latest LVK results_, Talk at Exploring the Dark Side of the Universe Tools 2024 - 5th World Summit, Île de Noirmoutier, France [04/06/2024]
 1. _Project LIROCOS_, Talk at the journée de restitution de la MITI, Paris, France [22/03/2024]
 1. _LISA forecasts on LCDM_, Talk at LISA Fundamental Physics WG Workshop, Copenhagen, Denmark [10/08/2023]
@@ -369,6 +375,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Aug 2024, _Rodolphe Cledassou Summer School_, Hendaye, France
 1. Jul 2024, _15th LISA Symposium_, Dublin, Ireland
 1. Jul 2024, _3rd MaNiTou Summer School on GWs_, Toulouse, France
 1. Jun 2024, _GWCats: GW Cosmology meets Galaxy Catalogues_, Glasgow, UK
