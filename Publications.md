@@ -86,7 +86,7 @@ Phys. Rev. D 106 (2022) no.6, 064056
 1. M. L. Katz, C. Danielski, N. Karnesis, V. Korol, N. Tamanini, N. J. Cornish and T. B. Littenberg,
 _Bayesian Characterisation of Circumbinary Exoplanets with LISA_,
 Mon. Not. Roy. Astron. Soc. 517 (2022) no.1, 697-711
-[[doi:10.1093/mnras/stac2555](https://doi:10.1093/mnras/stac2555)]
+[[doi:10.1093/mnras/stac2555]([https://doi:10.1093/mnras/stac2555](https://academic.oup.com/mnras/article/517/1/697/6695101?login=false))]
 [[arXiv:2205.03461](https://arxiv.org/abs/2205.03461)]
 
 1. M. Corman, A. Ghosh, C. Escamilla-Rivera, M. A. Hendry, S. Marsat and N. Tamanini,
