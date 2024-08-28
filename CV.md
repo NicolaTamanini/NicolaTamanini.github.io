@@ -165,6 +165,7 @@ University of Trento, Italy [110/110 e lode]
 
 - _Manuel Piarulli_, L2IT, (co-supervisor; from Nov 2023)
 - _Vasco Gennari_, L2IT, (from Oct 2023)
+- _Chang Liu_, Peking University (co-supervisor; from Oct 2022 to Sept 2023)
 - _Vivienne Langen_, L2IT (from Nov 2021)
 
 
