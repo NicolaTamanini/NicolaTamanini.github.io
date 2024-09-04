@@ -357,7 +357,10 @@ Astrophys. J. Lett. 970 (2024) no.2, L34
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _Search for Eccentric Black Hole Coalescences during the Third Observing Run of LIGO and Virgo_,
-[[arXiv:2308.03822](https://arxiv.org/abs/2304.08393)].
+Astrophys. J. \textbf{970} (2024) no.2, 191
+[[doi:10.3847/1538-4357/ad3e83](https://iopscience.iop.org/article/10.3847/1538-4357/ad3e83)]
+[[arXiv:2308.03822](https://arxiv.org/abs/2304.08393)]
+
 
 1. R. Abbott et al. [LIGO Scientific, KAGRA and VIRGO],
 _Search for gravitational-lensing signatures in the full third observing run of the LIGO-Virgo network_,
