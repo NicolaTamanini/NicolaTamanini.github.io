@@ -359,8 +359,10 @@ Astrophys. J. Lett. 970 (2024) no.2, L34
 _Search for Eccentric Black Hole Coalescences during the Third Observing Run of LIGO and Virgo_,
 [[arXiv:2308.03822](https://arxiv.org/abs/2304.08393)].
 
-1. R. Abbott et al. [LIGO Scientific, VIRGO and KAGRA],
+1. R. Abbott et al. [LIGO Scientific, KAGRA and VIRGO],
 _Search for gravitational-lensing signatures in the full third observing run of the LIGO-Virgo network_,
+Astrophys. J. 970 (2024) no.2, 191
+[[doi:10.3847/1538-4357/ad3e83](https://iopscience.iop.org/article/10.3847/1538-4357/ad3e83)]
 [[arXiv:2304.08393](https://arxiv.org/abs/2304.08393)]
 
 1. F. Acernese et al. [VIRGO],
@@ -371,8 +373,10 @@ _Advanced Virgo Plus: Future Perspectives_,
 _The Advanced Virgo+ status_,
 [[doi:10.1088/1742-6596/2429/1/012039](https://iopscience.iop.org/article/10.1088/1742-6596/2429/1/012039)]
 
-1. R. Abbott et al. [LIGO Scientific, VIRGO and KAGRA],
-_Open data from the third observing run of LIGO, Virgo, KAGRA and GEO_,
+1. R. Abbott et al. [KAGRA, VIRGO and LIGO Scientific],
+_Open Data from the Third Observing Run of LIGO, Virgo, KAGRA, and GEO_,
+Astrophys. J. Suppl. 267 (2023) no.2, 29
+[[doi:10.3847/1538-4365/acdc9f](https://iopscience.iop.org/article/10.3847/1538-4365/acdc9f)]
 [[arXiv:2302.03676](https://arxiv.org/abs/2302.03676)]
 
 1. R. Abbott et al. [LIGO Scientific, VIRGO and KAGRA],
