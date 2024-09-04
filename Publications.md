@@ -8,13 +8,9 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
-1. G.~Raman et al.,
+1. G.~Raman et al. [LIGO Scientific, VIRGO and KAGRA],
 _Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA observing run_,
 [[arXiv:2407.12867](https://arxiv.org/abs/2407.12867)]
-
-1. [LIGO Scientific, VIRGO and KAGRA],
- _Observation of Gravitational Waves from the Coalescence of a 2.5-4.5 Msun Compact Object and a Neutron Star_,
-[[arXiv:2404.04248](https://arxiv.org/abs/2404.04248)]
 
 1. [LIGO Scientific, VIRGO and KAGRA],
 _Ultralight vector dark matter search using data from the KAGRA O3GK run_,
@@ -352,6 +348,12 @@ Astrophys. J. 871 (2019) L13
 
 
 ### LVK collaboration paper (negligible personal contribution)
+
+1. A. G. Abac et al. [LIGO Scientific, Virgo and KAGRA],
+_Observation of Gravitational Waves from the Coalescence of a 2.5\textendash{}4.5 M $_{⊙}$ Compact Object and a Neutron Star_,
+Astrophys. J. Lett. 970 (2024) no.2, L34
+[[doi:10.3847/2041-8213/ad5beb](https://iopscience.iop.org/article/10.3847/2041-8213/ad5beb)]
+[[arXiv:2404.04248](https://arxiv.org/abs/2404.04248)]
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _Search for Eccentric Black Hole Coalescences during the Third Observing Run of LIGO and Virgo_,
