@@ -8,11 +8,11 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
-1. G.~Raman et al. [LIGO Scientific, VIRGO and KAGRA],
+1. G. Raman et al., [LIGO Scientific, VIRGO and KAGRA],
 _Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA observing run_,
 [[arXiv:2407.12867](https://arxiv.org/abs/2407.12867)]
 
-1. [LIGO Scientific, VIRGO and KAGRA],
+1. A. G. Abac et al., [LIGO Scientific, VIRGO and KAGRA],
 _Ultralight vector dark matter search using data from the KAGRA O3GK run_,
 [[arXiv:2403.03004](https://arxiv.org/abs/2403.03004)]
 
