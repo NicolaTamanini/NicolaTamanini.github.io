@@ -33,6 +33,8 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 ### PhD students
 
+- **Tom Bertheas** (starting Oct 2024; jointly with the LPENS)
+- **Zheng Wu** (starting Oct 2024)
 - **Vivienne Langen**
 - **Rémi Delpech** (jointly with the IRAP)
 - **Vasco Gennari**
@@ -41,16 +43,16 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 ### Interns and students
 
-- **Alice Perego** (M2 intern)
-- **Thomas Jacquot** (M2 intern)
-- **Tom Bertheas** (M2 intern)
+- 
 
 ## Past members
 
 Here are the people that were part of the L2IT GW group in the past:
 
+- **Alice Perego** (M2 intern from March to July 2024)
+- **Thomas Jacquot** (M2 intern from March to July 2024)
 - **Danny Laghi** (Postdoc from Jul 2021 to May 2024)
-- **Cayetano Santos** (Softare engineer from Nov 2021 to May 2024, part of the L2IT CAD group)
+- **Cayetano Santos** (Softare engineer from Nov 2021 to May 2024, contributing as member of the L2IT CAD group)
 - **Martina Toscani** (Postdoc from Nov 2021 to Oct 2023)
 - **Chang Liu** (Visiting PhD student from Peking University, China, from Oct 2022 to Sept 2023)
 - **Olympe Léchine** (M2 intern from Mar 2023 to Aug 2023)
