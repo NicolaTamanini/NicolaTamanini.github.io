@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. V. Langen, N. Tamanini, S. Marsat and E. Bortolas,
+_Hierarchical Bayesian inference on an analytical model of the LISA massive black hole binary population_,
+[[arXiv:2409.06527](https://arxiv.org/abs/2409.06527)]
+
 1. G. Raman et al., [LIGO Scientific, VIRGO and KAGRA],
 _Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA observing run_,
 [[arXiv:2407.12867](https://arxiv.org/abs/2407.12867)]
