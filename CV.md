@@ -96,7 +96,7 @@ University of Trento, Italy [110/110 e lode]
 - Member of the Comité de Pilotage and of the Conseil Scientifique of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Coordinator of the cosmology working group of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Elected early-career chair of the _LISA Cosmology Working Group_ (from 2021 to 2024)
-- Chair of the _LIGO-Virgo-Kagra Cosmology Working Group_ (since 2021)
+- Chair of the _LIGO-Virgo-Kagra Cosmology Working Group_ (from 2021 to 2024)
 - Member of the _LISA Consortium Publication and Presentation (P&P) Committee_ (since 2021)
 - Coordinator of the _LISA Science Group sub-working package_ on estimation of cosmological parameters and standard sirens (from 2019 to 2024)
 - Elected chair of the _LISA Early Career Scientists_ (LECS) group (from 2019 to 2021)
@@ -163,8 +163,10 @@ University of Trento, Italy [110/110 e lode]
 
 ### PhD students supervised
 
-- _Manuel Piarulli_, L2IT, (co-supervisor; from Nov 2023)
-- _Vasco Gennari_, L2IT, (from Oct 2023)
+- _Zheng Wu_, L2IT (from Oct 2024)
+- _Tom Bertheas_, L2IT (from Oct 2024)
+- _Manuel Piarulli_, L2IT (co-supervisor; from Nov 2023)
+- _Vasco Gennari_, L2IT (from Oct 2023)
 - _Chang Liu_, Peking University (co-supervisor; from Oct 2022 to Sept 2023)
 - _Vivienne Langen_, L2IT (from Nov 2021)
 
@@ -176,7 +178,6 @@ University of Trento, Italy [110/110 e lode]
 - _Thomas Jacquot_ (M2 intern from Mar to Juk 2024; co-supervised with G. Dálya)
 - _Olympe Léchine_ (M2 intern from Mar to Jul 2023; co-supervised with M. Toscani)
 - _Nour Bou Zamel_ (L3 intern from Mar to Jun 2023)
-- _Chang Liu_ (visiting PhD student from Oct 2022 to Sept 2023)
 - _Rémi Delpech_ (M2 intern from Feb to July 2022; co-supervised with A. Blanchard (IRAP)) 
 - _Niccolò Muttoni_ (research assistant from Nov 2021 to Apr 2022)
 
@@ -205,6 +206,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Participation in PhD thesis committees
 
+- Elie Leroy, Université Paris-Saclay, 2024
+- Gregoire Pierra, Université Claude Bernard Lyon 1, 2024
 - Paul Lageyre, Université de Bordeaux, 2021
 
 ### Refereed peer-review research journals
@@ -359,6 +362,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Chaired sessions at conferences
 
+1. _LVK Collaboration Meeting_, f2f cosmology session, Barcelona, Spain [23/09/2024]
 1. _Assemblée Générale GdR Ondes Gravitationnelles_, Cosmology session, Meudon, France [16/10/2023]
 1. _LVK Collaboration Meeting_, f2f cosmology session, Toyama, Japan [11/09/2023]
 1. _ET Symposium_ ET OSB Div5 session, Cagliari Italy [10/05/2023]
@@ -376,6 +380,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Sept 2024, _Heterogenous Data and Large Representation Models in Science_, Toulouse, France
+1. Sept 2024, _LVK Collaboration Meeting, Barcelona_, Spain
 1. Aug 2024, _Rodolphe Cledassou Summer School_, Hendaye, France
 1. Jul 2024, _15th LISA Symposium_, Dublin, Ireland
 1. Jul 2024, _3rd MaNiTou Summer School on GWs_, Toulouse, France
@@ -388,7 +394,7 @@ University of Trento, Italy [110/110 e lode]
 1. Oct 2023, _Assemblée Générale GdR Ondes Gravitationnelles_, Meudon, France
 1. Oct 2023, _Journée des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles_, Paris, France
 1. Oct 2023, _Virgo+ET France Meeting_, Paris, France
-1. Sept 2023, _LVK Collaboration Meeting, Toyama, Japan
+1. Sept 2023, _LVK Collaboration Meeting_, Toyama, Japan
 1. Aug 2023, _LISA Fundamental Physics WG Workshop_, Copenhagen, Denmark
 2. Jun 2023, _A journey through the theoretical universe_, Toulouse, France 
 1. Jun 2023, _Towards LISA catalogs_, Nice, France
