@@ -4,6 +4,10 @@ Here you can find links to articles, interviews, videos and everything else that
 
 ### My research in the news
 
+#### Almost ten years of gravitational wave observations
+
+I've been interviewed, together with several other members of the gravitational wave community, in an [article on Le Monde](https://www.lemonde.fr/sciences/article/2024/10/14/les-ondes-gravitationnelles-secouent-l-astrophysique_6351680_1650684.html) which describes the current status of gravitational wave observations. Le Monde is one of the main newspapers in France. The article is in French and accessible only to subcribers of the newspaper.
+
 #### Strongly lensed EMRIs
 
 <img src="/assets/img/Plan de travail 1@3x_0.png" height="300" />
