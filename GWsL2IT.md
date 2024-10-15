@@ -33,10 +33,10 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 ### PhD students
 
-- **Tom Bertheas** (starting Oct 2024; jointly with the LPENS)
-- **Zheng Wu** (starting Oct 2024)
+- **Tom Bertheas** (jointly with the LPENS Paris)
+- **Zheng Wu** 
 - **Vivienne Langen**
-- **Rémi Delpech** (jointly with the IRAP)
+- **Rémi Delpech** (jointly with the IRAP Toulouse)
 - **Vasco Gennari**
 - **Manuel Piarulli**
 - **Clèment Jacquet**
