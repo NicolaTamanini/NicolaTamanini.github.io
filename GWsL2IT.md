@@ -25,6 +25,8 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 - **Catherine Biscarat** (Computing, Algorithms and Data group)
 - **Mathieu Dubois** (Computing, Algorithms and Data group)
+- **Maxime Pigou** (Computing, Algorithms and Data group)
+- **Antsa Rasamoela** (Computing, Algorithms and Data group)
 
 ### Postdocs
 
