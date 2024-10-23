@@ -12,14 +12,6 @@ Here you can find all my publications and links to their records on the most com
 _Hierarchical Bayesian inference on an analytical model of the LISA massive black hole binary population_,
 [[arXiv:2409.06527](https://arxiv.org/abs/2409.06527)]
 
-1. G. Raman et al., [LIGO Scientific, VIRGO and KAGRA],
-_Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA observing run_,
-[[arXiv:2407.12867](https://arxiv.org/abs/2407.12867)]
-
-1. A. G. Abac et al., [LIGO Scientific, VIRGO and KAGRA],
-_Ultralight vector dark matter search using data from the KAGRA O3GK run_,
-[[arXiv:2403.03004](https://arxiv.org/abs/2403.03004)]
-
 1. M. Colpi et al.,
 _LISA Definition Study Report_,
 [[arXiv:2402.07571](https://arxiv.org/abs/2402.07571)]
@@ -360,6 +352,14 @@ _Search for gravitational waves emitted from SN 2023ixf_,
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _A search using GEO600 for gravitational waves coincident with fast radio bursts from SGR 1935+2154_,
 [[arXiv:2410.09151](https://arxiv.org/abs/2410.09151)]
+
+1. G. Raman et al., [LIGO Scientific, VIRGO and KAGRA],
+_Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA observing run_,
+[[arXiv:2407.12867](https://arxiv.org/abs/2407.12867)]
+
+1. A. G. Abac et al., [LIGO Scientific, VIRGO and KAGRA],
+_Ultralight vector dark matter search using data from the KAGRA O3GK run_,
+[[arXiv:2403.03004](https://arxiv.org/abs/2403.03004)]
 
 1. A. G. Abac et al. [LIGO Scientific, Virgo and KAGRA],
 _Observation of Gravitational Waves from the Coalescence of a 2.5\textendash{}4.5 M $_{⊙}$ Compact Object and a Neutron Star_,
