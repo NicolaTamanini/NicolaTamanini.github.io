@@ -467,7 +467,11 @@ Submitted to ESA on January 13th in response to the call for missions for the L3
 
 ### Outreach
 
-- N. Tamanini & C. Danielski,
+1. M. Toscani, N. Tamanini et al,
+   _Ondes gravitationnelles : un nouveau signal au cœur de la mission spatiale LISA_,
+   CNRS Hebdo (2024) [[URL](https://www.occitanie-ouest.cnrs.fr/fr/cnrsinfo/ondes-gravitationnelles-un-nouveau-signal-au-coeur-de-la-mission-spatiale-lisa)]
+
+1. N. Tamanini & C. Danielski,
 <i>Don’t Panic! Gravitational waves can find new planets</i>,
 LIGO Magazine (2019) [[URL](https://www.ligo.org/magazine/LIGO-magazine-issue15.pdf#page=20)]
 
