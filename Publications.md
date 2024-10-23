@@ -353,6 +353,14 @@ Astrophys. J. 871 (2019) L13
 
 ### LVK collaboration paper (negligible personal contribution)
 
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_Search for gravitational waves emitted from SN 2023ixf_,
+[[arXiv:2410.16565](https://arxiv.org/abs/2410.16565)]
+
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_A search using GEO600 for gravitational waves coincident with fast radio bursts from SGR 1935+2154_,
+[[arXiv:2410.09151](https://arxiv.org/abs/2410.09151)]
+
 1. A. G. Abac et al. [LIGO Scientific, Virgo and KAGRA],
 _Observation of Gravitational Waves from the Coalescence of a 2.5\textendash{}4.5 M $_{⊙}$ Compact Object and a Neutron Star_,
 Astrophys. J. Lett. 970 (2024) no.2, L34
