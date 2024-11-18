@@ -375,12 +375,16 @@ Astrophys. J. \textbf{970} (2024) no.2, 191
 [[doi:10.3847/1538-4357/ad3e83](https://iopscience.iop.org/article/10.3847/1538-4357/ad3e83)]
 [[arXiv:2308.03822](https://arxiv.org/abs/2304.08393)]
 
-
 1. R. Abbott et al. [LIGO Scientific, KAGRA and VIRGO],
 _Search for gravitational-lensing signatures in the full third observing run of the LIGO-Virgo network_,
 Astrophys. J. 970 (2024) no.2, 191
 [[doi:10.3847/1538-4357/ad3e83](https://iopscience.iop.org/article/10.3847/1538-4357/ad3e83)]
 [[arXiv:2304.08393](https://arxiv.org/abs/2304.08393)]
+
+1. F.Acerneseet al. [VIRGO],
+_Frequency-Dependent Squeezed Vacuum Source for the Advanced Virgo Gravitational-Wave Detector_,
+Phys. Rev. Lett. \textbf{131} (2023) no.4, 041403
+[[doi:10.1103/PhysRevLett.131.041403](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.041403)]
 
 1. F. Acernese et al. [VIRGO],
 _Advanced Virgo Plus: Future Perspectives_,
