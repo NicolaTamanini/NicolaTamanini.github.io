@@ -363,6 +363,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Chaired sessions at conferences
 
+1. _Assemblée Générale GdR Ondes Gravitationnelles_, Cosmology session, Marseille, France [15/10/2024]
 1. _LVK Collaboration Meeting_, f2f cosmology session, Barcelona, Spain [23/09/2024]
 1. _Assemblée Générale GdR Ondes Gravitationnelles_, Cosmology session, Meudon, France [16/10/2023]
 1. _LVK Collaboration Meeting_, f2f cosmology session, Toyama, Japan [11/09/2023]
@@ -381,6 +382,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Oct 2024, _Assemblée Générale GdR Ondes Gravitationnelles_, Marseille, France
+2. Oct 2024, _Virgo and ET France meeting_, Caen/online, France
 1. Sept 2024, _Heterogenous Data and Large Representation Models in Science_, Toulouse, France
 1. Sept 2024, _LVK Collaboration Meeting, Barcelona_, Spain
 1. Aug 2024, _Rodolphe Cledassou Summer School_, Hendaye, France
