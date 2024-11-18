@@ -254,7 +254,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Outreach activities
 
-- N. Tamanini, _LISA: observer les ondes gravitationnelles depuis l'espace_, Outreach talk (in French), Conference physique fondamentale au CNES, Toulouse [05/11/2024]
+- N. Tamanini, _LISA: observer les ondes gravitationnelles depuis l'espace_, Outreach talk (in French), Conference physique fondamentale au CNES (in French), Toulouse [05/11/2024]
+- M. Toscani, N. Tamanini et al, _Ondes gravitationnelles : un nouveau signal au cœur de la mission spatiale LISA_, [Article on the _CNRS Hebdo_](https://www.occitanie-ouest.cnrs.fr/fr/cnrsinfo/ondes-gravitationnelles-un-nouveau-signal-au-coeur-de-la-mission-spatiale-lisa) (in French) [13/03/2024]
 - N. Tamanini, _Ondes gravitationnelles: l'aube d'une nouvelle science de l'univers_, Outreach talk (in French), Seminaire de la Societe Francais de Physique, Toulouse [30/06/2023]
 - N. Tamanini, _Ondes gravitationnelles: l'aube d'une nouvelle science de l'univers_, Outreach talk (in French), Colloquim CC-IN2P3, Toulouse [06/05/2022]
 - N. Tamanini & C. Danielski, _Don’t Panic! Gravitational waves can find new planets_, Outreach article for the LIGO Magazine (2019) [[URL](https://www.ligo.org/magazine/LIGO-magazine-issue15.pdf#page=20)]
