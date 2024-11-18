@@ -357,8 +357,10 @@ _A search using GEO600 for gravitational waves coincident with fast radio bursts
 _Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA observing run_,
 [[arXiv:2407.12867](https://arxiv.org/abs/2407.12867)]
 
-1. A. G. Abac et al., [LIGO Scientific, VIRGO and KAGRA],
+1. A. G. Abac et al. [KAGRA, LIGO Scientific and VIRGO],
 _Ultralight vector dark matter search using data from the KAGRA O3GK run_,
+Phys. Rev. D 110 (2024) no.4, 042001
+[[doi:10.1103/PhysRevD.110.042001](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.042001)]
 [[arXiv:2403.03004](https://arxiv.org/abs/2403.03004)]
 
 1. A. G. Abac et al. [LIGO Scientific, Virgo and KAGRA],
