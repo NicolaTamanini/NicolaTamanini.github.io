@@ -8,10 +8,6 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
-1. V. Langen, N. Tamanini, S. Marsat and E. Bortolas,
-_Hierarchical Bayesian inference on an analytical model of the LISA massive black hole binary population_,
-[[arXiv:2409.06527](https://arxiv.org/abs/2409.06527)]
-
 1. M. Colpi et al.,
 _LISA Definition Study Report_,
 [[arXiv:2402.07571](https://arxiv.org/abs/2402.07571)]
@@ -26,6 +22,11 @@ _Waveform Modelling for the Laser Interferometer Space Antenna_,
 
 
 ### Publications in peer-review journals (short author-list / small collaborations)
+
+1. V. Langen, N. Tamanini, S. Marsat and E. Bortolas,
+_Hierarchical Bayesian inference on an analytical model of the LISA massive black hole binary population_,
+Accepted by Mon. Not. Roy. Astron. Soc. (2024)
+[[arXiv:2409.06527](https://arxiv.org/abs/2409.06527)]
 
 1. C. Liu, D. Laghi and N. Tamanini,
 _Probing modified gravitational-wave propagation with extreme mass-ratio inspirals_,
