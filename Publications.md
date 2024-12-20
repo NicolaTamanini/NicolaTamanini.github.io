@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. A. Agarwal \textit{et al.},
+_Blinded Mock Data Challenge for Gravitational-Wave Cosmology-I: Assessing the Robustness of Methods Using Binary Black Holes Mass Spectrum_,
+[[arXiv:2412.14244](https://arxiv.org/abs/2412.14244)]
+
 1. M. Colpi et al.,
 _LISA Definition Study Report_,
 [[arXiv:2402.07571](https://arxiv.org/abs/2402.07571)]
