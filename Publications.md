@@ -29,7 +29,8 @@ _Waveform Modelling for the Laser Interferometer Space Antenna_,
 
 1. V. Langen, N. Tamanini, S. Marsat and E. Bortolas,
 _Hierarchical Bayesian inference on an analytical model of the LISA massive black hole binary population_,
-Accepted by Mon. Not. Roy. Astron. Soc. (2024)
+Mon. Not. Roy. Astron. Soc. 536 (2025) n.4, 3366–3385
+[[doi.org/10.1093/mnras/stae2694](https://doi.org/10.1093/mnras/stae2694)]
 [[arXiv:2409.06527](https://arxiv.org/abs/2409.06527)]
 
 1. C. Liu, D. Laghi and N. Tamanini,
