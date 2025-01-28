@@ -16,7 +16,7 @@ _Blinded Mock Data Challenge for Gravitational-Wave Cosmology-I: Assessing the R
 _LISA Definition Study Report_,
 [[arXiv:2402.07571](https://arxiv.org/abs/2402.07571)]
 
-1. A. Mangiagli, C. Caprini, S. Marsat, L. Speri, R. R. Caldwell and N. Tamanini,
+1. A. Mangiagli, C. Caprini, S. Marsat, L. Speri, R. R. Caldwell and N. Tamanini, 
    _Massive black hole binaries in LISA: constraining cosmological parameters at high redshifts_,
    [[arXiv:2312.04632](https://arxiv.org/abs/2312.04632)]
 
