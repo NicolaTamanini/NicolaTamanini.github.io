@@ -30,7 +30,6 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 ### Postdocs
 
-- **Ollie Burke**
 - **Gergely Dálya**
 
 ### PhD students
@@ -45,12 +44,13 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 ### Interns and students
 
-- 
+- **Irene Iorio**
 
 ## Past members
 
 Here are the people that were part of the L2IT GW group in the past:
 
+- **Ollie Burke** (Postdoc from Sept 2022 to Dec 2024)
 - **Alice Perego** (M2 intern from March to July 2024)
 - **Thomas Jacquot** (M2 intern from March to July 2024)
 - **Danny Laghi** (Postdoc from Jul 2021 to May 2024)
