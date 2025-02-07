@@ -46,6 +46,10 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 - **Irene Iorio**
 
+### Associated members
+
+- Tanguy Delmond (PhD student at CNES)
+
 ## Past members
 
 Here are the people that were part of the L2IT GW group in the past:
