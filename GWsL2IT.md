@@ -69,6 +69,12 @@ Here are the people that were part of the L2IT GW group in the past:
 
 Some of the most recent publications and pre-prints authored by members of the group:
 
+1. V. Langen, N. Tamanini, S. Marsat and E. Bortolas,
+_Hierarchical Bayesian inference on an analytical model of the LISA massive black hole binary population_,
+Mon. Not. Roy. Astron. Soc. 536 (2025) n.4, 3366–3385
+[[doi.org/10.1093/mnras/stae2694](https://doi.org/10.1093/mnras/stae2694)]
+[[arXiv:2409.06527](https://arxiv.org/abs/2409.06527)]
+
 1. C. Liu, D. Laghi and N. Tamanini,
 _Probing modified gravitational-wave propagation with extreme mass-ratio inspirals_,
 Phys. Rev. D 109 (2024) no.6, 063521
@@ -80,9 +86,3 @@ _Strongly-Lensed Extreme Mass-ratio Inspirals_,
 Phys. Rev. D 109 (2024) no.6, 063505
 [[doi:10.1103/PhysRevD.109.063505](https://doi.org/10.1103/PhysRevD.109.063505)]
 [[arXiv:2307.06722](https://arxiv.org/abs/2307.06722)]
-
-1. N. Muttoni, D. Laghi, N. Tamanini, S. Marsat and D. Izquierdo-Villalba,
-_Dark siren cosmology with binary black holes in the era of third-generation gravitational wave detectors_,
-Phys. Rev. D 108 (2023) no.4, 043543
-[[doi:10.1103/PhysRevD.108.043543](https://doi.org/10.1103/PhysRevD.108.043543)]
-[[arXiv:2303.10693](https://arxiv.org/abs/2303.10693)]
