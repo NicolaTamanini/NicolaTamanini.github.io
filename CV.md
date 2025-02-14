@@ -173,6 +173,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Students supervised (all at the L2IT)
 
+- _Irene Iorio_ (M2 intern from Feb 2025 to Jul 2025)
 - _Tom Bertheas_ (M2 intern from Apr to Jul 2024; co-supervised with D. Steer (APC))
 - _Cyrian Jacquot_ & _Mani Larripa_ (L2 research project; from Jan to Jun 2024)
 - _Thomas Jacquot_ (M2 intern from Mar to Juk 2024; co-supervised with G. Dálya)
