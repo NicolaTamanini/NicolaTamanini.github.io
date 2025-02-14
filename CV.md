@@ -156,7 +156,7 @@ University of Trento, Italy [110/110 e lode]
 ### Postdocs supervised
 
 - _Gergely Dálya_, L2IT (from Feb 2024)
-- _Ollie Burke_, L2IT (from Sept 2022)
+- _Ollie Burke_, L2IT (from Sept 2022 to Dec 2024)
 - _Martina Toscani_, L2IT (from Nov 2021 to Oct 2023)
 - _Danny Laghi_, L2IT (from Jul 2021 to May 2024)
 
