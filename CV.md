@@ -383,6 +383,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Feb 2025, _Workshop on Belgium-Netherland-France collaboration in GW physics_, Paris/online, France
 1. Oct 2024, _Assemblée Générale GdR Ondes Gravitationnelles_, Marseille, France
 2. Oct 2024, _Virgo and ET France meeting_, Caen/online, France
 1. Sept 2024, _Heterogenous Data and Large Representation Models in Science_, Toulouse, France
