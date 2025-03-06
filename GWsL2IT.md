@@ -46,7 +46,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 - **Irene Iorio**
 
-### Associated members
+### Associate members
 
 - **Tanguy Delmond** (PhD student at CNES)
 
@@ -72,6 +72,10 @@ Here are the people that were part of the L2IT GW group in the past:
 ## Recent work 
 
 Some of the most recent publications and pre-prints authored by members of the group:
+
+1. V. Gennari, S. Mastrogiovanni, N. Tamanini, S. Marsat and G. Pierra,
+_Searching for additional structure and redshift evolution in the observed binary black hole population with a parametric time-dependent mass distribution_,
+[[arXiv:2502.20445](https://arxiv.org/abs/2502.20445)]
 
 1. V. Langen, N. Tamanini, S. Marsat and E. Bortolas,
 _Hierarchical Bayesian inference on an analytical model of the LISA massive black hole binary population_,
