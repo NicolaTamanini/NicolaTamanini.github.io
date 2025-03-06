@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. V. Gennari, S. Mastrogiovanni, N. Tamanini, S. Marsat and G. Pierra,
+_Searching for additional structure and redshift evolution in the observed binary black hole population with a parametric time-dependent mass distribution_,
+[[arXiv:2502.20445](https://arxiv.org/abs/2502.20445)]
+
 1. A. Agarwal et al.,
 _Blinded Mock Data Challenge for Gravitational-Wave Cosmology-I: Assessing the Robustness of Methods Using Binary Black Holes Mass Spectrum_,
 [[arXiv:2412.14244](https://arxiv.org/abs/2412.14244)]
