@@ -351,6 +351,10 @@ Astrophys. J. 871 (2019) L13
 ### LVK collaboration paper (negligible personal contribution)
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_Search for continuous gravitational waves from known pulsars in the first part of the fourth LIGO-Virgo-KAGRA observing run_,
+[[arXiv:2501.01495](https://arxiv.org/abs/2501.01495)]
+
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _Search for gravitational waves emitted from SN 2023ixf_,
 [[arXiv:2410.16565](https://arxiv.org/abs/2410.16565)]
 
