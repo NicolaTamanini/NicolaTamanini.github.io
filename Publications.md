@@ -356,10 +356,14 @@ _Search for gravitational waves emitted from SN 2023ixf_,
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _A search using GEO600 for gravitational waves coincident with fast radio bursts from SGR 1935+2154_,
+Astrophys. J. 977 (2024) no.2, 255
+[doi:10.3847/1538-4357/ad8de0](https://iopscience.iop.org/article/10.3847/1538-4357/ad8de0)]
 [[arXiv:2410.09151](https://arxiv.org/abs/2410.09151)]
 
 1. G. Raman et al., [LIGO Scientific, VIRGO and KAGRA],
 _Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA observing run_,
+Astrophys. J. 980 (2025) no.2, 207
+[[doi:10.3847/1538-4357/ad9749](https://iopscience.iop.org/article/10.3847/1538-4357/ad9749)]
 [[arXiv:2407.12867](https://arxiv.org/abs/2407.12867)]
 
 1. A. G. Abac et al. [KAGRA, LIGO Scientific and VIRGO],
