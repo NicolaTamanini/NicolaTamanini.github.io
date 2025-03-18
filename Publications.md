@@ -8,7 +8,7 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
-1. A. Abac et al,
+1. A. Abac et al [ET Collaboration],
  _The Science of the Einstein Telescope_,
 [[arXiv:2503.12263](https://arxiv.org/abs/2503.12263)]
 
