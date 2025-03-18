@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. A. Abac et al,
+ _The Science of the Einstein Telescope_,
+[[arXiv:2503.12263](https://arxiv.org/abs/2503.12263)]
+
 1. V. Gennari, S. Mastrogiovanni, N. Tamanini, S. Marsat and G. Pierra,
 _Searching for additional structure and redshift evolution in the observed binary black hole population with a parametric time-dependent mass distribution_,
 [[arXiv:2502.20445](https://arxiv.org/abs/2502.20445)]
@@ -16,18 +20,9 @@ _Searching for additional structure and redshift evolution in the observed binar
 _Blinded Mock Data Challenge for Gravitational-Wave Cosmology-I: Assessing the Robustness of Methods Using Binary Black Holes Mass Spectrum_,
 [[arXiv:2412.14244](https://arxiv.org/abs/2412.14244)]
 
-1. M. Colpi et al.,
-_LISA Definition Study Report_,
-[[arXiv:2402.07571](https://arxiv.org/abs/2402.07571)]
-
 1. A. Mangiagli, C. Caprini, S. Marsat, L. Speri, R. R. Caldwell and N. Tamanini, 
    _Massive black hole binaries in LISA: constraining cosmological parameters at high redshifts_,
    [[arXiv:2312.04632](https://arxiv.org/abs/2312.04632)]
-
-1. N. Afshordi et al., [LISA Consortium Waveform Working Group],
-_Waveform Modelling for the Laser Interferometer Space Antenna_,
-[[arXiv:2311.01300](https://arxiv.org/abs/2311.01300)]
-
 
 ### Publications in peer-review journals (short author-list / small collaborations)
 
@@ -463,6 +458,14 @@ Class. Quant. Grav. 37 (2020) 21, 215011
 
 
 ### White papers & other documents (not peer-reviewed)
+
+1. M. Colpi et al.,
+_LISA Definition Study Report_,
+[[arXiv:2402.07571](https://arxiv.org/abs/2402.07571)]
+
+1. N. Afshordi et al., [LISA Consortium Waveform Working Group],
+_Waveform Modelling for the Laser Interferometer Space Antenna_,
+[[arXiv:2311.01300](https://arxiv.org/abs/2311.01300)]
 
 1. J. B. Bayle et al.,
 _Legacy of the First Workshop on Gravitational Wave Astrophysics for Early Career Scientists_
