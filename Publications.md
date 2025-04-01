@@ -20,11 +20,12 @@ _Searching for additional structure and redshift evolution in the observed binar
 _Blinded Mock Data Challenge for Gravitational-Wave Cosmology-I: Assessing the Robustness of Methods Using Binary Black Holes Mass Spectrum_,
 [[arXiv:2412.14244](https://arxiv.org/abs/2412.14244)]
 
+### Publications in peer-review journals (short author-list / small collaborations)
+
 1. A. Mangiagli, C. Caprini, S. Marsat, L. Speri, R. R. Caldwell and N. Tamanini, 
    _Massive black hole binaries in LISA: constraining cosmological parameters at high redshifts_,
+   Accepted by Phys. Rev. (2025)
    [[arXiv:2312.04632](https://arxiv.org/abs/2312.04632)]
-
-### Publications in peer-review journals (short author-list / small collaborations)
 
 1. V. Langen, N. Tamanini, S. Marsat and E. Bortolas,
 _Hierarchical Bayesian inference on an analytical model of the LISA massive black hole binary population_,
