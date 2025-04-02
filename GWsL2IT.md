@@ -2,7 +2,7 @@
 
 <img src="/assets/img/L2IT_logo.jpg" height="120" />
 
-The [Laboratoire des 2 infinis - Toulouse (L2IT)](https://www.l2it.in2p3.fr) is a research institute of IN2P3/CNRS established in 2019 with the objective to pursue fundamental research with innovative numerical and theoretical approaches. The research of the institute is focused on particle physics, gravitational waves and the nuclear equation of state, and it is supported by a complementary development of numerical computing, data analysis and data science methodologies.
+The [Laboratoire des 2 infinis - Toulouse (L2IT)](https://www.l2it.in2p3.fr) is a research institute of IN2P3/CNRS established in 2020 with the objective to pursue fundamental research with innovative numerical and theoretical approaches. The research of the institute is focused on particle physics, gravitational waves and the nuclear equation of state, and it is supported by a complementary development of numerical computing, data analysis and data science methodologies.
 
 <img src="/assets/img/lisaconlogo.png" height="100" /><img src="/assets/img/Logo-virgo.jpg" height="100" />
 
@@ -46,9 +46,10 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 - **Irene Iorio**
 
-### Associate members
+### Associate members and current long term visitors
 
 - **Tanguy Delmond** (PhD student at CNES)
+- **Alexander Papadopolous** (PhD student at Glasgow University)
 
 ## Past members
 
