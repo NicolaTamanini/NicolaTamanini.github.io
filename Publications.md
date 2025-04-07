@@ -8,6 +8,11 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. E. Di Valentino et al.,
+_The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics_,
+[[arXiv:2504.01669](https://arxiv.org/abs/2504.01669)]
+
+
 1. A. Abac et al [ET Collaboration],
  _The Science of the Einstein Telescope_,
 [[arXiv:2503.12263](https://arxiv.org/abs/2503.12263)]
