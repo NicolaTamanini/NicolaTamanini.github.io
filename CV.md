@@ -296,6 +296,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited conference talks
 
+1. _GW cosmology: present and future_, Talk at the First ACME Workshop: The gravitational wave sky and complementary observations, Toulouse, France [10/04/2025]
 1. _Standard sirens with LISA_, Talk at the 15th LISA Symposium, Dublin, Ireland [08/07/2024]
 1. _Standard sirens for LISA_, Talk at the 11th LISA Cosmology Working Group Workshop, Porto, Portugal [20/06/2024] 
 1. _Cosmology with GWs and latest LVK results_, Talk at Exploring the Dark Side of the Universe Tools 2024 - 5th World Summit, Île de Noirmoutier, France [04/06/2024]
@@ -365,6 +366,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Chaired sessions at conferences
 
+1. _First ACME Workshop: The gravitational wave sky and complementary observations_, GW session, Toulouse, France [07/04/2025]
 1. _Assemblée Générale GdR Ondes Gravitationnelles_, Cosmology session, Marseille, France [15/10/2024]
 1. _LVK Collaboration Meeting_, f2f cosmology session, Barcelona, Spain [23/09/2024]
 1. _Assemblée Générale GdR Ondes Gravitationnelles_, Cosmology session, Meudon, France [16/10/2023]
@@ -384,6 +386,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Apr 2025, _First ACME Workshop: The gravitational wave sky and complementary observations_, Toulouse, France
 1. Feb 2025, _Workshop on Belgium-Netherland-France collaboration in GW physics_, Paris/online, France
 1. Oct 2024, _Assemblée Générale GdR Ondes Gravitationnelles_, Marseille, France
 2. Oct 2024, _Virgo and ET France meeting_, Caen/online, France
