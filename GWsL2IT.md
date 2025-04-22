@@ -45,6 +45,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 ### Interns and students
 
 - **Irene Iorio**
+- **Arnaud Keumurian**
 
 ### Associate members and current long term visitors
 
