@@ -169,19 +169,20 @@ University of Trento, Italy [110/110 e lode]
 - _Manuel Piarulli_, L2IT (co-supervisor; from Nov 2023)
 - _Vasco Gennari_, L2IT (from Oct 2023)
 - _Chang Liu_, Peking University (co-supervisor; from Oct 2022 to Sept 2023)
-- _Vivienne Langen_, L2IT (from Nov 2021)
+- _Vivienne Langen_, L2IT (from Nov 2021 to Apr 2025)
 
 
 ### Students supervised (all at the L2IT)
 
-- _Irene Iorio_ (M2 intern from Feb 2025 to Jul 2025)
-- _Tom Bertheas_ (M2 intern from Apr to Jul 2024; co-supervised with D. Steer (APC))
+- _Arnaud Keumurian_, (M2 intern from Mar 2025 to Aug 2025)
+- _Irene Iorio_ (M2 intern from Feb 2025 to Jul 2025; then PhD student at SISSA)
+- _Tom Bertheas_ (M2 intern from Apr to Jul 2024; co-supervised with D. Steer (APC); then PhD student at L2IT)
 - _Cyrian Jacquot_ & _Mani Larripa_ (L2 research project; from Jan to Jun 2024)
-- _Thomas Jacquot_ (M2 intern from Mar to Juk 2024; co-supervised with G. Dálya)
+- _Thomas Jacquot_ (M2 intern from Mar to Juk 2024; co-supervised with G. Dálya; then PhD student at IJCLab)
 - _Olympe Léchine_ (M2 intern from Mar to Jul 2023; co-supervised with M. Toscani)
 - _Nour Bou Zamel_ (L3 intern from Mar to Jun 2023)
-- _Rémi Delpech_ (M2 intern from Feb to July 2022; co-supervised with A. Blanchard (IRAP)) 
-- _Niccolò Muttoni_ (research assistant from Nov 2021 to Apr 2022)
+- _Rémi Delpech_ (M2 intern from Feb to July 2022; co-supervised with A. Blanchard (IRAP); then PhD student at IRAP) 
+- _Niccolò Muttoni_ (research assistant from Nov 2021 to Apr 2022; then PhD student at Univ. of Geneva)
 
 
 ### Teaching
