@@ -113,6 +113,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Academic services (internal)
 
+- Chair of the gravitational-wave research engineer application selection committee at L2IT (2025)
+- Chair of the gravitational-wave postdoctoral application selection committee at L2IT (2025)
 - Chair of the gravitational-wave PhD application selection committee at L2IT (2023)
 - Member of the selection commitee for a junior professorship chair at L2IT / Univ. Paul Sabatier (2022)
 - Chair of the gravitational-wave postdoc application selection committee at L2IT (2022)
