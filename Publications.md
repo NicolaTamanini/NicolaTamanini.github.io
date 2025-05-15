@@ -8,11 +8,6 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
-1. E. Di Valentino et al.,
-_The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics_,
-[[arXiv:2504.01669](https://arxiv.org/abs/2504.01669)]
-
-
 1. A. Abac et al [ET Collaboration],
  _The Science of the Einstein Telescope_,
 [[arXiv:2503.12263](https://arxiv.org/abs/2503.12263)]
@@ -433,6 +428,11 @@ Astrophys. J. Lett. 941 (2022) no.2, L30
 
 
 ### White papers & other documents (peer-reviewed)
+
+1. E. Di Valentino et al.,
+_The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics_,
+Accepted by Physics of the Dark Universe (2025)
+[[arXiv:2504.01669](https://arxiv.org/abs/2504.01669)]
 
 1. P. Auclair _et al_ [LISA Cosmology Working Group] (Responsibilities: co-coordinator of the white paper, co-coordinator of Chap. 2),
 _Cosmology with the Laser Interferometer Space Antenna_,
