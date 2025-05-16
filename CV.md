@@ -65,7 +65,7 @@ University of Trento, Italy [110/110 e lode]
 - _Radboud Excellence Initiative Fellowship_, Radboud University, The Netherlands, 2016 [postdoc's salary for 2 years, tot. ca. €120000]
 
 
-### Collaborative research grants led by myself
+### Collaborative research grants (leadership role)
 
 - _ANR MRSEI_ project GWCats, L2IT, Toulouse, France, 2024 (in collaboration with Univ. of Glasgow; role: PI) [collaborative research fundings, tot. €30000 for 2 year]
 - _CNRS AMORCE_ project GWGSC, L2IT, Toulouse, France, 2024 (in collaboration with Univ. of Glasgow; role: PI) [collaborative research fundings, tot. €10000 for 1 year]
@@ -105,6 +105,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Academic services (external)
 
+- Member of the HERMES’ Scientific Council, Univ. Paris Cité (2025)
 - Member of the selection committee for a PhD position at Aix-Marseille University and La Sapienza University (2023)
 - Member of the selection committee for a tenure-track full professorship position (chaire excellence) at Aix-Marseille University (2023)
 - Member of the selection committee of the ATER positions for CNU Sec 29 at Université de Toulouse Paul Sabatier (since 2022)
@@ -241,6 +242,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Refereed research proposals
 
+1. HERMES Call, Univ. Paris Cité, France, 2025
 1. Thematic programme of the Institut Pascal, Université Paris-Saclay, France, 2023
 1. EURIZON Fellowship Programme: “Remote Research Grants for Ukrainian Researchers”, EU, 2023
 1. SNSF Projects MINT, Switzerland, 2023
