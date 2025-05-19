@@ -253,7 +253,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Referee for scientific prizes
 
-1. Prix Paul Langevin of the Société Française de Physique
+1. Prix Paul Langevin of the Société Française de Physique, 2025
 
 
 ### Travel research grants
