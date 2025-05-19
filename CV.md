@@ -251,6 +251,11 @@ University of Trento, Italy [110/110 e lode]
 1. FONDECYT Regular Competition, Chile, 2018
 
 
+### Referee for scientific prizes
+
+1. Prix Paul Langevin of the Société Française de Physique
+
+
 ### Travel research grants
 
 - STSM from the COST action GWverse for a two-week visit to E. M. Rossi (Leiden Observatory) in 2019 [€2000]
