@@ -16,11 +16,13 @@ Here you can find all my publications and links to their records on the most com
 _Searching for additional structure and redshift evolution in the observed binary black hole population with a parametric time-dependent mass distribution_,
 [[arXiv:2502.20445](https://arxiv.org/abs/2502.20445)]
 
-1. A. Agarwal et al.,
-_Blinded Mock Data Challenge for Gravitational-Wave Cosmology-I: Assessing the Robustness of Methods Using Binary Black Holes Mass Spectrum_,
-[[arXiv:2412.14244](https://arxiv.org/abs/2412.14244)]
 
 ### Publications in peer-review journals (short author-list / small collaborations)
+
+1. A. Agarwal et al.,
+_Blinded Mock Data Challenge for Gravitational-Wave Cosmology-I: Assessing the Robustness of Methods Using Binary Black Holes Mass Spectrum_,
+Accepted by The Astrophysical Journal (2025)
+[[arXiv:2412.14244](https://arxiv.org/abs/2412.14244)]
 
 1. A. Mangiagli, C. Caprini, S. Marsat, L. Speri, R. R. Caldwell and N. Tamanini, 
    _Massive black hole binaries in LISA: constraining cosmological parameters at high redshifts_,
