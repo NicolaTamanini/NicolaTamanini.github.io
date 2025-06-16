@@ -98,7 +98,7 @@ Phys. Rev. D 109 (2024) no.6, 063505
 [[arXiv:2307.06722](https://arxiv.org/abs/2307.06722)]
 
 
-## PhD thesis
+## PhD theses
 
 1. Vivienne Langen, _Towards unveiling the properties of the massive black hole binary population with LISA_, 04/04/2025
 
