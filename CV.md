@@ -239,6 +239,7 @@ University of Trento, Italy [110/110 e lode]
 18. Universe
 19. Research in Astronomy and Astrophysics
 20. The Astronomical Journal
+21. Chinese Physics Letters
 
 
 ### Refereed research proposals
