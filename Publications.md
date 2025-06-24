@@ -27,13 +27,14 @@ Accepted by The Astrophysical Journal (2025)
 
 1. A. Mangiagli, C. Caprini, S. Marsat, L. Speri, R. R. Caldwell and N. Tamanini, 
    _Massive black hole binaries in LISA: constraining cosmological parameters at high redshifts_,
-   Accepted by Phys. Rev. (2025)
+   Phys. Rev. D 111 (2025) no.8, 083043
+   [[doi:10.1103/PhysRevD.111.083043](https://doi.org/10.1103/PhysRevD.111.083043)]
    [[arXiv:2312.04632](https://arxiv.org/abs/2312.04632)]
 
 1. V. Langen, N. Tamanini, S. Marsat and E. Bortolas,
 _Hierarchical Bayesian inference on an analytical model of the LISA massive black hole binary population_,
 Mon. Not. Roy. Astron. Soc. 536 (2025) n.4, 3366–3385
-[[doi.org/10.1093/mnras/stae2694](https://doi.org/10.1093/mnras/stae2694)]
+[[doi:10.1093/mnras/stae2694](https://doi.org/10.1093/mnras/stae2694)]
 [[arXiv:2409.06527](https://arxiv.org/abs/2409.06527)]
 
 1. C. Liu, D. Laghi and N. Tamanini,
