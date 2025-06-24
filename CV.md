@@ -172,7 +172,7 @@ University of Trento, Italy [110/110 e lode]
 - _Tom Bertheas_, L2IT (from Oct 2024)
 - _Manuel Piarulli_, L2IT (co-supervisor; from Nov 2023)
 - _Vasco Gennari_, L2IT (from Oct 2023)
-- _Chang Liu_, Peking University (co-supervisor; from Oct 2022 to Sept 2023)
+- _Chang Liu_, Peking University (co-supervisor; from Oct 2022 to Sept 2023; PhD thesis: _Science cases with space-based gravitational-wave detectors_)
 - _Vivienne Langen_, L2IT (from Nov 2021 to Apr 2025; PhD thesis: [_Towards unveiling the properties of the massive black hole binary population with LISA_](https://theses.fr/s304649))
 
 
