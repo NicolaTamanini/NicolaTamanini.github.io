@@ -127,6 +127,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
+1. [_4th MaNiTou Summer School on Gravitational Waves_](https://indico.in2p3.fr/event/33340/), Marseille, France, Jul 2025
 1. [_Journée LISA à Toulouse_](https://indico.in2p3.fr/event/36452/overview), Toulouse, France, Jun 2025
 1. [_3rd MaNiTou Summer School on Gravitational Waves_](https://indico.in2p3.fr/event/31714/overview), Toulouse, France, Jul 2024
 1. [_GWCats: Gravitational Wave Cosmology meets Galaxy Catalogues_](https://indico.in2p3.fr/event/33026/), Glasgow, UK, Jun 2024 [Main organiser]
