@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. A. Salvarese, H. Y. Chen, A. Mangiagli and N. Tamanini,
+_Listening Across the Cosmic Time: Standard Sirens from Ground- and Space-Based Missions in the Next Decade_,
+[[arXiv:2506.24030](https://arxiv.org/abs/arXiv:2506.24030)]
+
 1. A. Abac et al [ET Collaboration],
  _The Science of the Einstein Telescope_,
 [[arXiv:2503.12263](https://arxiv.org/abs/2503.12263)]
