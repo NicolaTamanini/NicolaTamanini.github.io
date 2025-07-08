@@ -481,7 +481,7 @@ Class. Quant. Grav. 37 (2020) 21, 215011
 
 ### White papers & other documents (not peer-reviewed)
 
-1. _C. Caprini et al.,
+1. C. Caprini et al.,
    _Science of the LISA mission: A Summary for the European Strategy for Particle Physics_,
    [[arXiv:2507.05130](https://arxiv.org/abs/2507.05130)]
 
