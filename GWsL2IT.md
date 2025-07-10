@@ -49,7 +49,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 ### Associate members and current long term visitors
 
 - **Tanguy Delmond** (PhD student at CNES)
-- **Alexander Papadopolous** (PhD student at Glasgow University)
+
 
 ## Past members
 
@@ -91,5 +91,5 @@ Mon. Not. Roy. Astron. Soc. 536 (2025) n.4, 3366–3385
 
 ## PhD theses
 
-1. Vivienne Langen, _Towards unveiling the properties of the massive black hole binary population with LISA_, 04/04/2025
+1. Vivienne Langen, [_Towards unveiling the properties of the massive black hole binary population with LISA_](https://theses.fr/s304649), 04/04/2025
 
