@@ -214,6 +214,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Participation in PhD thesis committees
 
+- Vivienne Langen, Université de Toulouse, 2025
 - Elie Leroy, Université Paris-Saclay, 2024
 - Gregoire Pierra, Université Claude Bernard Lyon 1, 2024
 - Paul Lageyre, Université de Bordeaux, 2021
@@ -401,6 +402,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Jun 2025, _Journée LISA à Toulouse_, Toulouse, France
+1. Jun 2025, _LISA DDPC Workshop_, online
 1. May 2025, _The Dawn of Gravitational Wave Cosmology_, Benasque, Spain
 1. Apr 2025, _First ACME Workshop: The gravitational wave sky and complementary observations_, Toulouse, France
 1. Feb 2025, _Workshop on Belgium-Netherland-France collaboration in GW physics_, Paris/online, France
