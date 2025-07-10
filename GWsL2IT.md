@@ -77,6 +77,8 @@ Some of the most recent publications and pre-prints authored by members of the g
 
 1. V. Gennari, S. Mastrogiovanni, N. Tamanini, S. Marsat and G. Pierra,
 _Searching for additional structure and redshift evolution in the observed binary black hole population with a parametric time-dependent mass distribution_,
+Phys. Rev. D 111 (2025) no.12, 123046
+[[doi:10.1103/ftw9-7xd5](https://doi.org/10.1103/ftw9-7xd5)]
 [[arXiv:2502.20445](https://arxiv.org/abs/2502.20445)]
 
 1. V. Langen, N. Tamanini, S. Marsat and E. Bortolas,
@@ -85,17 +87,6 @@ Mon. Not. Roy. Astron. Soc. 536 (2025) n.4, 3366–3385
 [[doi.org/10.1093/mnras/stae2694](https://doi.org/10.1093/mnras/stae2694)]
 [[arXiv:2409.06527](https://arxiv.org/abs/2409.06527)]
 
-1. C. Liu, D. Laghi and N. Tamanini,
-_Probing modified gravitational-wave propagation with extreme mass-ratio inspirals_,
-Phys. Rev. D 109 (2024) no.6, 063521
-[[doi:10.1103/PhysRevD.109.063521](https://doi.org/10.1103/PhysRevD.109.063521)]
-[[arXiv:2310.12813](https://arxiv.org/abs/2310.12813)]
-
-1. M. Toscani, O. Burke, C. Liu, N. B. Zamel, N. Tamanini and F. Pozzoli,
-_Strongly-Lensed Extreme Mass-ratio Inspirals_,
-Phys. Rev. D 109 (2024) no.6, 063505
-[[doi:10.1103/PhysRevD.109.063505](https://doi.org/10.1103/PhysRevD.109.063505)]
-[[arXiv:2307.06722](https://arxiv.org/abs/2307.06722)]
 
 
 ## PhD theses
