@@ -21,7 +21,8 @@ _Listening Across the Cosmic Time: Standard Sirens from Ground- and Space-Based 
 
 1. V. Gennari, S. Mastrogiovanni, N. Tamanini, S. Marsat and G. Pierra,
 _Searching for additional structure and redshift evolution in the observed binary black hole population with a parametric time-dependent mass distribution_,
-Accepted by Phys. Rev. (2025)
+Phys. Rev. D 111 (2025) no.12, 123046
+[[doi:10.1103/ftw9-7xd5](https://doi.org/10.1103/ftw9-7xd5)]
 [[arXiv:2502.20445](https://arxiv.org/abs/2502.20445)]
 
 1. A. Agarwal et al.,
