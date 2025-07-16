@@ -361,6 +361,10 @@ Astrophys. J. 871 (2019) L13
 ### LVK collaboration papers (negligible personal contribution)
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_GW231123: a Binary Black Hole Merger with Total Mass 190-265 $M_{\odot}$_,
+[arXiv:2507.08219]
+
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _Search for continuous gravitational waves from known pulsars in the first part of the fourth LIGO-Virgo-KAGRA observing run_,
 [[arXiv:2501.01495](https://arxiv.org/abs/2501.01495)]
 
