@@ -192,6 +192,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Teaching
 
+- _Gravitational Wave Cosmology: Measurement and Observations_, Short-term course, Dark Universe Summer School, Les Houches, France, 2025
 - _Gravitational Waves_, Short-term course, Rodolphe Cledassou Summer School, Hendaye, France, 2024
 - _Ondes Gravitationnelles_ (in French), Short-term course, Euclid Summer School, Ronce-les-Bains, France, 2023
 - _Gravitational waves and their applications to cosmology_, Invited pedagogical seminar, Mathematical foundations and applications of gravity, online, 2022
@@ -402,6 +403,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Jul 2025, _Dark Universe Summer School, Les Houches, France
 1. Jun 2025, _Journée LISA à Toulouse_, Toulouse, France
 1. Jun 2025, _LISA DDPC Workshop_, online
 1. May 2025, _The Dawn of Gravitational Wave Cosmology_, Benasque, Spain
