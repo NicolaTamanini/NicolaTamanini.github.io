@@ -454,7 +454,8 @@ Astrophys. J. Lett. 941 (2022) no.2, L30
 
 1. E. Di Valentino et al.,
 _The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics_,
-Accepted by Physics of the Dark Universe (2025)
+Phys. Dark Univ. 49 (2025), 101965
+[[doi:10.1016/j.dark.2025.101965](https://www.sciencedirect.com/science/article/pii/S221268642500158X?via%3Dihub)]
 [[arXiv:2504.01669](https://arxiv.org/abs/2504.01669)]
 
 1. P. Auclair _et al_ [LISA Cosmology Working Group] (Responsibilities: co-coordinator of the white paper, co-coordinator of Chap. 2),
