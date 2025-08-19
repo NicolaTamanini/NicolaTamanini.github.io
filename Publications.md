@@ -374,10 +374,13 @@ _GW231123: a Binary Black Hole Merger with Total Mass 190-265 $M_{\odot}$_,
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _Search for continuous gravitational waves from known pulsars in the first part of the fourth LIGO-Virgo-KAGRA observing run_,
+Astrophys. J. 983 (2025) 2, 99
+[[doi:10.3847/1538-4357/adb3a0](https://doi.org/10.3847/1538-4357/adb3a0)]
 [[arXiv:2501.01495](https://arxiv.org/abs/2501.01495)]
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _Search for gravitational waves emitted from SN 2023ixf_,
+Astrophys. J. 985 (2025) 2, 183
 [[doi:10.3847/1538-4357/adc681](https://doi.org/10.3847/1538-4357/adc681)]
 [[arXiv:2410.16565](https://arxiv.org/abs/2410.16565)]
 
