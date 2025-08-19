@@ -378,6 +378,7 @@ _Search for continuous gravitational waves from known pulsars in the first part 
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _Search for gravitational waves emitted from SN 2023ixf_,
+[[doi:10.3847/1538-4357/adc681](https://doi.org/10.3847/1538-4357/adc681)]
 [[arXiv:2410.16565](https://arxiv.org/abs/2410.16565)]
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
