@@ -363,12 +363,10 @@ Astrophys. J. 871 (2019) L13
 1. [LIGO Scientific, VIRGO and KAGRA],
 _All-sky search for short gravitational-wave bursts in the first part of the fourth LIGO-Virgo-KAGRA observing run_,
 [[arXiv:2507.12374](https://arxiv.org/abs/2507.12374)]
-%1 citations counted in INSPIRE as of 29 Jul 2025
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _All-sky search for long-duration gravitational-wave transients in the first part of the fourth LIGO-Virgo-KAGRA Observing run_,
 [[arXiv:2507.12282](https://arxiv.org/abs/2507.12282)]
-%0 citations counted in INSPIRE as of 29 Jul 2025
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _GW231123: a Binary Black Hole Merger with Total Mass 190-265 $M_{\odot}$_,
