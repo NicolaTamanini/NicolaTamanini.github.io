@@ -361,6 +361,26 @@ Astrophys. J. 871 (2019) L13
 ### LVK collaboration papers (negligible personal contribution)
 
 1. [LIGO Scientific, VIRGO and KAGRA],
+_GWTC-4.0: Population Properties of Merging Compact Binaries_,
+[[arXiv:2508.18083](https://arxiv.org/abs/2508.18083)]
+
+1. [LIGO Scientific, VIRGO and KAGRA],
+_Open Data from LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing Run_,
+[[arXiv:2508.18079](https://arxiv.org/abs/2508.18079)]
+
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_GWTC-4.0: Methods for Identifying and Characterizing Gravitational-wave Transients_,
+[[arXiv:2508.18081](https://arxiv.org/abs/2508.18081)]
+
+1. [LIGO Scientific, VIRGO and KAGRA],
+ _GWTC-4.0: Updating the Gravitational-Wave Transient Catalog with Observations from the First Part of the Fourth LIGO-Virgo-KAGRA Observing Run_,
+[[arXiv:2508.18082](https://arxiv.org/abs/2508.18082)]
+
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+   _GWTC-4.0: An Introduction to Version 4.0 of the Gravitational-Wave Transient Catalog_,
+[[arXiv:2508.18080](https://arxiv.org/abs/2508.18080)]
+
+1. [LIGO Scientific, VIRGO and KAGRA],
 _All-sky search for short gravitational-wave bursts in the first part of the fourth LIGO-Virgo-KAGRA observing run_,
 [[arXiv:2507.12374](https://arxiv.org/abs/2507.12374)]
 
