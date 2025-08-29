@@ -16,10 +16,6 @@ _Towards a few percent measurement of the Hubble constant with the current netwo
 _Listening Across the Cosmic Time: Standard Sirens from Ground- and Space-Based Missions in the Next Decade_,
 [[arXiv:2506.24030](https://arxiv.org/abs/arXiv:2506.24030)]
 
-1. A. Abac et al [ET Collaboration],
- _The Science of the Einstein Telescope_,
-[[arXiv:2503.12263](https://arxiv.org/abs/2503.12263)]
-
 
 ### Publications in peer-review journals (short author-list / small collaborations)
 
@@ -364,6 +360,10 @@ Astrophys. J. 871 (2019) L13
 
 ### LVK collaboration papers (negligible personal contribution)
 
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_Upper Limits on the Isotropic Gravitational-Wave Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing Run_,
+[[arXiv:2508.20721](https://arxiv.org/abs/2508.20721)])
+
 1. [LIGO Scientific, VIRGO and KAGRA],
 _GWTC-4.0: Population Properties of Merging Compact Binaries_,
 [[arXiv:2508.18083](https://arxiv.org/abs/2508.18083)]
@@ -477,6 +477,11 @@ Astrophys. J. Lett. 941 (2022) no.2, L30
 
 
 ### White papers & other documents (peer-reviewed)
+
+1. A. Abac et al [ET Collaboration],
+ _The Science of the Einstein Telescope_,
+Accepted by JCAP (2025)
+[[arXiv:2503.12263](https://arxiv.org/abs/2503.12263)]
 
 1. E. Di Valentino et al.,
 _The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics_,
