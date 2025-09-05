@@ -12,12 +12,13 @@ Here you can find all my publications and links to their records on the most com
 _Towards a few percent measurement of the Hubble constant with the current network of gravitational wave detectors without using electromagnetic information_,
 [[arXiv:2508.19331](https://arxiv.org/abs/arXiv:2508.19331)]
 
-1. A. Salvarese, H. Y. Chen, A. Mangiagli and N. Tamanini,
-_Listening Across the Cosmic Time: Standard Sirens from Ground- and Space-Based Missions in the Next Decade_,
-[[arXiv:2506.24030](https://arxiv.org/abs/arXiv:2506.24030)]
-
 
 ### Publications in peer-review journals (short author-list / small collaborations)
+
+1. A. Salvarese, H. Y. Chen, A. Mangiagli and N. Tamanini,
+_Listening Across the Cosmic Time: Standard Sirens from Ground- and Space-Based Missions in the Next Decade_,
+Accepted by Class. Quant. Grav. (2025)
+[[arXiv:2506.24030](https://arxiv.org/abs/arXiv:2506.24030)]
 
 1. V. Gennari, S. Mastrogiovanni, N. Tamanini, S. Marsat and G. Pierra,
 _Searching for additional structure and redshift evolution in the observed binary black hole population with a parametric time-dependent mass distribution_,
