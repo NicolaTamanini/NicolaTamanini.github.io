@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. [LIGO Scientific, VIRGO and KAGRA],
+_GWTC-4.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation_,
+[[arXiv:2509.04348](https://arxiv.org/abs/arXiv:2508.19331)]
+
 1. T. Bertheas, V. Gennari and N. Tamanini,
 _Towards a few percent measurement of the Hubble constant with the current network of gravitational wave detectors without using electromagnetic information_,
 [[arXiv:2508.19331](https://arxiv.org/abs/arXiv:2508.19331)]
