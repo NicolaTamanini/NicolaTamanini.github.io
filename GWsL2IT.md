@@ -28,6 +28,10 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 - **Maxime Pigou** (Computing, Algorithms and Data group)
 - **Antsa Rasamoela** (Computing, Algorithms and Data group)
 
+### Non-permanent members contributing from other L2IT groups
+
+- **Emma Mauger** (Computing, Algorithms and Data group)
+
 ### Postdocs
 
 - **Gergely Dálya**
@@ -43,8 +47,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 ### Interns and students
 
-- **Irene Iorio**
-- **Arnaud Keumurian**
+-
 
 ### Associate members and current long term visitors
 
@@ -55,6 +58,8 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 Here are the people that were part of the L2IT GW group in the past:
 
+- **Irene Iorio** (M2 intern from Feb 2025 to Jul 2025)
+- **Arnaud Keumurian** (M2 intern from Apr 2025 to Aug 2025)
 - **Vivienne Langen** (PhD student from Nov 2021 to April 2025)
 - **Ollie Burke** (Postdoc from Sept 2022 to Dec 2024; then postdoc at Glasgow University)
 - **Alice Perego** (M2 intern from March to July 2024; then PhD student at Observatoire de la côte d'Azur)
@@ -74,6 +79,10 @@ Here are the people that were part of the L2IT GW group in the past:
 ## Recent work 
 
 Some of the most recent publications and pre-prints authored by members of the group:
+
+1. T. Bertheas, V. Gennari and N. Tamanini,
+   _Towards a few percent measurement of the Hubble constant with the current network of gravitational wave detectors without using electromagnetic information_,
+   [[arXiv:2508.19331](https://arxiv.org/abs/2508.19331)]
 
 1. V. Gennari, S. Mastrogiovanni, N. Tamanini, S. Marsat and G. Pierra,
 _Searching for additional structure and redshift evolution in the observed binary black hole population with a parametric time-dependent mass distribution_,
