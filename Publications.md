@@ -369,23 +369,23 @@ Astrophys. J. 871 (2019) L13
 _GW250114: Testing Hawking{\textquoteright}s Area Law and the Kerr Nature of Black Holes_,
 Phys. Rev. Lett. 135 (2025) no.11, 111403
 [[doi:10.1103/kw5g-d732](https://doi.org/10.1103/kw5g-d732)]
-[arXiv:2509.08054](https://arxiv.org/abs/2509.08054)])
+[[arXiv:2509.08054](https://arxiv.org/abs/2509.08054)]
 
 1. [LIGO Scientific, VIRGO and KAGRA],
 _Black Hole Spectroscopy and Tests of General Relativity with GW250114_,
-[arXiv:2509.08099](https://arxiv.org/abs/2509.08099)])
+[[arXiv:2509.08099](https://arxiv.org/abs/2509.08099)]
 
 1. [LIGO Scientific, VIRGO and Kagra],
 _GW230814: investigation of a loud gravitational-wave signal observed with a single detector_,
-[arXiv:2509.07348](https://arxiv.org/abs/2509.07348)])
+[[arXiv:2509.07348](https://arxiv.org/abs/2509.07348)]
 
 1. [LIGO Scientific, VIRGO and KAGRA],
 _Directed searches for gravitational waves from ultralight vector boson clouds around merger remnant and galactic black holes during the first part of the fourth LIGO-Virgo-KAGRA observing run_,
-[arXiv:2509.07352](https://arxiv.org/abs/2509.07352)])
+[[arXiv:2509.07352](https://arxiv.org/abs/2509.07352)]
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _Upper Limits on the Isotropic Gravitational-Wave Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing Run_,
-[[arXiv:2508.20721](https://arxiv.org/abs/2508.20721)])
+[[arXiv:2508.20721](https://arxiv.org/abs/2508.20721)]
 
 1. [LIGO Scientific, VIRGO and KAGRA],
 _GWTC-4.0: Population Properties of Merging Compact Binaries_,
