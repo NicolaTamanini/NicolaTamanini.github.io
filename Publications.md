@@ -366,7 +366,7 @@ Astrophys. J. 871 (2019) L13
 ### LVK collaboration papers (negligible personal contribution)
 
 1. A. G. Abac et al. [LIGO Scientific, KAGRA and Virgo],
-_GW250114: Testing Hawking{\textquoteright}s Area Law and the Kerr Nature of Black Holes_,
+_GW250114: Testing Hawking's Area Law and the Kerr Nature of Black Holes_,
 Phys. Rev. Lett. 135 (2025) no.11, 111403
 [[doi:10.1103/kw5g-d732](https://doi.org/10.1103/kw5g-d732)]
 [[arXiv:2509.08054](https://arxiv.org/abs/2509.08054)]
