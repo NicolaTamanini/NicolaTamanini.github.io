@@ -149,7 +149,7 @@ University of Trento, Italy [110/110 e lode]
 1. _GW Job Fair_, online, Nov 2021 [Member of the OC]
 1. _GW Early Career Scientists (GWECS) Meeting_, online, Sept 2021 [Chair of the OC]
 1. _GW Early Career Scientists Funding Opportunity Workshop_, online, Jun 2021 [Member of the OC]
-1. _Workshop on Gravitational Waves Astrophysics for Early Career Scientists (GWÆCS)_, online (Lorentz Center workshop), May 2021 [Chair of the OC]
+1. [_Workshop on Gravitational Waves Astrophysics for Early Career Scientists (GWÆCS)_](https://www.lorentzcenter.nl/workshop-on-gravitational-wave-astrophysics-for-early-career-scientists.html), online (Lorentz Center workshop), May 2021 [Chair of the OC]
 1. _LECS webinar: European research funding opportunities for early career scientists_, online, Jul 2020 [Organiser]
 1. _Progress on Old and New Themes in Cosmology (PONT)_, Avignon, France, Apr 2017 [Member of the OC]
 
