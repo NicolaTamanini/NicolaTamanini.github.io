@@ -32,7 +32,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 ### Non-permanent members contributing from other L2IT groups
 
 - **Emma Mauger** (Computing, Algorithms and Data group)
-- - **Senwen Deng** (Computing, Algorithms and Data group; starting Jan 2026)
+- **Senwen Deng** (Computing, Algorithms and Data group; starting Jan 2026)
 
 ### Postdocs
 
