@@ -170,25 +170,25 @@ University of Trento, Italy [110/110 e lode]
 
 ### PhD students supervised
 
-- _Zheng Wu_, L2IT (from Oct 2024)
-- _Tom Bertheas_, L2IT (from Oct 2024)
-- _Manuel Piarulli_, L2IT (co-supervisor; from Nov 2023)
-- _Vasco Gennari_, L2IT (from Oct 2023)
-- _Chang Liu_, Peking University (co-supervisor; from Oct 2022 to Sept 2023; PhD thesis: _Science cases with space-based gravitational-wave detectors_)
-- _Vivienne Langen_, L2IT (from Nov 2021 to Apr 2025; PhD thesis: [_Towards unveiling the properties of the massive black hole binary population with LISA_](https://theses.fr/s304649))
+1. _Zheng Wu_, L2IT (from Oct 2024)
+1. _Tom Bertheas_, L2IT (from Oct 2024)
+1. _Manuel Piarulli_, L2IT (co-supervisor; from Nov 2023)
+1. _Vasco Gennari_, L2IT (from Oct 2023)
+1. _Chang Liu_, Peking University (co-supervisor; from Oct 2022 to Sept 2023; PhD thesis: _Science cases with space-based gravitational-wave detectors_)
+1. _Vivienne Langen_, L2IT (from Nov 2021 to Apr 2025; PhD thesis: [_Towards unveiling the properties of the massive black hole binary population with LISA_](https://theses.fr/s304649))
 
 
 ### Students supervised (all at the L2IT)
 
-- _Arnaud Keumurian_, (M2 intern from Mar 2025 to Aug 2025)
-- _Irene Iorio_ (M2 intern from Feb 2025 to Jul 2025; then PhD student at SISSA)
-- _Tom Bertheas_ (M2 intern from Apr to Jul 2024; co-supervised with D. Steer (APC); then PhD student at L2IT)
-- _Cyrian Jacquot_ & _Mani Larripa_ (L2 research project; from Jan to Jun 2024)
-- _Thomas Jacquot_ (M2 intern from Mar to Juk 2024; co-supervised with G. Dálya; then PhD student at IJCLab)
-- _Olympe Léchine_ (M2 intern from Mar to Jul 2023; co-supervised with M. Toscani)
-- _Nour Bou Zamel_ (L3 intern from Mar to Jun 2023)
-- _Rémi Delpech_ (M2 intern from Feb to July 2022; co-supervised with A. Blanchard (IRAP); then PhD student at IRAP) 
-- _Niccolò Muttoni_ (research assistant from Nov 2021 to Apr 2022; then PhD student at Univ. of Geneva)
+1. _Arnaud Keumurian_, (M2 intern from Mar 2025 to Aug 2025)
+1. _Irene Iorio_ (M2 intern from Feb 2025 to Jul 2025; then PhD student at SISSA)
+1. _Tom Bertheas_ (M2 intern from Apr to Jul 2024; co-supervised with D. Steer (APC); then PhD student at L2IT)
+1. _Cyrian Jacquot_ & _Mani Larripa_ (L2 research project; from Jan to Jun 2024)
+1. _Thomas Jacquot_ (M2 intern from Mar to Juk 2024; co-supervised with G. Dálya; then PhD student at IJCLab)
+1. _Olympe Léchine_ (M2 intern from Mar to Jul 2023; co-supervised with M. Toscani)
+1. _Nour Bou Zamel_ (L3 intern from Mar to Jun 2023)
+1. _Rémi Delpech_ (M2 intern from Feb to July 2022; co-supervised with A. Blanchard (IRAP); then PhD student at IRAP) 
+1. _Niccolò Muttoni_ (research assistant from Nov 2021 to Apr 2022; then PhD student at Univ. of Geneva)
 
 
 ### Teaching
@@ -404,7 +404,9 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
-1. Jul 2025, _Dark Universe Summer School, Les Houches, France
+1. Oct 2025, _Virgo and ET France Meeting_, Lyon, France
+1. Sept 2025, _Shedding Light on Dark Sirens_, Lorentz Center Workshop, Leiden, The Netherlands
+1. Jul 2025, _Dark Universe Summer School_, Les Houches, France
 1. Jun 2025, _Journée LISA à Toulouse_, Toulouse, France
 1. Jun 2025, _LISA DDPC Workshop_, online
 1. May 2025, _The Dawn of Gravitational Wave Cosmology_, Benasque, Spain
