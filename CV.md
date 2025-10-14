@@ -67,7 +67,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Collaborative research grants (leadership role)
 
-- _ANR MRSEI_ project GWCats, L2IT, Toulouse, France, 2024 (in collaboration with Univ. of Glasgow; role: PI) [collaborative research fundings, tot. €30000 for 2 year]
+- _OSCARS_ project _UpGLADE: community-driven open-data infrastructure for gravitational-wave cosmology_, L2IT, Toulouse, France, 2025 [tot. €250000 for 2 years]
+- _ANR MRSEI_ project _GWCats_, L2IT, Toulouse, France, 2024 (in collaboration with Univ. of Glasgow; role: PI) [collaborative research fundings, tot. €30000 for 2 year]
 - _CNRS AMORCE_ project GWGSC, L2IT, Toulouse, France, 2024 (in collaboration with Univ. of Glasgow; role: PI) [collaborative research fundings, tot. €10000 for 1 year]
 - _Plan Nationaux de l'INSU_, L2IT, Toulouse, France, 2023 (in collaboration with IRAP, CPPM, CPT, ARTEMIS; role: PI) [fundings for the summer school _MaNiTou_, tot. €8000]
 - _Écoles thematiques du CNRS_, L2IT, Toulouse, France, 2023 (in collaboration with IRAP, CPPM, CPT, ARTEMIS; role: PI) [fundings for the summer school _MaNiTou_, tot. €5500]
@@ -98,7 +99,7 @@ University of Trento, Italy [110/110 e lode]
 - Coordinator of the cosmology working group of the _GdR Ondes Gravitationnelles_ (since 2022)
 - Elected early-career chair of the _LISA Cosmology Working Group_ (from 2021 to 2024)
 - Chair of the _LIGO-Virgo-Kagra Cosmology Working Group_ (from 2021 to 2024)
-- Member of the _LISA Consortium Publication and Presentation (P&P) Committee_ (since 2021)
+- Member of the _LISA Consortium Publication and Presentation (P&P) Committee_ (from 2021 to 2024)
 - Coordinator of the _LISA Science Group sub-working package_ on estimation of cosmological parameters and standard sirens (from 2019 to 2024)
 - Elected chair of the _LISA Early Career Scientists_ (LECS) group (from 2019 to 2021)
 
@@ -384,6 +385,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Chaired sessions at conferences
 
+1. _Assemblée Générale GdR Ondes Gravitationnelles_, Cosmology session, Paris, France [13/10/2025]
 1. _First ACME Workshop: The gravitational wave sky and complementary observations_, GW session, Toulouse, France [07/04/2025]
 1. _Assemblée Générale GdR Ondes Gravitationnelles_, Cosmology session, Marseille, France [15/10/2024]
 1. _LVK Collaboration Meeting_, f2f cosmology session, Barcelona, Spain [23/09/2024]
@@ -404,6 +406,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Oct 2025, _Cosmology meeting of the GdR Ondes Gravitationnelles_, Paris, France
+1. Oct 2025, _Assemblée Générale GdR Ondes Gravitationnelles_, Paris, France
 1. Oct 2025, _Virgo and ET France Meeting_, Lyon, France
 1. Sept 2025, _Shedding Light on Dark Sirens_, Lorentz Center Workshop, Leiden, The Netherlands
 1. Jul 2025, _Dark Universe Summer School_, Les Houches, France
