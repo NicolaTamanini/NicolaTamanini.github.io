@@ -363,7 +363,12 @@ Astrophys. J. 871 (2019) L13
 
 
 
-### LVK collaboration papers (negligible personal contribution)
+### LVK and Virgo collaboration papers (negligible personal contribution)
+
+1. [Virgo Collaboration]
+_Optical characterization of the Advanced Virgo gravitational wave detector for the O4 observing run_,
+Applied Optics Vol. 64, Issue 17, pp. 4710-4726 (2025)
+[[doi:10.1364/AO.555312](https://doi.org/10.1364/AO.555312)]
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _Directional Search for Persistent Gravitational Waves: Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing Run_,
