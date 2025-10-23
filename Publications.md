@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. M. Piarulli, S. Marsat, E. M. Sänger, A. Buonanno, J. Steinhoff and N. Tamanini,
+_A Parametrized Test of General Relativity for LISA Massive Black Hole Binary Inspirals_,
+[[arXiv:2510.06330](https://arxiv.org/abs/arXiv:2510.06330)]
+
 1. [LIGO Scientific, VIRGO and KAGRA],
 _GWTC-4.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation_,
 [[arXiv:2509.04348](https://arxiv.org/abs/arXiv:2509.04348)]
