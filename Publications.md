@@ -371,6 +371,11 @@ Astrophys. J. 871 (2019) L13
 
 ### LVK and Virgo collaboration papers (negligible personal contribution)
 
+1. A. G. Abac et al. [LIGO Scientific, Virgo, and KAGRA],
+_GW241011 and GW241110: Exploring Binary Formation and Fundamental Physics with Asymmetric, High-spin Black Hole Coalescences_,
+Astrophys. J. Lett. 993 (2025) no.1, L21
+[[doi:10.3847/2041-8213/ae0d54](https://doi.org/10.3847/2041-8213/ae0d54)]
+
 1. [Virgo Collaboration]
 _Optical characterization of the Advanced Virgo gravitational wave detector for the O4 observing run_,
 Applied Optics Vol. 64, Issue 17, pp. 4710-4726 (2025)
