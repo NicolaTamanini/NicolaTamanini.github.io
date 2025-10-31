@@ -25,7 +25,8 @@ _Towards a few percent measurement of the Hubble constant with the current netwo
 
 1. A. Salvarese, H. Y. Chen, A. Mangiagli and N. Tamanini,
 _Listening Across the Cosmic Time: Standard Sirens from Ground- and Space-Based Missions in the Next Decade_,
-Accepted by Class. Quant. Grav. (2025)
+Class. Quant. Grav. 42 (2025) no.19, 195002
+[[doi:10.1088/1361-6382/ae05ab](https://doi.org/10.1088/1361-6382/ae05ab)]
 [[arXiv:2506.24030](https://arxiv.org/abs/arXiv:2506.24030)]
 
 1. V. Gennari, S. Mastrogiovanni, N. Tamanini, S. Marsat and G. Pierra,
