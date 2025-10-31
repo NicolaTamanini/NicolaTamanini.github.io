@@ -37,7 +37,8 @@ Phys. Rev. D 111 (2025) no.12, 123046
 
 1. A. Agarwal et al.,
 _Blinded Mock Data Challenge for Gravitational-Wave Cosmology-I: Assessing the Robustness of Methods Using Binary Black Holes Mass Spectrum_,
-Accepted by The Astrophysical Journal (2025)
+Astrophys. J. 987 (2025) no.1, 47
+[[doi:10.3847/1538-4357/adda3a]((https://doi.org/10.3847/1538-4357/adda3a)]
 [[arXiv:2412.14244](https://arxiv.org/abs/2412.14244)]
 
 1. A. Mangiagli, C. Caprini, S. Marsat, L. Speri, R. R. Caldwell and N. Tamanini, 
