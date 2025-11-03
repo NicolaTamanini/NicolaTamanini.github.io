@@ -371,7 +371,9 @@ Astrophys. J. 871 (2019) L13
 
 ### LVK and Virgo collaboration papers (negligible personal contribution)
 
-
+1. [LIGO Scientific, VIRGO and KAGRA],
+_Cosmological and High Energy Physics implications from gravitational-wave background searches in LIGO-Virgo-KAGRA's O1-O4a runs_,
+[[arXiv:2510.26848](https://arxiv.org/abs/2510.26848)]
 
 1. LIGO Scientific, VIRGO and KAGRA],
 _Direct multi-model dark-matter search with gravitational-wave interferometers using data from the first part of the fourth LIGO-Virgo-KAGRA observing run_,
