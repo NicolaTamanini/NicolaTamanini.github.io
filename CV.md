@@ -383,8 +383,9 @@ University of Trento, Italy [110/110 e lode]
 1. _Hybrid metric-Palatini gravities_, Poster presentation at the 20th International Conference on General Relativity and Gravitation, Warsaw, Poland [07/07/2013]
 
 
-### Chaired sessions at conferences
+### Chaired and convened sessions at conferences
 
+1. _TeVPA 2025_, GW session, Valencia, Spain [03/11/2025]
 1. _Assemblée Générale GdR Ondes Gravitationnelles_, Cosmology session, Paris, France [13/10/2025]
 1. _First ACME Workshop: The gravitational wave sky and complementary observations_, GW session, Toulouse, France [07/04/2025]
 1. _Assemblée Générale GdR Ondes Gravitationnelles_, Cosmology session, Marseille, France [15/10/2024]
@@ -406,6 +407,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Nov 2025, _TeVPA 2025_, Valencia, Spain
 1. Oct 2025, _Cosmology meeting of the GdR Ondes Gravitationnelles_, Paris, France
 1. Oct 2025, _Assemblée Générale GdR Ondes Gravitationnelles_, Paris, France
 1. Oct 2025, _Virgo and ET France Meeting_, Lyon, France
