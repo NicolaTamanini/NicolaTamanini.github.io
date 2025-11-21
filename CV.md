@@ -67,7 +67,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Collaborative research grants (leadership role)
 
-- _OSCARS_ project _UpGLADE: community-driven open-data infrastructure for gravitational-wave cosmology_, L2IT, Toulouse, France, 2025 [tot. €250000 for 2 years]
+- _OSCARS_ project _UpGLADE: community-driven open-data infrastructure for gravitational-wave cosmology_, L2IT, Toulouse, France, 2025 (role: co-PI) [tot. €250000 for 2 years]
 - _ANR MRSEI_ project _GWCats_, L2IT, Toulouse, France, 2024 (in collaboration with Univ. of Glasgow; role: PI) [collaborative research fundings, tot. €30000 for 2 year]
 - _CNRS AMORCE_ project GWGSC, L2IT, Toulouse, France, 2024 (in collaboration with Univ. of Glasgow; role: PI) [collaborative research fundings, tot. €10000 for 1 year]
 - _Plan Nationaux de l'INSU_, L2IT, Toulouse, France, 2023 (in collaboration with IRAP, CPPM, CPT, ARTEMIS; role: PI) [fundings for the summer school _MaNiTou_, tot. €8000]
