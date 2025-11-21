@@ -128,6 +128,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
+1. [Journée du groupe de travail sur la cosmologie du GdR ondes gravitationnelles](https://indico.in2p3.fr/event/36685/), IAP, Paris, France, Oct 2025 [Main organiser]
 1. [_Shedding light on dark sirens_](https://www.lorentzcenter.nl/shedding-light-on-dark-sirens.html), Lorentz Center Workshop, Leiden, The Netherlands, Sept 2025 [Member of the OC]
 1. [_4th MaNiTou Summer School on Gravitational Waves_](https://indico.in2p3.fr/event/33340/), Marseille, France, Jul 2025 [Member of the SOC]
 1. [_Journée LISA à Toulouse_](https://indico.in2p3.fr/event/36452/overview), Toulouse, France, Jun 2025 [Main organiser]
