@@ -372,6 +372,10 @@ Astrophys. J. 871 (2019) L13
 ### LVK and Virgo collaboration papers (negligible personal contribution)
 
 1. [LIGO Scientific, VIRGO and KAGRA],
+_All-sky search for continuous gravitational-wave signals from unknown neutron stars in binary systems in the first part of the fourth LIGO-Virgo-KAGRA observing run_,
+[[arXiv:2511.16863](https://arxiv.org/abs/2511.16863)]
+
+1. [LIGO Scientific, VIRGO and KAGRA],
 _Cosmological and High Energy Physics implications from gravitational-wave background searches in LIGO-Virgo-KAGRA's O1-O4a runs_,
 [[arXiv:2510.26848](https://arxiv.org/abs/2510.26848)]
 
