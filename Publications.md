@@ -537,7 +537,8 @@ Astrophys. J. Lett. 941 (2022) no.2, L30
 
 1. A. Abac et al [ET Collaboration],
  _The Science of the Einstein Telescope_,
-Accepted by JCAP (2025)
+JCAP 07 (2023), 068
+[[doi:10.1088/1475-7516/2023/07/068](https://doi.org/10.1088/1475-7516/2023/07/068)]
 [[arXiv:2503.12263](https://arxiv.org/abs/2503.12263)]
 
 1. E. Di Valentino et al.,
