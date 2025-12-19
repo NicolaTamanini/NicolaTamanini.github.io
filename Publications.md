@@ -373,6 +373,10 @@ Astrophys. J. 871 (2019) L13
 ### LVK and Virgo collaboration papers (negligible personal contribution)
 
 1. [LIGO Scientific, VIRGO and KAGRA],
+_GWTC-4.0: Searches for Gravitational-Wave Lensing Signatures_,
+[[arXiv:2512.16347](https://arxiv.org/abs/2512.16347)]
+
+1. [LIGO Scientific, VIRGO and KAGRA],
 _All-sky search for continuous gravitational-wave signals from unknown neutron stars in binary systems in the first part of the fourth LIGO-Virgo-KAGRA observing run_,
 [[arXiv:2511.16863](https://arxiv.org/abs/2511.16863)]
 
