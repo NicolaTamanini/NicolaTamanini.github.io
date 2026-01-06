@@ -372,6 +372,10 @@ Astrophys. J. 871 (2019) L13
 
 ### LVK and Virgo collaboration papers (negligible personal contribution)
 
+1. J. Palfreyman t al. [LIGO Scientific, VIRGO and KAGRA],
+   _Constraints on gravitational waves from the 2024 Vela pulsar glitch_,
+   [[arXiv:2512.17990](https://arxiv.org/abs/2512.17990)]
+
 1. [LIGO Scientific, VIRGO and KAGRA],
 _GWTC-4.0: Searches for Gravitational-Wave Lensing Signatures_,
 [[arXiv:2512.16347](https://arxiv.org/abs/2512.16347)]
