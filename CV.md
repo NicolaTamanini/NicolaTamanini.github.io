@@ -46,9 +46,9 @@ University of Trento, Italy [110/110 e lode]
 ### Institutional appointements
 
 - Director of the _GdR Ondes Gravitationnelles_  (since 2026)
-- Nominated member of the Conseil _Scientifique of the IN2P3_ (since 2026)
-- Member of the Comité de Pilotage and of the Conseil Scientifique of the _GdR Ondes Gravitationnelles_ (since 2022)
-- Coordinator of the cosmology working group of the _GdR Ondes Gravitationnelles_ (since 2022)
+- Nominated member of the _Conseil Scientifique of the IN2P3_ (since 2026)
+- Member of the _Comité de Pilotage_ and of the _Conseil Scientifique_ of the _GdR Ondes Gravitationnelles_ (since 2022)
+- Coordinator of the cosmology working group of the _GdR Ondes Gravitationnelles_ (from 2022 to 2026)
 
 ### Large collaboration memberships
 
