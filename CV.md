@@ -217,7 +217,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Reviewed theses (external reviewer)
 
-- _From Galaxy Catalogues to Gravitational Wave Cosmology: Unlocking Hidden Multi-Messenger Information_, Maria Lisa Brozzetti, Università di Perugia, 2025
+- _Shedding light on dark sirens_, Cezary Turski, Ghent University, 2026
+- _From Galaxy Catalogues to Gravitational Wave Cosmology: Unlocking Hidden Multi-Messenger Information_, Maria Lisa Brozzetti, Università di Perugia, 2026
 - _Dark Siren Cosmology and Binary Black Holes Populations with LIGO-Virgo-KAGRA Gravitational Waves_, Grégoire Pierra, PhD thesis, Université Claude Bernard Lyon 1, 2024
 - _Étude de l'influence gravitationnelle d'une impulsion lumineuse_, Paul Lageyre, PhD thesis, Université de Bordeaux, 2021
 - _The astrophysics of black hole binaries in the era of gravitational wave astronomy_, Alberto Mangiagli, PhD thesis, Università degli Studi di Milano-Bicocca, 2020
