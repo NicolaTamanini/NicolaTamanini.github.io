@@ -32,12 +32,11 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 ### Non-permanent members contributing from other L2IT groups
 
 - **Emma Mauger** (Computing, Algorithms and Data group)
-- **Senwen Deng** (Computing, Algorithms and Data group; starting Jan 2026)
+- **Senwen Deng** (Computing, Algorithms and Data group; starting Feb 2026)
 
 ### Postdocs
 
 - **Gergely Dálya**
-- **Monica Seglar-Arroyo** (starting Feb 2026)
 - **Alice Spadaro** (starting Apr 2026)
 
 ### PhD students
@@ -51,11 +50,14 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 ### Interns and students
 
--
+- **Valentina Panteleeva** (starting Feb 2026; remote internship)
+- **Youssef Gebreel** (Starting Mar 2026)
+- **Asad Mahdi** (Starting Mar 2026)
 
 ### Associate members and current long term visitors
 
 - **Tanguy Delmond** (PhD student at CNES)
+- **Francesco Nobili** (PhD student at Università dell'Insubria, Italy)
 
 
 ## Past members
