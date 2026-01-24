@@ -36,14 +36,12 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 ### Postdocs
 
-- **Gergely Dálya**
 - **Alice Spadaro** (starting Apr 2026)
 
 ### PhD students
 
 - **Tom Bertheas** (jointly with the LPENS Paris)
 - **Zheng Wu** 
-- **Rémi Delpech** (jointly with the IRAP Toulouse)
 - **Vasco Gennari**
 - **Manuel Piarulli**
 - **Clèment Jacquet**
@@ -64,6 +62,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 Here are the people that were part of the L2IT GW group in the past:
 
+- **Gergely Dálya** (Postdoc from Feb 2024 to Feb 2026; then faculty at the University of Budapest)
 - **Irene Iorio** (M2 intern from Feb 2025 to Jul 2025; then PhD student at SISSA)
 - **Arnaud Keumurian** (M2 intern from Apr 2025 to Aug 2025)
 - **Vivienne Langen** (PhD student from Nov 2021 to April 2025)
