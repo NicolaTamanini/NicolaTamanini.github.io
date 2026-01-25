@@ -543,12 +543,6 @@ Astrophys. J. Lett. 941 (2022) no.2, L30
 
 ### White papers & other documents (peer-reviewed)
 
-1. A. Abac et al [ET Collaboration],
- _The Science of the Einstein Telescope_,
-JCAP 07 (2023), 068
-[[doi:10.1088/1475-7516/2023/07/068](https://doi.org/10.1088/1475-7516/2023/07/068)]
-[[arXiv:2503.12263](https://arxiv.org/abs/2503.12263)]
-
 1. E. Di Valentino et al.,
 _The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics_,
 Phys. Dark Univ. 49 (2025), 101965
@@ -593,6 +587,10 @@ Class. Quant. Grav. 37 (2020) 21, 215011
 
 
 ### White papers & other documents (not peer-reviewed)
+
+1. A. Abac et al [ET Collaboration],
+ _The Science of the Einstein Telescope_,
+[[arXiv:2503.12263](https://arxiv.org/abs/2503.12263)]
 
 1. C. Caprini et al.,
    _Science of the LISA mission: A Summary for the European Strategy for Particle Physics_,
