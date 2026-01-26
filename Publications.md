@@ -453,6 +453,8 @@ Astrophys. J. Lett. 995 (2025) no.1, L18
 
 1. [LIGO Scientific, VIRGO and KAGRA],
 _All-sky search for short gravitational-wave bursts in the first part of the fourth LIGO-Virgo-KAGRA observing run_,
+Phys. Rev. D 112 (2025) no.10, 102005
+[[doi:10.1103/wjdz-jdby](https://doi.org/10.1103/wjdz-jdby)]
 [[arXiv:2507.12374](https://arxiv.org/abs/2507.12374)]
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
@@ -461,6 +463,8 @@ _All-sky search for long-duration gravitational-wave transients in the first par
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _GW231123: a Binary Black Hole Merger with Total Mass 190-265 $M_{\odot}$_,
+Astrophys. J. Lett. 993 (2025) no.1, L25
+[[doi:10.3847/2041-8213/ae0c9c](https://doi.org/10.3847/2041-8213/ae0c9c)]
 [[arXiv:2507.08219](https://arxiv.org/abs/2507.08219)]
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
