@@ -447,6 +447,8 @@ _GWTC-4.0: Methods for Identifying and Characterizing Gravitational-wave Transie
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
    _GWTC-4.0: An Introduction to Version 4.0 of the Gravitational-Wave Transient Catalog_,
+Astrophys. J. Lett. 995 (2025) no.1, L18
+[[doi:10.3847/2041-8213/ae0c06](https://doi.org/10.3847/2041-8213/ae0c06)]
 [[arXiv:2508.18080](https://arxiv.org/abs/2508.18080)]
 
 1. [LIGO Scientific, VIRGO and KAGRA],
