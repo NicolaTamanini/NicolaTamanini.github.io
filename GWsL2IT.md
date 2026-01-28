@@ -49,8 +49,8 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 ### Interns and students
 
 - **Valentina Panteleeva** (starting Feb 2026; remote internship)
-- **Youssef Gebreel** (Starting Mar 2026)
-- **Asad Mahdi** (Starting Mar 2026)
+- **Youssef Gebreel** (starting Mar 2026)
+- **Asad Mahdi** (starting Mar 2026)
 
 ### Associate members and current long term visitors
 
