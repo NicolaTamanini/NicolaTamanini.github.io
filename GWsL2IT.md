@@ -74,7 +74,7 @@ Here are the people that were part of the L2IT GW group in the past:
 - **Martina Toscani** (Postdoc from Nov 2021 to Oct 2023; then postdoc at Univ. of Milano Bicocca)
 - **Chang Liu** (Visiting PhD student from Peking University, China, from Oct 2022 to Sept 2023)
 - **Olympe Léchine** (M2 intern from Mar 2023 to Aug 2023)
-- **Clèment Llauro** (M2 intern from Mar 2023 to Aug 2023)
+- **Clément Llauro** (M2 intern from Mar 2023 to Aug 2023)
 - **Nour Bou Zamel** (L3 intern from Mar 2023 to Jun 2023)
 - **Niccolò Muttoni** (Research assistant from Nov 2021 to Apr 2022; then PhD student at Univ. of Geneva)
 - **Elsa Desbarats** (L3 student intern from Feb 2022 to Jun 2022)
