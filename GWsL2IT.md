@@ -45,7 +45,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 - **Zheng Wu** 
 - **Vasco Gennari**
 - **Manuel Piarulli**
-- **Clèment Jacquet**
+- **Clément Jacquet**
 
 ### Interns and students
 
