@@ -32,11 +32,10 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 ### Non-permanent members contributing from other L2IT groups
 
 - **Emma Mauger** (Computing, Algorithms and Data group)
-- **Senwen Deng** (Computing, Algorithms and Data group; starting Feb 2026)
+- **Senwen Deng** (Computing, Algorithms and Data group)
 
 ### Postdocs
 
-- **Gergely Dálya** (Postdoc from Feb 2024 to Jan 2026; then faculty at the University of Budapest)
 - **Alice Spadaro** (starting Apr 2026)
 
 ### PhD students
@@ -63,6 +62,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 Here are the people that were part of the L2IT GW group in the past:
 
+- **Gergely Dálya** (Postdoc from Feb 2024 to Jan 2026; then faculty at the University of Budapest)
 - **Irene Iorio** (M2 intern from Feb 2025 to Jul 2025; then PhD student at SISSA)
 - **Arnaud Keumurian** (M2 intern from Apr 2025 to Aug 2025)
 - **Vivienne Langen** (PhD student from Nov 2021 to April 2025)
