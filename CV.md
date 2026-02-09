@@ -259,6 +259,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Refereed research proposals
 
+1. Independent Research Fund Denmark - Sapere Aude: DFF-Starting, Denmark, 2026
 1. HERMES Call, Univ. Paris Cité, France, 2025
 1. Thematic programme of the Institut Pascal, Université Paris-Saclay, France, 2023
 1. EURIZON Fellowship Programme: “Remote Research Grants for Ukrainian Researchers”, EU, 2023
