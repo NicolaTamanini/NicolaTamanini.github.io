@@ -56,6 +56,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 - **Tanguy Delmond** (PhD student at CNES)
 - **Francesco Nobili** (PhD student at Università dell'Insubria, Italy)
+- **Ivan Martin Vilchez** (Postdoc at CNES)
 
 
 ## Past members
