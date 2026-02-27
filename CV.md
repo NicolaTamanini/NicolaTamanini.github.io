@@ -419,6 +419,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Dec 2025, _GUEST Workshop_, Benasque, Spain
 1. Nov 2025, _TeVPA 2025_, Valencia, Spain
 1. Oct 2025, _Cosmology meeting of the GdR Ondes Gravitationnelles_, Paris, France
 1. Oct 2025, _Assemblée Générale GdR Ondes Gravitationnelles_, Paris, France
