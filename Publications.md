@@ -549,6 +549,12 @@ Astrophys. J. Lett. 941 (2022) no.2, L30
 
 ### White papers & other documents (peer-reviewed)
 
+1. N. Afshordi et al., [LISA Consortium Waveform Working Group],
+_Waveform Modelling for the Laser Interferometer Space Antenna_,
+Living Rev. Rel. 28 (2025) no.1, 9
+[[doi:10.1007/s41114-025-00056-1](https://doi.org/10.1007/s41114-025-00056-1)]
+[[arXiv:2311.01300](https://arxiv.org/abs/2311.01300)]
+
 1. E. Di Valentino et al.,
 _The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics_,
 Phys. Dark Univ. 49 (2025), 101965
@@ -605,10 +611,6 @@ Class. Quant. Grav. 37 (2020) 21, 215011
 1. M. Colpi et al.,
 _LISA Definition Study Report_,
 [[arXiv:2402.07571](https://arxiv.org/abs/2402.07571)]
-
-1. N. Afshordi et al., [LISA Consortium Waveform Working Group],
-_Waveform Modelling for the Laser Interferometer Space Antenna_,
-[[arXiv:2311.01300](https://arxiv.org/abs/2311.01300)]
 
 1. J. B. Bayle et al.,
 _Legacy of the First Workshop on Gravitational Wave Astrophysics for Early Career Scientists_
