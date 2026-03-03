@@ -604,7 +604,11 @@ Class. Quant. Grav. 37 (2020) 21, 215011
 
 ### White papers & other documents (not peer-reviewed)
 
-1. M.~Arca-Sedda et al.
+1. A. Ricciardone et al.,
+_Probing Cosmic Expansion and Early Universe with Einstein Telescope_,
+[arXiv:2601.06017](https://arxiv.org/abs/2601.06017)]
+
+1. M.~Arca-Sedda et al.,
 _Uncovering the population of compact binary mergers and their formation pathways with gravitational waves through the Einstein Telescope_,
 [[arXiv:2512.17339](https://arxiv.org/abs/2512.17339)]
 
