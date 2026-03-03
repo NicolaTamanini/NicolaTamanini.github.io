@@ -372,6 +372,10 @@ Astrophys. J. 871 (2019) L13
 
 ### LVK and Virgo collaboration papers (negligible personal contribution)
 
+1. R. Abbasi et al. [IceCube, LIGO Scientific, VIRGO and KAGRA],
+_Deep Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO and Virgo_,
+[arXiv:2601.07595](https://arxiv.org/abs/2601.07595)]
+
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _Search for planetary-mass ultra-compact binaries using data from the first part of the LIGO--Virgo--KAGRA fourth observing run_,
 [[arXiv:2511.19911](https://arxiv.org/abs/2511.19911)]
