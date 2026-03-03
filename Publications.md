@@ -372,9 +372,13 @@ Astrophys. J. 871 (2019) L13
 
 ### LVK and Virgo collaboration papers (negligible personal contribution)
 
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_Search for planetary-mass ultra-compact binaries using data from the first part of the LIGO--Virgo--KAGRA fourth observing run_,
+[[arXiv:2511.19911](https://arxiv.org/abs/2511.19911)]
+
 1. J. Palfreyman t al. [LIGO Scientific, VIRGO and KAGRA],
-   _Constraints on gravitational waves from the 2024 Vela pulsar glitch_,
-   [[arXiv:2512.17990](https://arxiv.org/abs/2512.17990)]
+_Constraints on gravitational waves from the 2024 Vela pulsar glitch_,
+[[arXiv:2512.17990](https://arxiv.org/abs/2512.17990)]
 
 1. [LIGO Scientific, VIRGO and KAGRA],
 _GWTC-4.0: Searches for Gravitational-Wave Lensing Signatures_,
