@@ -72,21 +72,7 @@ University of Trento, Italy [110/110 e lode]
 - Member of the _LISA Consortium Publication and Presentation (P&P) Committee_ (from 2021 to 2024)
 - Coordinator of the _LISA Science Group sub-working package_ on estimation of cosmological parameters and standard sirens (from 2019 to 2024)
 - Elected chair of the _LISA Early Career Scientists_ (LECS) group (from 2019 to 2021)
-
-
-
-### Individual research grants and fellowships
-
-- _CNES PhD Grant_, L2IT, Toulouse, France 2023 [funds for half a PhD scholarship, ca. €70000]
-- _ANR Tremplin–ERC_, L2IT, Toulouse, France, 2020 [research fundings, tot. €76700 for 1 year]
-- _Enhanced Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc's salary for 2 years + research/travel fundings, tot. ca. €65000]
-
-
-### Individual research grants and fellowships (offered but declined)
-
-- _Royal Society University Research Fellowship_, King's College London, UK, 2020 [fellow's salary for 5 years + research/travel fundings, tot. ca. £600000]
-- _Radboud Excellence Initiative Fellowship_, Radboud University, The Netherlands, 2016 [postdoc's salary for 2 years, tot. ca. €120000]
-
+  
 
 ### Collaborative research grants (leadership role)
 
@@ -97,6 +83,22 @@ University of Trento, Italy [110/110 e lode]
 - _Plan Nationaux de l'INSU_, L2IT, Toulouse, France, 2023 (in collaboration with IRAP, CPPM, CPT, ARTEMIS; role: PI) [fundings for the summer school _MaNiTou_, tot. €8000]
 - _Écoles thematiques du CNRS_, L2IT, Toulouse, France, 2023 (in collaboration with IRAP, CPPM, CPT, ARTEMIS; role: PI) [fundings for the summer school _MaNiTou_, tot. €5500]
 - _CNRS MITI Project LIROCOS_, L2IT, Toulouse, France, 2022 (in collaboration with APC, CEA and CNES; role: PI) [collaborative research fundings, tot. €50000 for 2 years]
+
+
+
+### Individual research grants and fellowships
+
+- _China Scholarship Council_ grant for a PhD scholarship, L2IT, Toulouse, France 2024 [funds for one PhD scholarship, ca. €140000]
+- _CNES PhD Grant_ for a PhD scholarship, L2IT, Toulouse, France 2023 [funds for half a PhD scholarship, ca. €70000]
+- _ANR Tremplin–ERC_, L2IT, Toulouse, France, 2020 [research fundings, tot. €76700 for 1 year]
+- _Enhanced Eurotalents Research Fellowship_, CEA Saclay, France, 2014 [50\% of postdoc's salary for 2 years + research/travel fundings, tot. ca. €65000]
+
+
+### Individual research grants and fellowships (offered but declined)
+
+- _Royal Society University Research Fellowship_, King's College London, UK, 2020 [fellow's salary for 5 years + research/travel fundings, tot. ca. £600000]
+- _Radboud Excellence Initiative Fellowship_, Radboud University, The Netherlands, 2016 [postdoc's salary for 2 years, tot. ca. €120000]
+
 
 
 ### Scholarships
