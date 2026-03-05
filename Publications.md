@@ -21,7 +21,8 @@ _Towards a few percent measurement of the Hubble constant with the current netwo
 
 1. M. Piarulli, S. Marsat, E. M. Sänger, A. Buonanno, J. Steinhoff and N. Tamanini,
 _A Parametrized Test of General Relativity for LISA Massive Black Hole Binary Inspirals_,
-Accepted by PRD (2025)
+Phys. Rev. D 112 (2025) no.12, 124044
+[[doi:10.1103/59zd-qvbd](https://doi.org/10.1103/59zd-qvbd)]
 [[arXiv:2510.06330](https://arxiv.org/abs/arXiv:2510.06330)]
 
 1. A. Salvarese, H. Y. Chen, A. Mangiagli and N. Tamanini,
