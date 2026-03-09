@@ -119,8 +119,8 @@ University of Trento, Italy [110/110 e lode]
 - Member of the HERMES’ Scientific Council, Univ. Paris Cité (2025)
 - Member of the selection committee for a PhD position at Aix-Marseille University and La Sapienza University (2023)
 - Member of the selection committee for a tenure-track full professorship position (chaire excellence) at Aix-Marseille University (2023)
-- Member of the selection committee of the ATER positions for CNU Sec 29 at Université de Toulouse Paul Sabatier (since 2022)
-- Nominated member of the Collège Scientifique Physique-SDU de l'Université de Toulouse Paul Sabatier (since 2022)
+- Member of the selection committee of the ATER positions for CNU Sec 29 at Université de Toulouse Paul Sabatier (2023)
+- Nominated member of the Collège Scientifique Physique-SDU de l'Université de Toulouse Paul Sabatier (from 2022 to 2026)
 
 
 ### Academic services (internal)
