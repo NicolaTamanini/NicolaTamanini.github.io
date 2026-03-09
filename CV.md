@@ -174,7 +174,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Postdocs supervised
 
-- _Gergely Dálya_, L2IT (from Feb 2024)
+- _Gergely Dálya_, L2IT (from Feb 2024 to Jan 2026; then faculty at Eötvös Loránd University Budapest)
 - _Ollie Burke_, L2IT (from Sept 2022 to Dec 2024; then postdoc at Glasgow University)
 - _Martina Toscani_, L2IT (from Nov 2021 to Oct 2023; then postdoc at Univ. of Milano Bicocca)
 - _Danny Laghi_, L2IT (from Jul 2021 to May 2024; then postdoc at Univ. of Zurich)
