@@ -230,6 +230,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Participation in PhD thesis committees
 
+- Cezary Turski, Ghent University, 2026
 - Vivienne Langen, Université de Toulouse, 2025
 - Elie Leroy, Université Paris-Saclay, 2024
 - Gregoire Pierra, Université Claude Bernard Lyon 1, 2024
