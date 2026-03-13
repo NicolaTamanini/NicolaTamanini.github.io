@@ -62,6 +62,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research appointements
 
+- Member of the LVK O4b cosmology paper wrtiing team (since 2025)
 - Member of the _Virgo Speakers Committee_ (since 2024)
 - Member of the _ET Early-Career Scientist Support Committee_ (since 2024)
 - Chair of the _ET OSB Division 5_ on synergy with other GW observatories (since 2023)
