@@ -389,6 +389,10 @@ _GWTC-4.0: Tests of General Relativity. II. Parameterized Tests_,
 _GWTC-4.0: Tests of General Relativity. I. Overview and General Tests_,
 [[arXiv:2603.19019](https://arxiv.org/abs/2603.19019)]
 
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_All-sky Searches for Continuous Gravitational Waves from Isolated Neutron Stars in the Data from the First Part of the Fourth LIGO-Virgo-KAGRA Observing Run_,
+[[arXiv:2603.14168](https://arxiv.org/abs/2603.14168)]
+
 1. R. Abbasi et al. [IceCube, LIGO Scientific, VIRGO and KAGRA],
 _Deep Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO and Virgo_,
 [arXiv:2601.07595](https://arxiv.org/abs/2601.07595)]
