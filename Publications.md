@@ -377,6 +377,18 @@ Astrophys. J. 871 (2019) L13
 
 ### LVK and Virgo collaboration papers (negligible personal contribution)
 
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_GWTC-4.0: Tests of General Relativity. III. Tests of the Remnants_,
+[[arXiv:2603.19021](https://arxiv.org/abs/2603.19021)]
+
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_GWTC-4.0: Tests of General Relativity. II. Parameterized Tests_,
+[[arXiv:2603.19020](https://arxiv.org/abs/2603.19020)]
+
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_GWTC-4.0: Tests of General Relativity. I. Overview and General Tests_,
+[[arXiv:2603.19019](https://arxiv.org/abs/2603.19019)]
+
 1. R. Abbasi et al. [IceCube, LIGO Scientific, VIRGO and KAGRA],
 _Deep Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO and Virgo_,
 [arXiv:2601.07595](https://arxiv.org/abs/2601.07595)]
