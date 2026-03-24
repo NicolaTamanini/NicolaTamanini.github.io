@@ -71,7 +71,7 @@ Here are the people that were part of the L2IT GW group in the past:
 - **Alice Perego** (M2 intern from March to July 2024; then PhD student at Observatoire de la côte d'Azur)
 - **Thomas Jacquot** (M2 intern from March to July 2024; then PhD student at IJCLab)
 - **Danny Laghi** (Postdoc from Jul 2021 to May 2024; then postdoc at Univ. of Zurich)
-- **Cayetano Santos** (Softare engineer from Nov 2021 to May 2024, contributing as member of the L2IT CAD group)
+- **Cayetano Santos** (Software engineer from Nov 2021 to May 2024, contributing as member of the L2IT CAD group)
 - **Martina Toscani** (Postdoc from Nov 2021 to Oct 2023; then postdoc at Univ. of Milano Bicocca)
 - **Chang Liu** (Visiting PhD student from Peking University, China, from Oct 2022 to Sept 2023)
 - **Olympe Léchine** (M2 intern from Mar 2023 to Aug 2023)
