@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. D. Laghi, N. Tamanini, A. Sesana, J. Gair, E. Barausse, C. Caprini, W. Del Pozzo, A. Mangiagli and S. Marsat,
+   _Reducing cosmological degeneracies by combining multiple classes of LISA gravitational-wave standard sirens_,
+   [[arXiv:2603.23612](https://arxiv.org/abs/arXiv:2603.23612)]
+
 1. T. Bertheas, V. Gennari, D. Steer and N. Tamanini,
 _Spectral sirens cosmology from binary black holes populations with sharper mass features_,
 [[arXiv:2603.06792](https://arxiv.org/abs/arXiv:2603.06792)]
