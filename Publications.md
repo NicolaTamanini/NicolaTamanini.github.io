@@ -582,6 +582,12 @@ Astrophys. J. Lett. 941 (2022) no.2, L30
 
 ### White papers & other documents (peer-reviewed)
 
+1. A. Abac et al [ET Collaboration],
+ _The Science of the Einstein Telescope_,
+Accepted by JCAP 1802 (2026)
+[[doi:10.1088/1475-7516/2026/03/081](https://doi.org/10.1088/1475-7516/2026/03/081)]
+[[arXiv:2503.12263](https://arxiv.org/abs/2503.12263)]
+
 1. N. Afshordi et al., [LISA Consortium Waveform Working Group],
 _Waveform Modelling for the Laser Interferometer Space Antenna_,
 Living Rev. Rel. 28 (2025) no.1, 9
@@ -640,10 +646,6 @@ _Probing Cosmic Expansion and Early Universe with Einstein Telescope_,
 1. M.~Arca-Sedda et al.,
 _Uncovering the population of compact binary mergers and their formation pathways with gravitational waves through the Einstein Telescope_,
 [[arXiv:2512.17339](https://arxiv.org/abs/2512.17339)]
-
-1. A. Abac et al [ET Collaboration],
- _The Science of the Einstein Telescope_,
-[[arXiv:2503.12263](https://arxiv.org/abs/2503.12263)]
 
 1. C. Caprini et al.,
    _Science of the LISA mission: A Summary for the European Strategy for Particle Physics_,
