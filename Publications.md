@@ -381,6 +381,18 @@ Astrophys. J. 871 (2019) L13
 
 ### LVK and Virgo collaboration papers (negligible personal contribution)
 
+1. F. Acernese [Virgo],
+_Advanced Virgo Plus for O5 -- Design Report Overview_,
+[[arXiv:2603.20342](https://arxiv.org/abs/2603.20342)]
+
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_Narrowband searches for continuous gravitational waves from known pulsars in the first two parts of the fourth LIGO--Virgo--KAGRA observing run_,
+[[arXiv:2603.25938](https://arxiv.org/abs/2603.25938)]
+
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_Searches for Continuous Gravitational Waves from Supernova Remnants in the first part of the LIGO-Virgo-KAGRA Fourth Observing run_,
+[[arXiv:2603.19021](https://arxiv.org/abs/2603.19021)]
+
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _GWTC-4.0: Tests of General Relativity. III. Tests of the Remnants_,
 [[arXiv:2603.19021](https://arxiv.org/abs/2603.19021)]
