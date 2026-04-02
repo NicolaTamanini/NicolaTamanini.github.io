@@ -48,15 +48,17 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 ### Interns and students
 
-- **Valentina Panteleeva** (starting Feb 2026; remote internship)
-- **Youssef Gebreel** (starting Mar 2026)
-- **Asad Mahdi** (starting Mar 2026)
+- **Valentina Panteleeva** (remote internship)
+- **Youssef Gebreel**
+- **Asad Mahdi**
+- **Frédéric Jalabert**
 
 ### Associate members and current long term visitors
 
 - **Tanguy Delmond** (PhD student at CNES)
 - **Francesco Nobili** (PhD student at Università dell'Insubria, Italy)
 - **Ivan Martin Vilchez** (Postdoc at CNES)
+- **Adrien Maquet** (Research engeneer at IRAP)
 
 
 ## Past members
