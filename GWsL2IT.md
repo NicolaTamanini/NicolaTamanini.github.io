@@ -36,7 +36,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 ### Postdocs
 
-- **Alice Spadaro** (starting Apr 2026)
+- **Alice Spadaro**
 
 ### PhD students
 
