@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. V. Gennari, T. Bertheas and N. Tamanini,
+_Emergent structure in the binary black hole mass distribution and implications for population-based cosmology_,
+[[arXiv:2604.14290](https://arxiv.org/abs/arXiv:2604.14290)]
+
 1. D. Laghi, N. Tamanini, A. Sesana, J. Gair, E. Barausse, C. Caprini, W. Del Pozzo, A. Mangiagli and S. Marsat,
    _Reducing cosmological degeneracies by combining multiple classes of LISA gravitational-wave standard sirens_,
    [[arXiv:2603.23612](https://arxiv.org/abs/arXiv:2603.23612)]
