@@ -62,7 +62,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research appointements
 
-- Member of the LVK O4b cosmology paper wrtiing team (since 2025)
+- Member of the LVK O4b cosmology paper writing team (since 2025)
 - Member of the _Virgo Speakers Committee_ (since 2024)
 - Member of the _ET Early-Career Scientist Support Committee_ (since 2024)
 - Chair of the _ET OSB Division 5_ on synergy with other GW observatories (since 2023)
@@ -139,7 +139,9 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
-1. [Journée du groupe de travail sur la cosmologie du GdR ondes gravitationnelles](https://indico.in2p3.fr/event/36685/), IAP, Paris, France, Oct 2025 [Main organiser]
+1. [_PONT 2026_](https://indico.cern.ch/event/1556583/overview), Avignon, France, Apr 2026
+1. [_Gravitational Wave Open Data Workshop_](https://indico.in2p3.fr/event/37890/), L2IT, Toulouse, France, Apr 2026
+1. [_Journée du groupe de travail sur la cosmologie du GdR ondes gravitationnelles_](https://indico.in2p3.fr/event/36685/), IAP, Paris, France, Oct 2025 [Main organiser]
 1. [_Shedding light on dark sirens_](https://www.lorentzcenter.nl/shedding-light-on-dark-sirens.html), Lorentz Center Workshop, Leiden, The Netherlands, Sept 2025 [Member of the OC]
 1. [_4th MaNiTou Summer School on Gravitational Waves_](https://indico.in2p3.fr/event/33340/), Marseille, France, Jul 2025 [Member of the SOC]
 1. [_Journée LISA à Toulouse_](https://indico.in2p3.fr/event/36452/overview), Toulouse, France, Jun 2025 [Main organiser]
@@ -148,7 +150,7 @@ University of Trento, Italy [110/110 e lode]
 1. [_Journée des groupes de travail "Cosmologie" et “Tests de la relativité générale et théories alternatives” du GdR Ondes Gravitationnelles_](https://indico.in2p3.fr/event/30339/), Paris, France, Oct 2023, [Member of the OC]
 1. [_2nd MaNiTou Summer School on Gravitational Waves_](https://indico.in2p3.fr/event/29050/), Nice, France, Jul 2023 [Member of the SOC]
 1. [_10th LISA Cosmology Working Group Workshop_](https://indico.uis.no/event/28/), Stavanger, Norway, Jun 2023 [Member of the SOC]
-1. [_PONT2023_](https://indico.cern.ch/event/1166693/), Avignon, France, May 2023 [Member of the OC]
+1. [_PONT 2023_](https://indico.cern.ch/event/1166693/), Avignon, France, May 2023 [Member of the OC]
 1. [_Journée scientifique LPT/L2IT_](https://indico.in2p3.fr/event/28881/), Toulouse, France, Jan 2023 [Member of the OC]
 1. [_LISA data analysis: from classical methods to machine learning_](https://indico.in2p3.fr/event/27706/) workshop, Toulouse, France, Nov 2022 [Overall coordinator and main organiser]
 1. [_Assemblée Générale GdR Ondes Gravitationnelles_](https://indico.in2p3.fr/event/27290/), Toulouse, France, Oct 2022 [Chair of the LOC]
@@ -175,6 +177,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Postdocs supervised
 
+- _Alice Spadaro_, L2IT (since Apr 2026)
 - _Gergely Dálya_, L2IT (from Feb 2024 to Jan 2026; then faculty at Eötvös Loránd University Budapest)
 - _Ollie Burke_, L2IT (from Sept 2022 to Dec 2024; then postdoc at Glasgow University)
 - _Martina Toscani_, L2IT (from Nov 2021 to Oct 2023; then postdoc at Univ. of Milano Bicocca)
@@ -193,6 +196,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Students supervised (all at the L2IT)
 
+1. _Youssef Gebreel_, (M2 intern from Apr to Jul 2025)
 1. _Arnaud Keumurian_, (M2 intern from Mar 2025 to Aug 2025)
 1. _Irene Iorio_ (M2 intern from Feb 2025 to Jul 2025; then PhD student at SISSA)
 1. _Tom Bertheas_ (M2 intern from Apr to Jul 2024; co-supervised with D. Steer (APC); then PhD student at L2IT)
@@ -423,6 +427,9 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Apr 2026, _PONT 2026_, Avignon, France
+1. Apr 2026, _GW Open Data Workshop_, Toulouse, France
+1. Mar 2026, _ET France Meeting_, Orsay, France
 1. Dec 2025, _GUEST Workshop_, Benasque, Spain
 1. Nov 2025, _TeVPA 2025_, Valencia, Spain
 1. Oct 2025, _Cosmology meeting of the GdR Ondes Gravitationnelles_, Paris, France
