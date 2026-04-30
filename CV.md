@@ -89,6 +89,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Individual research grants and fellowships
 
+- _CNRS PRIME80_ grant for a PhD scholarship, LUX/L2IT, Paris/Toulouse, France 2026 [funds for one PhD scholarship, plus research fundings, ca. €160000]
 - _China Scholarship Council_ grant for a PhD scholarship, L2IT, Toulouse, France 2024 [funds for one PhD scholarship, ca. €140000]
 - _CNES PhD Grant_ for a PhD scholarship, L2IT, Toulouse, France 2023 [funds for half a PhD scholarship, ca. €70000]
 - _ANR Tremplin–ERC_, L2IT, Toulouse, France, 2020 [research fundings, tot. €76700 for 1 year]
