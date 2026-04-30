@@ -20,10 +20,6 @@ _Emergent structure in the binary black hole mass distribution and implications 
 _Spectral sirens cosmology from binary black holes populations with sharper mass features_,
 [[arXiv:2603.06792](https://arxiv.org/abs/arXiv:2603.06792)]
 
-1. [LIGO Scientific, VIRGO and KAGRA],
-_GWTC-4.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation_,
-[[arXiv:2509.04348](https://arxiv.org/abs/arXiv:2509.04348)]
-
 1. T. Bertheas, V. Gennari and N. Tamanini,
 _Towards a few percent measurement of the Hubble constant with the current network of gravitational wave detectors without using electromagnetic information_,
 [[arXiv:2508.19331](https://arxiv.org/abs/arXiv:2508.19331)]
@@ -361,6 +357,11 @@ Proceedings of the 13th Marcell Grossmann Meeting, [[doi:10.1142/9789814623995_0
 
 
 ### LVK collaboration papers (non-negligible personal contribution)
+
+1. [LIGO Scientific, VIRGO and KAGRA],
+_GWTC-4.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation_,
+Accepted by ApJL (2026)
+[[arXiv:2509.04348](https://arxiv.org/abs/arXiv:2509.04348)]
 
 1. R. Abbot et al. [LIGO-Virgo-Kagra Collaboration],
 _Constraints on the cosmic expansion history from GWTC–3_,
