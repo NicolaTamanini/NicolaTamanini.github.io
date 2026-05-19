@@ -386,6 +386,10 @@ Astrophys. J. 871 (2019) L13
 
 ### LVK and Virgo collaboration papers (negligible personal contribution)
 
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_Searches for Binary Mergers with Sub-solar Mass Components in Data from the First Part of LIGO--Virgo--KAGRA's Fourth Observing Run_,
+[[arXiv:2605.05444](https://arxiv.org/abs/2605.05444)]
+
 1. F. Acernese [Virgo],
 _Advanced Virgo Plus for O5 -- Design Report Overview_,
 [[arXiv:2603.20342](https://arxiv.org/abs/2603.20342)]
