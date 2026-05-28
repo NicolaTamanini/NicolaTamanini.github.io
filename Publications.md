@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. [LIGO Scientific, VIRGO and KAGRA],
+_GWTC-5.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation_,
+[[arXiv:2605.27227](https://arxiv.org/abs/arXiv:2605.27227)]
+
 1. V. Gennari, T. Bertheas and N. Tamanini,
 _Emergent structure in the binary black hole mass distribution and implications for population-based cosmology_,
 [[arXiv:2604.14290](https://arxiv.org/abs/arXiv:2604.14290)]
@@ -385,6 +389,31 @@ Astrophys. J. 871 (2019) L13
 
 
 ### LVK and Virgo collaboration papers (negligible personal contribution)
+
+1. [LIGO Scientific, VIRGO and KAGRA],
+_Open Data from LIGO, Virgo, and KAGRA through the Second Part of the Fourth Observing Run_,
+[[arXiv:2605.27090](https://arxiv.org/abs/2605.27090)]
+
+1. N.~Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_GWTC-5.0: An Introduction to Version 5.0 of the Gravitational-Wave Transient Catalog_,
+[[arXiv:2605.27223](https://arxiv.org/abs/2605.27224)]
+
+1. [LIGO Scientific, VIRGO and KAGRA],
+_GWTC-5.0: Methods for Identifying and Characterizing Gravitational-wave Transients_,
+[[arXiv:2605.27224](https://arxiv.org/abs/2605.27224)]
+
+1. [LIGO Scientific, VIRGO and KAGRA],
+_GWTC-5.0: Observations from the Second Part of the Fourth LIGO-Virgo-KAGRA Observing Run and Updates to the Gravitational-Wave Transient Catalog_,
+[[arXiv:2605.27225](https://arxiv.org/abs/2605.27225)]
+
+1. [LIGO Scientific, VIRGO and KAGRA],
+_GWTC-5.0: Population Properties of Merging Compact Binaries_,
+[[arXiv:2605.27226](https://arxiv.org/abs/2605.11703)]
+
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_GW240925 and GW250207: Astrophysical Calibration of Gravitational-wave Detectors_,
+[[doi:10.1103/gzrj-mwv3](https://doi.org/10.1103/gzrj-mwv3)])
+[[arXiv:2605.11703](https://arxiv.org/abs/2605.11703)]
 
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _Searches for Binary Mergers with Sub-solar Mass Components in Data from the First Part of LIGO--Virgo--KAGRA's Fourth Observing Run_,
