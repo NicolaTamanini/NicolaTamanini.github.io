@@ -62,6 +62,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research appointements
 
+- Member of the LISA Consortium Council (since 2025)
 - Member of the LVK O4b cosmology paper writing team (since 2025)
 - Member of the _Virgo Speakers Committee_ (since 2024)
 - Member of the _ET Early-Career Scientist Support Committee_ (since 2024)
