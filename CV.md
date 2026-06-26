@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-On this page you can find an extended version of my CV, including all relevant academic activities. A short summary is provided at the top. A two-page version of the CV is also available for download [[pdf](/source/CV_Tamanini.pdf)] (latest update 19/08/2025).
+On this page you can find an extended version of my CV, including all relevant academic activities. A short summary is provided at the top. A two-page version of the CV is also available for download [[pdf](/source/CV_Tamanini.pdf)] (latest update 01/05/2026).
 
 ### In a nutshell
 
