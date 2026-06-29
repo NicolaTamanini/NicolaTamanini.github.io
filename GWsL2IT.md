@@ -33,6 +33,7 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 
 - **Emma Mauger** (Computing, Algorithms and Data group)
 - **Senwen Deng** (Computing, Algorithms and Data group)
+- **Krzysztof Findeisen** (Computing, Algorithms and Data group)
 
 ### Postdocs
 
