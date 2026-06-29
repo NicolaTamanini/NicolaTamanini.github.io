@@ -29,7 +29,7 @@ _Towards a few percent measurement of the Hubble constant with the current netwo
 
 1. T. Bertheas, V. Gennari, D. Steer and N. Tamanini,
 _Spectral sirens cosmology from binary black holes populations with sharper mass features_,
-Accepted by Phys. Rev. D (2026)
+Accepted by JCAP (2026)
 [[arXiv:2603.06792](https://arxiv.org/abs/arXiv:2603.06792)]
 
 1. M. Piarulli, S. Marsat, E. M. Sänger, A. Buonanno, J. Steinhoff and N. Tamanini,
