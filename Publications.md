@@ -20,16 +20,17 @@ _Emergent structure in the binary black hole mass distribution and implications 
    _Reducing cosmological degeneracies by combining multiple classes of LISA gravitational-wave standard sirens_,
    [[arXiv:2603.23612](https://arxiv.org/abs/arXiv:2603.23612)]
 
-1. T. Bertheas, V. Gennari, D. Steer and N. Tamanini,
-_Spectral sirens cosmology from binary black holes populations with sharper mass features_,
-[[arXiv:2603.06792](https://arxiv.org/abs/arXiv:2603.06792)]
-
 1. T. Bertheas, V. Gennari and N. Tamanini,
 _Towards a few percent measurement of the Hubble constant with the current network of gravitational wave detectors without using electromagnetic information_,
 [[arXiv:2508.19331](https://arxiv.org/abs/arXiv:2508.19331)]
 
 
 ### Publications in peer-review journals (short author-list / small collaborations)
+
+1. T. Bertheas, V. Gennari, D. Steer and N. Tamanini,
+_Spectral sirens cosmology from binary black holes populations with sharper mass features_,
+Accepted by Phys. Rev. D (2026)
+[[arXiv:2603.06792](https://arxiv.org/abs/arXiv:2603.06792)]
 
 1. M. Piarulli, S. Marsat, E. M. Sänger, A. Buonanno, J. Steinhoff and N. Tamanini,
 _A Parametrized Test of General Relativity for LISA Massive Black Hole Binary Inspirals_,
