@@ -391,6 +391,12 @@ Astrophys. J. 871 (2019) L13
 
 ### LVK and Virgo collaboration papers (negligible personal contribution)
 
+1. A. G. Abac et al. [LIGO Scientific, Virgo and KAGRA],
+_GW240925 and GW250207: Astrophysical Calibration of Gravitational-wave Detectors_,
+Accepted by Phys. Rev. Lett. (2026)
+[[doi:10.1103/gzrj-mwv3](https://journals.aps.org/prl/accepted/10.1103/gzrj-mwv3)]
+[arXiv:2605.11703](https://arxiv.org/abs/2605.11703)]
+
 1. [LIGO Scientific, VIRGO and KAGRA],
 _Open Data from LIGO, Virgo, and KAGRA through the Second Part of the Fourth Observing Run_,
 [[arXiv:2605.27090](https://arxiv.org/abs/2605.27090)]
