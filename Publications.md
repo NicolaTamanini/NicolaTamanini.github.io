@@ -8,6 +8,10 @@ Here you can find all my publications and links to their records on the most com
 
 ### Recent preprints
 
+1. D. Blas et al.,
+_GUEST: Gravitational Universe Exploration with Satellite Tracking. A passive satellite laser-ranging mission for the dark gravitational Universe_,
+[[arXiv:2607.18390](https://arxiv.org/abs/arXiv:2607.18390)]
+
 1. [LIGO Scientific, VIRGO and KAGRA],
 _GWTC-5.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation_,
 [[arXiv:2605.27227](https://arxiv.org/abs/arXiv:2605.27227)]
@@ -390,6 +394,14 @@ Astrophys. J. 871 (2019) L13
 
 
 ### LVK and Virgo collaboration papers (negligible personal contribution)
+
+1. F. Acernese et al. [VIRGO],
+_Calibration of the AdvancedVirgo+ Gravitational Wave Detector and Reconstruction of the Detector Strain h(t) during the Observing Run O4_,
+[[arXiv:2607.19273]](https://arxiv.org/abs/2607.19273)]
+
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_GWTC-5.0: Tests of General Relativity_,
+[[arXiv:2607.19293](https://arxiv.org/abs/2607.19293)]
 
 1. A. G. Abac et al. [LIGO Scientific, Virgo and KAGRA],
 _GW240925 and GW250207: Astrophysical Calibration of Gravitational-wave Detectors_,
