@@ -395,6 +395,10 @@ Astrophys. J. 871 (2019) L13
 
 ### LVK and Virgo collaboration papers (negligible personal contribution)
 
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_Constraints on ultralight bosons from merging binary and remnant black holes observed during the second and third parts of the fourth LIGO-Virgo-KAGRA observing run_,
+[[arXiv:2608.11620]](https://arxiv.org/abs/2608.11620)]
+
 1. F. Acernese et al. [VIRGO],
 _Calibration of the AdvancedVirgo+ Gravitational Wave Detector and Reconstruction of the Detector Strain h(t) during the Observing Run O4_,
 [[arXiv:2607.19273]](https://arxiv.org/abs/2607.19273)]
