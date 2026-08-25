@@ -395,6 +395,14 @@ Astrophys. J. 871 (2019) L13
 
 ### LVK and Virgo collaboration papers (negligible personal contribution)
 
+1. F. Acernese et al. [VIRGO],
+_Advanced Virgo during the LIGO-Virgo-KAGRA fourth observing run_,
+[[arXiv:2607.26872]](https://arxiv.org/abs/2607.26872)]
+
+1. N. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_Updated Upper Limits on the Isotropic Gravitational-Wave Background from LIGO, Virgo, and KAGRA Data through April 2025_,
+[[arXiv:2608.23477]](https://arxiv.org/abs/2608.23477)]
+
 1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
 _Constraints on ultralight bosons from merging binary and remnant black holes observed during the second and third parts of the fourth LIGO-Virgo-KAGRA observing run_,
 [[arXiv:2608.11620]](https://arxiv.org/abs/2608.11620)]
