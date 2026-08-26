@@ -62,10 +62,11 @@ University of Trento, Italy [110/110 e lode]
 
 ### Research appointements
 
+- Paper manager of the LVK O4c cosmology paper (2026)
 - Member of the LISA Consortium Council (since 2025)
 - Member of the LVK O4b cosmology paper writing team (since 2025)
-- Member of the _Virgo Speakers Committee_ (since 2024)
-- Member of the _ET Early-Career Scientist Support Committee_ (since 2024)
+- Member of the _Virgo Speakers Committee_ (from 2024 to 2026)
+- Member of the _ET Early-Career Scientist Support Committee_ (from 2024 to 2026)
 - Chair of the _ET OSB Division 5_ on synergy with other GW observatories (since 2023)
 - Member of the _Virgo Steering Committee_ (since 2022)
 - Coordinator General of the _GW Early Career Scientists (GWECS)_ organisation (from 2022 to 2023)
@@ -78,7 +79,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Collaborative research grants (leadership role)
 
-- _MSCA Staff Exchanges_ prject _GWCAts_, , L2IT, Toulouse, France, 2026 (in collaboration with several partner instiutes all around the world; role: PI) [collaborative research fundings, tot. €700000 for 4 year]
+- _MSCA Staff Exchanges_ prject _GWCats_, L2IT, Toulouse, France, 2026 (in collaboration with several partner institutes all around the world; role: PI) [collaborative research fundings, tot. €700000 for 4 year]
 - _OSCARS_ project _UpGLADE: community-driven open-data infrastructure for gravitational-wave cosmology_, L2IT, Toulouse, France, 2025 (role: co-PI) [tot. €250000 for 2 years]
 - _ANR MRSEI_ project _GWCats_, L2IT, Toulouse, France, 2024 (in collaboration with Univ. of Glasgow; role: PI) [collaborative research fundings, tot. €30000 for 2 year]
 - _CNRS AMORCE_ project GWGSC, L2IT, Toulouse, France, 2024 (in collaboration with Univ. of Glasgow; role: PI) [collaborative research fundings, tot. €10000 for 1 year]
@@ -141,6 +142,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
+1. [_5th MaNiTou Summer School on Gravitational Waves_](https://indico.in2p3.fr/event/36972/overview), Nice, France, Jul 2026 [Member of the SOC]
 1. [_PONT 2026_](https://indico.cern.ch/event/1556583/overview), Avignon, France, Apr 2026
 1. [_Gravitational Wave Open Data Workshop_](https://indico.in2p3.fr/event/37890/), L2IT, Toulouse, France, Apr 2026
 1. [_Journée du groupe de travail sur la cosmologie du GdR ondes gravitationnelles_](https://indico.in2p3.fr/event/36685/), IAP, Paris, France, Oct 2025 [Main organiser]
@@ -196,7 +198,7 @@ University of Trento, Italy [110/110 e lode]
 1. _Vivienne Langen_, L2IT (from Nov 2021 to Apr 2025; PhD thesis: [_Towards unveiling the properties of the massive black hole binary population with LISA_](https://theses.fr/s304649))
 
 
-### Students supervised (all at the L2IT)
+### Internships supervised (all at the L2IT)
 
 1. _Youssef Gebreel_, (M2 intern from Apr to Jul 2025)
 1. _Arnaud Keumurian_, (M2 intern from Mar 2025 to Aug 2025)
