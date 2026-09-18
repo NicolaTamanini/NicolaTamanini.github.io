@@ -338,6 +338,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Invited conference talks
 
+1. _Cosmology with gravitational wave standard sirens: present and future_, Talk at Hot topics in Modern Cosmology - Spontaneous Workshop XVIII, IESC Cargese, France [18/09/2026]
 1. _Cosmology with GW standard sirens: present and future_, Talk at The Dawn of Gravitational Wave Cosmology, Benasque, Spain [08/05/2025]
 1. _GW cosmology: present and future_, Talk at the First ACME Workshop: The gravitational wave sky and complementary observations, Toulouse, France [10/04/2025]
 1. _Standard sirens with LISA_, Talk at the 15th LISA Symposium, Dublin, Ireland [08/07/2024]
@@ -431,6 +432,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Sept 2026, _Hot topics in Modern Cosmology - Spontaneous Workshop XVIII_, IESC Cargese, France
 1. Apr 2026, _PONT 2026_, Avignon, France
 1. Apr 2026, _GW Open Data Workshop_, Toulouse, France
 1. Mar 2026, _ET France Meeting_, Orsay, France
