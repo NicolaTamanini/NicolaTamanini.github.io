@@ -142,6 +142,8 @@ University of Trento, Italy [110/110 e lode]
 
 ### Organisation of scientific meetings
 
+1. [_3rd GWCats workshop_](https://indico.in2p3.fr/event/40433/), Toulouse, France, Nov 2026 [Main organiser]
+1. [_Dixième Assemblée Générale du GdR Ondes Gravitationnelles_](https://indico.in2p3.fr/event/39867/), Lyon, France, Oct 2026 [Director of the GdR]
 1. [_5th MaNiTou Summer School on Gravitational Waves_](https://indico.in2p3.fr/event/36972/overview), Nice, France, Jul 2026 [Member of the SOC]
 1. [_PONT 2026_](https://indico.cern.ch/event/1556583/overview), Avignon, France, Apr 2026
 1. [_Gravitational Wave Open Data Workshop_](https://indico.in2p3.fr/event/37890/), L2IT, Toulouse, France, Apr 2026
@@ -193,7 +195,7 @@ University of Trento, Italy [110/110 e lode]
 1. _Zheng Wu_, L2IT (from Oct 2024)
 1. _Tom Bertheas_, L2IT (from Oct 2024)
 1. _Manuel Piarulli_, L2IT (co-supervisor; from Nov 2023)
-1. _Vasco Gennari_, L2IT (from Oct 2023)
+1. _Vasco Gennari_, L2IT (from Oct 2023 to Oct 2026; PhD thesis: [_Observational cosmology with GW populations_](https://theses.fr/s369608))
 1. _Chang Liu_, Peking University (co-supervisor; from Oct 2022 to Sept 2023; PhD thesis: _Science cases with space-based gravitational-wave detectors_)
 1. _Vivienne Langen_, L2IT (from Nov 2021 to Apr 2025; PhD thesis: [_Towards unveiling the properties of the massive black hole binary population with LISA_](https://theses.fr/s304649))
 
@@ -239,6 +241,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Participation in PhD thesis committees
 
+- Vasco Gennari, Université de Toulouse, 2026
 - Cezary Turski, Ghent University, 2026
 - Vivienne Langen, Université de Toulouse, 2025
 - Elie Leroy, Université Paris-Saclay, 2024
@@ -297,6 +300,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Outreach activities
 
+- Participation to the L2IT Open House, Toulouse [02/10/2026]
 - N. Tamanini, _LISA: observer les ondes gravitationnelles depuis l'espace_, Outreach talk (in French), Conference physique fondamentale au CNES (in French), Toulouse [05/11/2024]
 - M. Toscani, N. Tamanini et al, _Ondes gravitationnelles : un nouveau signal au cœur de la mission spatiale LISA_, [Article on the _CNRS Hebdo_](https://www.occitanie-ouest.cnrs.fr/fr/cnrsinfo/ondes-gravitationnelles-un-nouveau-signal-au-coeur-de-la-mission-spatiale-lisa) (in French) [13/03/2024]
 - N. Tamanini, _Ondes gravitationnelles: l'aube d'une nouvelle science de l'univers_, Outreach talk (in French), Seminaire de la Societe Francais de Physique, Toulouse [30/06/2023]
@@ -432,6 +436,7 @@ University of Trento, Italy [110/110 e lode]
 
 ### Scientific events attended
 
+1. Oct 2026, _Dixième Assemblée Générale du GdR Ondes Gravitationnelles_, Lyon, France
 1. Sept 2026, _Hot topics in Modern Cosmology - Spontaneous Workshop XVIII_, IESC Cargese, France
 1. Apr 2026, _PONT 2026_, Avignon, France
 1. Apr 2026, _GW Open Data Workshop_, Toulouse, France
