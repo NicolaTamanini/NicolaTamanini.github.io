@@ -395,6 +395,10 @@ Astrophys. J. 871 (2019) L13
 
 ### LVK and Virgo collaboration papers (negligible personal contribution)
 
+1. A. G. Abac et al. [LIGO Scientific, VIRGO and KAGRA],
+_Search for Compact Binary Coalescences with Sub-solar Mass Components in Data from the Second Part of LIGO-Virgo-KAGRA's Fourth Observing Run_,
+[[arXiv:2610.20276]](https://arxiv.org/abs/2610.20276)]
+
 1. F. Acernese et al. [VIRGO],
 _Advanced Virgo during the LIGO-Virgo-KAGRA fourth observing run_,
 [[arXiv:2607.26872]](https://arxiv.org/abs/2607.26872)]
