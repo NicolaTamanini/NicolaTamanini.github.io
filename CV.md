@@ -192,9 +192,10 @@ University of Trento, Italy [110/110 e lode]
 
 ### PhD students supervised
 
+1. _Victor Schyns_, LUX and L2IT (from Nov 2026)
 1. _Zheng Wu_, L2IT (from Oct 2024)
-1. _Tom Bertheas_, L2IT (from Oct 2024)
-1. _Manuel Piarulli_, L2IT (co-supervisor; from Nov 2023)
+1. _Tom Bertheas_, L2IT and LPENS (from Oct 2024)
+1. _Manuel Piarulli_, L2IT (co-supervisor; from Nov 2023 to Nov 2026; PhD thesis: _Precision science and tests of General Relativity with LISA gravitational wave observations_)
 1. _Vasco Gennari_, L2IT (from Oct 2023 to Oct 2026; PhD thesis: [_Observational cosmology with GW populations_](https://theses.fr/s369608))
 1. _Chang Liu_, Peking University (co-supervisor; from Oct 2022 to Sept 2023; PhD thesis: _Science cases with space-based gravitational-wave detectors_)
 1. _Vivienne Langen_, L2IT (from Nov 2021 to Apr 2025; PhD thesis: [_Towards unveiling the properties of the massive black hole binary population with LISA_](https://theses.fr/s304649))
