@@ -38,34 +38,39 @@ Further information can be found on the [L2IT website](https://annuaire.in2p3.fr
 ### Postdocs
 
 - **Alice Spadaro**
+- **Lorenzo Copparoni**
+- **Matteo Della Rocca**
 
 ### PhD students
 
 - **Tom Bertheas** (jointly with the LPENS Paris)
-- **Zheng Wu** 
-- **Vasco Gennari**
-- **Manuel Piarulli**
-- **Clément Jacquet**
+- **Zheng Wu**
+- **Victor Schyns** (jointly with the LUX Paris)
 
 ### Interns and students
 
-- **Valentina Panteleeva** (remote internship)
-- **Youssef Gebreel**
-- **Asad Mahdi**
-- **Frédéric Jalabert**
+-
 
 ### Associate members and current long term visitors
 
 - **Tanguy Delmond** (PhD student at CNES)
-- **Francesco Nobili** (PhD student at Università dell'Insubria, Italy)
 - **Ivan Martin Vilchez** (Postdoc at CNES)
-- **Adrien Maquet** (Research engeneer at IRAP)
+- **Loic Bochrwana** (PhD student at IRAP)
+- **Lami Suilemain** (Researcher at IRAP)
 
 
 ## Past members
 
 Here are the people that were part of the L2IT GW group in the past:
 
+
+- **Vasco Gennari** (PhD student from Oct 2023 to Oct 2026; then postdoc at INFN Rome)
+- **Manuel Piarulli** (PhD student from Nov 2023 to Nov 2026; then postdoc at INFN Rome)
+- **Clément Jacquet** (PhD student from Oct 2023 to Oct 2026; then postdoc at APC Paris)
+- **Valentina Panteleeva** (M1 intern from Mar to Jul 2026; remote internship)
+- **Youssef Gebreel** (M2 intern from Apr to Jul 2026)
+- **Asad Mahdi** (M2 intern from Mar to Jul 2026)
+- **Frédéric Jalabert** (M2 intern from Mar to Jul 2026)
 - **Gergely Dálya** (Postdoc from Feb 2024 to Jan 2026; then faculty at the University of Budapest)
 - **Irene Iorio** (M2 intern from Feb 2025 to Jul 2025; then PhD student at SISSA)
 - **Arnaud Keumurian** (M2 intern from Apr 2025 to Aug 2025)
