@@ -242,12 +242,17 @@ University of Trento, Italy [110/110 e lode]
 
 ### Participation in PhD thesis committees
 
+- Manuel Piarulli, Université de Toulouse, 2026
 - Vasco Gennari, Université de Toulouse, 2026
 - Cezary Turski, Ghent University, 2026
 - Vivienne Langen, Université de Toulouse, 2025
 - Elie Leroy, Université Paris-Saclay, 2024
 - Gregoire Pierra, Université Claude Bernard Lyon 1, 2024
 - Paul Lageyre, Université de Bordeaux, 2021
+
+### Participation in HDR committees
+
+- Michele Mancarella, Aix-Marseille Université, 2026
 
 ### Refereed peer-review research journals
 
